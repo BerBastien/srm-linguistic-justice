@@ -1,0 +1,7492 @@
+{
+ "DI.excess_loss_ST_vs_M.w_area.CI_by_endangerment": {
+  "value": [
+   0.25010166975940323,
+   0.08100543330710398,
+   0.3619090316303071
+  ]
+ },
+ "DI.excess_loss_ST_vs_M.w_area.CI_by_speakers": {
+  "value": [
+   -0.22497547383120367,
+   -0.34991048387598844,
+   -0.045707297849052385
+  ]
+ },
+ "DI.excess_loss_ST_vs_M.w_area.Dying": {
+  "value": [
+   0.6249517530860703,
+   0.4429769314801281,
+   0.8363720861336698
+  ]
+ },
+ "DI.excess_loss_ST_vs_M.w_area.Endangered": {
+  "value": [
+   0.8468216201563091,
+   0.6401260547099222,
+   1.1048498404473521
+  ]
+ },
+ "DI.excess_loss_ST_vs_M.w_area.In_trouble": {
+  "value": [
+   0.8708220019667051,
+   0.6512420227512684,
+   1.142242631844871
+  ]
+ },
+ "DI.excess_loss_ST_vs_M.w_area.Institutional": {
+  "value": [
+   0.7906474402283468,
+   0.7063114583678616,
+   0.9149892776341841
+  ]
+ },
+ "DI.excess_loss_ST_vs_M.w_area.Stable": {
+  "value": [
+   1.6546102928176203,
+   1.2633679974990717,
+   2.0763447190604256
+  ]
+ },
+ "DI.excess_loss_ST_vs_M.w_lang.CI_by_endangerment": {
+  "value": [
+   -0.07697644758498394,
+   -0.08582506167393655,
+   -0.06793973918138405
+  ]
+ },
+ "DI.excess_loss_ST_vs_M.w_lang.CI_by_speakers": {
+  "value": [
+   0.13098680819654393,
+   0.12258670974473174,
+   0.13948355731202974
+  ]
+ },
+ "DI.excess_loss_ST_vs_M.w_lang.Dying": {
+  "value": [
+   0.6245676818121516,
+   0.5793534130485587,
+   0.6730089431058144
+  ]
+ },
+ "DI.excess_loss_ST_vs_M.w_lang.Endangered": {
+  "value": [
+   0.7950813481940515,
+   0.775904062775523,
+   0.8137867831850493
+  ]
+ },
+ "DI.excess_loss_ST_vs_M.w_lang.In_trouble": {
+  "value": [
+   0.8385012738509808,
+   0.816527184478417,
+   0.860682670908864
+  ]
+ },
+ "DI.excess_loss_ST_vs_M.w_lang.Institutional": {
+  "value": [
+   1.069619865713698,
+   1.0093145583938226,
+   1.130881071865608
+  ]
+ },
+ "DI.excess_loss_ST_vs_M.w_lang.Stable": {
+  "value": [
+   1.1459965337831792,
+   1.129989795351589,
+   1.1618773883926692
+  ]
+ },
+ "DI.excess_loss_ST_vs_M.w_spk.CI_by_endangerment": {
+  "value": [
+   0.17835337054723183,
+   0.09647792970305728,
+   0.28275503496194593
+  ]
+ },
+ "DI.excess_loss_ST_vs_M.w_spk.CI_by_speakers": {
+  "value": [
+   -0.14358512961765513,
+   -0.2588617461139927,
+   -0.061324839758434974
+  ]
+ },
+ "DI.excess_loss_ST_vs_M.w_spk.Dying": {
+  "value": [
+   0.9082139892585798,
+   0.5335588928416455,
+   1.4454978553425677
+  ]
+ },
+ "DI.excess_loss_ST_vs_M.w_spk.Endangered": {
+  "value": [
+   1.0244386457457855,
+   0.8302078030795663,
+   1.2639920118942083
+  ]
+ },
+ "DI.excess_loss_ST_vs_M.w_spk.In_trouble": {
+  "value": [
+   1.025462945853135,
+   0.8301034105261473,
+   1.269608506995645
+  ]
+ },
+ "DI.excess_loss_ST_vs_M.w_spk.Institutional": {
+  "value": [
+   0.921172347249229,
+   0.8589592909688627,
+   0.9585882253975999
+  ]
+ },
+ "DI.excess_loss_ST_vs_M.w_spk.Stable": {
+  "value": [
+   1.4909915016076094,
+   1.2487709778218121,
+   1.7996621016133596
+  ]
+ },
+ "DI.residual_drying.w_area.CI_by_endangerment": {
+  "value": [
+   0.3102569731429403,
+   0.09237248682416199,
+   0.46531250454197626
+  ]
+ },
+ "DI.residual_drying.w_area.CI_by_speakers": {
+  "value": [
+   -0.24681491015733364,
+   -0.4140607787510183,
+   0.01120141687256887
+  ]
+ },
+ "DI.residual_drying.w_area.Dying": {
+  "value": [
+   0.2918534122485812,
+   0.15844185422875412,
+   0.5383234147665173
+  ]
+ },
+ "DI.residual_drying.w_area.Endangered": {
+  "value": [
+   1.7797878884069886,
+   0.33235805367362464,
+   3.9607335997470323
+  ]
+ },
+ "DI.residual_drying.w_area.In_trouble": {
+  "value": [
+   1.9406971606473085,
+   0.3450836599273246,
+   4.292191998359473
+  ]
+ },
+ "DI.residual_drying.w_area.Institutional": {
+  "value": [
+   0.742787846886349,
+   0.44657478491871283,
+   1.0682008958325724
+  ]
+ },
+ "DI.residual_drying.w_area.Stable": {
+  "value": [
+   1.4883314411270636,
+   0.8341284300048271,
+   2.3207219186925085
+  ]
+ },
+ "DI.residual_drying.w_lang.CI_by_endangerment": {
+  "value": [
+   -0.05925137944238507,
+   -0.1054710851928465,
+   -0.01713513172802101
+  ]
+ },
+ "DI.residual_drying.w_lang.CI_by_speakers": {
+  "value": [
+   0.12387788180733472,
+   0.05099224927889317,
+   0.18974328362887005
+  ]
+ },
+ "DI.residual_drying.w_lang.Dying": {
+  "value": [
+   0.657857997567469,
+   0.5729986546002372,
+   0.7444952236827802
+  ]
+ },
+ "DI.residual_drying.w_lang.Endangered": {
+  "value": [
+   0.8701548830319625,
+   0.7619894388105974,
+   0.9913870495658363
+  ]
+ },
+ "DI.residual_drying.w_lang.In_trouble": {
+  "value": [
+   0.9241267656474074,
+   0.7918389484751344,
+   1.0713726580833753
+  ]
+ },
+ "DI.residual_drying.w_lang.Institutional": {
+  "value": [
+   1.2975865472559978,
+   0.9905462715548016,
+   1.6335249489257004
+  ]
+ },
+ "DI.residual_drying.w_lang.Stable": {
+  "value": [
+   1.0567353127673753,
+   0.9650465482166517,
+   1.1447762904895067
+  ]
+ },
+ "DI.residual_drying.w_spk.CI_by_endangerment": {
+  "value": [
+   0.29312711617919335,
+   0.0938462232383728,
+   0.4490576442800289
+  ]
+ },
+ "DI.residual_drying.w_spk.CI_by_speakers": {
+  "value": [
+   -0.2427944480922903,
+   -0.38985481201367095,
+   -0.0536744968114219
+  ]
+ },
+ "DI.residual_drying.w_spk.Dying": {
+  "value": [
+   0.8051216885485103,
+   0.37082839110900273,
+   1.3790222363466746
+  ]
+ },
+ "DI.residual_drying.w_spk.Endangered": {
+  "value": [
+   0.9453816216591796,
+   0.5395881954979405,
+   1.6815602072373845
+  ]
+ },
+ "DI.residual_drying.w_spk.In_trouble": {
+  "value": [
+   0.946615525761353,
+   0.5382785430683954,
+   1.6881988268230148
+  ]
+ },
+ "DI.residual_drying.w_spk.Institutional": {
+  "value": [
+   0.8219471729085017,
+   0.6248536492869614,
+   0.9785864608461255
+  ]
+ },
+ "DI.residual_drying.w_spk.Stable": {
+  "value": [
+   2.119966943566882,
+   1.1209157490827373,
+   3.5290524415512894
+  ]
+ },
+ "DI.residual_warming.w_area.CI_by_endangerment": {
+  "value": [
+   -0.17438194030766296,
+   -0.42038296123405067,
+   0.4353916197758739
+  ]
+ },
+ "DI.residual_warming.w_area.CI_by_speakers": {
+  "value": [
+   -0.06918707676060472,
+   -0.5763564742929154,
+   0.2729960017330691
+  ]
+ },
+ "DI.residual_warming.w_area.Dying": {
+  "value": [
+   1.7524908591748543,
+   0.6981688704084991,
+   5.250819092617574
+  ]
+ },
+ "DI.residual_warming.w_area.Endangered": {
+  "value": [
+   1.999366267140364,
+   0.8657221488142705,
+   5.018844861465155
+  ]
+ },
+ "DI.residual_warming.w_area.In_trouble": {
+  "value": [
+   2.0260640437335407,
+   0.8328705727587412,
+   5.109567477837519
+  ]
+ },
+ "DI.residual_warming.w_area.Institutional": {
+  "value": [
+   1.069080067859697,
+   0.48093126167356914,
+   1.2766935983229153
+  ]
+ },
+ "DI.residual_warming.w_area.Stable": {
+  "value": [
+   0.4743508247459495,
+   0.2067563596375303,
+   1.2584344720843488
+  ]
+ },
+ "DI.residual_warming.w_lang.CI_by_endangerment": {
+  "value": [
+   0.14835317066571996,
+   0.07880713502032924,
+   0.21634069160184322
+  ]
+ },
+ "DI.residual_warming.w_lang.CI_by_speakers": {
+  "value": [
+   0.04804315312954095,
+   -0.021623938390567886,
+   0.11677761739784122
+  ]
+ },
+ "DI.residual_warming.w_lang.Dying": {
+  "value": [
+   2.3603767090768555,
+   1.7921642569029292,
+   2.9828340720351783
+  ]
+ },
+ "DI.residual_warming.w_lang.Endangered": {
+  "value": [
+   1.194257122515948,
+   1.0517578563437764,
+   1.340252351416191
+  ]
+ },
+ "DI.residual_warming.w_lang.In_trouble": {
+  "value": [
+   0.897796487666161,
+   0.7233670439821792,
+   1.0830586628151015
+  ]
+ },
+ "DI.residual_warming.w_lang.Institutional": {
+  "value": [
+   1.0406874036942517,
+   0.635632219367837,
+   1.4622843765130213
+  ]
+ },
+ "DI.residual_warming.w_lang.Stable": {
+  "value": [
+   0.8466619886788939,
+   0.751005593747435,
+   0.95253041585568
+  ]
+ },
+ "DI.residual_warming.w_spk.CI_by_endangerment": {
+  "value": [
+   -0.35990806466846514,
+   -0.6305455779688216,
+   0.2548902757820413
+  ]
+ },
+ "DI.residual_warming.w_spk.CI_by_speakers": {
+  "value": [
+   -0.03616159687547534,
+   -0.6110842788326162,
+   0.35224437766027217
+  ]
+ },
+ "DI.residual_warming.w_spk.Dying": {
+  "value": [
+   1.4764596712079305,
+   0.4447048438276084,
+   6.111542366968777
+  ]
+ },
+ "DI.residual_warming.w_spk.Endangered": {
+  "value": [
+   1.1358214380564693,
+   0.4533569955661632,
+   3.9540053467159795
+  ]
+ },
+ "DI.residual_warming.w_spk.In_trouble": {
+  "value": [
+   1.1328247525175488,
+   0.4472637172040988,
+   3.9488937691672765
+  ]
+ },
+ "DI.residual_warming.w_spk.Institutional": {
+  "value": [
+   1.086305513636946,
+   0.8803508109046623,
+   1.1844996597318576
+  ]
+ },
+ "DI.residual_warming.w_spk.Stable": {
+  "value": [
+   0.4458518870712687,
+   0.18172917618892998,
+   1.487670483752611
+  ]
+ },
+ "DI.srm_cooling_bonus.w_area.CI_by_endangerment": {
+  "value": [
+   0.1964648136744581,
+   -0.005868096788101044,
+   0.381852628661851
+  ]
+ },
+ "DI.srm_cooling_bonus.w_area.CI_by_speakers": {
+  "value": [
+   -0.11077669153014737,
+   -0.30848070844430675,
+   0.08719099916938632
+  ]
+ },
+ "DI.srm_cooling_bonus.w_area.Dying": {
+  "value": [
+   0.817358568843852,
+   0.475851935890745,
+   1.2157015190198752
+  ]
+ },
+ "DI.srm_cooling_bonus.w_area.Endangered": {
+  "value": [
+   0.8147910348164003,
+   0.5811264431594174,
+   1.1580063966179581
+  ]
+ },
+ "DI.srm_cooling_bonus.w_area.In_trouble": {
+  "value": [
+   0.8145133747188427,
+   0.5829798969505403,
+   1.1690409783603806
+  ]
+ },
+ "DI.srm_cooling_bonus.w_area.Institutional": {
+  "value": [
+   0.8826431944235565,
+   0.7386781502470674,
+   1.0270771154327927
+  ]
+ },
+ "DI.srm_cooling_bonus.w_area.Stable": {
+  "value": [
+   1.3993661045927075,
+   1.0612533170954934,
+   1.8881608665100178
+  ]
+ },
+ "DI.srm_cooling_bonus.w_lang.CI_by_endangerment": {
+  "value": [
+   -0.028084067565167608,
+   -0.038461357945819924,
+   -0.018076666009825174
+  ]
+ },
+ "DI.srm_cooling_bonus.w_lang.CI_by_speakers": {
+  "value": [
+   0.05782289528842831,
+   0.04840480024543502,
+   0.06803114679644275
+  ]
+ },
+ "DI.srm_cooling_bonus.w_lang.Dying": {
+  "value": [
+   0.9049860194341952,
+   0.8442840595088434,
+   0.9714787462065986
+  ]
+ },
+ "DI.srm_cooling_bonus.w_lang.Endangered": {
+  "value": [
+   0.9372223363965334,
+   0.9160380748972942,
+   0.9587836424456486
+  ]
+ },
+ "DI.srm_cooling_bonus.w_lang.In_trouble": {
+  "value": [
+   0.9454177214170851,
+   0.9218158591599648,
+   0.9712336397935918
+  ]
+ },
+ "DI.srm_cooling_bonus.w_lang.Institutional": {
+  "value": [
+   1.07260082705491,
+   1.0148986258493102,
+   1.1382676200206745
+  ]
+ },
+ "DI.srm_cooling_bonus.w_lang.Stable": {
+  "value": [
+   1.0374726326695058,
+   1.020364040589761,
+   1.0536316876604157
+  ]
+ },
+ "DI.srm_cooling_bonus.w_spk.CI_by_endangerment": {
+  "value": [
+   0.16081838196532017,
+   0.05513487798960074,
+   0.26549228779528516
+  ]
+ },
+ "DI.srm_cooling_bonus.w_spk.CI_by_speakers": {
+  "value": [
+   -0.07904867091588993,
+   -0.18268211308332166,
+   0.047399939043167645
+  ]
+ },
+ "DI.srm_cooling_bonus.w_spk.Dying": {
+  "value": [
+   1.1014811206489337,
+   0.7197047920567943,
+   1.4954635087629538
+  ]
+ },
+ "DI.srm_cooling_bonus.w_spk.Endangered": {
+  "value": [
+   0.9123589686097501,
+   0.6452991494819298,
+   1.2262125891151507
+  ]
+ },
+ "DI.srm_cooling_bonus.w_spk.In_trouble": {
+  "value": [
+   0.9106952105140657,
+   0.6431036723504332,
+   1.2256926130296415
+  ]
+ },
+ "DI.srm_cooling_bonus.w_spk.Institutional": {
+  "value": [
+   0.9487272522425224,
+   0.8824141863940536,
+   0.9899920637501086
+  ]
+ },
+ "DI.srm_cooling_bonus.w_spk.Stable": {
+  "value": [
+   1.3299277503573834,
+   1.0836794382211445,
+   1.6592361885700957
+  ]
+ },
+ "DI.termination_premium.w_area.CI_by_endangerment": {
+  "value": [
+   0.25603585465393713,
+   0.07751591103180784,
+   0.3726034136641681
+  ]
+ },
+ "DI.termination_premium.w_area.CI_by_speakers": {
+  "value": [
+   -0.22382253043202963,
+   -0.3554173856177317,
+   -0.03502561336315058
+  ]
+ },
+ "DI.termination_premium.w_area.Dying": {
+  "value": [
+   0.6029362058477064,
+   0.41162766052960664,
+   0.8308709760587192
+  ]
+ },
+ "DI.termination_premium.w_area.Endangered": {
+  "value": [
+   0.8217851357949105,
+   0.6120551137021354,
+   1.079453012539096
+  ]
+ },
+ "DI.termination_premium.w_area.In_trouble": {
+  "value": [
+   0.8454587330566189,
+   0.6240791207438555,
+   1.12034173642638
+  ]
+ },
+ "DI.termination_premium.w_area.Institutional": {
+  "value": [
+   0.7929954920943959,
+   0.700055801535885,
+   0.9268736937378452
+  ]
+ },
+ "DI.termination_premium.w_area.Stable": {
+  "value": [
+   1.6559998111075531,
+   1.254881198585247,
+   2.086292854855473
+  ]
+ },
+ "DI.termination_premium.w_lang.CI_by_endangerment": {
+  "value": [
+   -0.07727848877082848,
+   -0.08613478372300343,
+   -0.06840207853925209
+  ]
+ },
+ "DI.termination_premium.w_lang.CI_by_speakers": {
+  "value": [
+   0.13174011599796176,
+   0.12334764522429016,
+   0.14020865065660737
+  ]
+ },
+ "DI.termination_premium.w_lang.Dying": {
+  "value": [
+   0.618031846507481,
+   0.5704853840530472,
+   0.6659007807410436
+  ]
+ },
+ "DI.termination_premium.w_lang.Endangered": {
+  "value": [
+   0.7976338578433899,
+   0.7788173453759066,
+   0.8172075907612821
+  ]
+ },
+ "DI.termination_premium.w_lang.In_trouble": {
+  "value": [
+   0.8433680570164597,
+   0.8207855069044221,
+   0.8654334119640539
+  ]
+ },
+ "DI.termination_premium.w_lang.Institutional": {
+  "value": [
+   1.0754295314498858,
+   1.0140363849275604,
+   1.1374989308547194
+  ]
+ },
+ "DI.termination_premium.w_lang.Stable": {
+  "value": [
+   1.1432492576558249,
+   1.1268871523320527,
+   1.1591704023326312
+  ]
+ },
+ "DI.termination_premium.w_spk.CI_by_endangerment": {
+  "value": [
+   0.1894495282176467,
+   0.09828680898559788,
+   0.2877141753519471
+  ]
+ },
+ "DI.termination_premium.w_spk.CI_by_speakers": {
+  "value": [
+   -0.14724060428116234,
+   -0.25990971709239497,
+   -0.05253093502733112
+  ]
+ },
+ "DI.termination_premium.w_spk.Dying": {
+  "value": [
+   0.8901546788376054,
+   0.5288408799275843,
+   1.4190339316187892
+  ]
+ },
+ "DI.termination_premium.w_spk.Endangered": {
+  "value": [
+   1.013143732931831,
+   0.8076033772259757,
+   1.2583337030024968
+  ]
+ },
+ "DI.termination_premium.w_spk.In_trouble": {
+  "value": [
+   1.0142276483859103,
+   0.8091649739775381,
+   1.2608809342891982
+  ]
+ },
+ "DI.termination_premium.w_spk.Institutional": {
+  "value": [
+   0.9186287711919806,
+   0.854688929579223,
+   0.9583441881373296
+  ]
+ },
+ "DI.termination_premium.w_spk.Stable": {
+  "value": [
+   1.508079677612314,
+   1.2458375000830573,
+   1.8397304899653553
+  ]
+ },
+ "RR.RP_drier.RR_ci_hi": {
+  "value": 1.0845842510013421
+ },
+ "RR.RP_drier.RR_ci_lo": {
+  "value": 1.0040062635818918
+ },
+ "RR.RP_drier.RR_dying_vs_inst": {
+  "value": 1.0196797293571487
+ },
+ "RR.RP_drier.RR_end_vs_non": {
+  "value": 1.0447048982054847
+ },
+ "RR.RP_drier.share_dying": {
+  "value": 0.6465696465696466
+ },
+ "RR.RP_drier.share_end": {
+  "value": 0.6679308891698272
+ },
+ "RR.RP_drier.share_inst": {
+  "value": 0.634090909090909
+ },
+ "RR.RP_drier.share_non": {
+  "value": 0.6393488633174291
+ },
+ "RR.RP_wetter.RR_ci_hi": {
+  "value": 1.1058156388793927
+ },
+ "RR.RP_wetter.RR_ci_lo": {
+  "value": 0.8686136817670616
+ },
+ "RR.RP_wetter.RR_dying_vs_inst": {
+  "value": 0.7318087318087318
+ },
+ "RR.RP_wetter.RR_end_vs_non": {
+  "value": 0.9805550538799591
+ },
+ "RR.RP_wetter.share_dying": {
+  "value": 0.1496881496881497
+ },
+ "RR.RP_wetter.share_end": {
+  "value": 0.16182048040455121
+ },
+ "RR.RP_wetter.share_inst": {
+  "value": 0.20454545454545456
+ },
+ "RR.RP_wetter.share_non": {
+  "value": 0.1650294695481336
+ },
+ "RR.R_cooler.RR_ci_hi": {
+  "value": 0.9635661872734625
+ },
+ "RR.R_cooler.RR_ci_lo": {
+  "value": 0.9038606438347017
+ },
+ "RR.R_cooler.RR_dying_vs_inst": {
+  "value": 0.8628789524311913
+ },
+ "RR.R_cooler.RR_end_vs_non": {
+  "value": 0.9337139095871863
+ },
+ "RR.R_cooler.share_dying": {
+  "value": 0.656964656964657
+ },
+ "RR.R_cooler.share_end": {
+  "value": 0.6999578592498946
+ },
+ "RR.R_cooler.share_inst": {
+  "value": 0.7613636363636364
+ },
+ "RR.R_cooler.share_non": {
+  "value": 0.7496491720460287
+ },
+ "RR.R_warmer.RR_ci_hi": {
+  "value": 1.378732006943285
+ },
+ "RR.R_warmer.RR_ci_lo": {
+  "value": 0.9008849557522124
+ },
+ "RR.R_warmer.RR_dying_vs_inst": {
+  "value": 2.3284823284823286
+ },
+ "RR.R_warmer.RR_end_vs_non": {
+  "value": 1.1160695975896393
+ },
+ "RR.R_warmer.share_dying": {
+  "value": 0.11642411642411643
+ },
+ "RR.R_warmer.share_end": {
+  "value": 0.05857564264643911
+ },
+ "RR.R_warmer.share_inst": {
+  "value": 0.05
+ },
+ "RR.R_warmer.share_non": {
+  "value": 0.052483861914117316
+ },
+ "RR.STminusM_gt3.RR_ci_hi": {
+  "value": 0.5621929435321292
+ },
+ "RR.STminusM_gt3.RR_ci_lo": {
+  "value": 0.48969023302471476
+ },
+ "RR.STminusM_gt3.RR_dying_vs_inst": {
+  "value": 0.36138702805369477
+ },
+ "RR.STminusM_gt3.RR_end_vs_non": {
+  "value": 0.5245032351081097
+ },
+ "RR.STminusM_gt3.share_dying": {
+  "value": 0.1995841995841996
+ },
+ "RR.STminusM_gt3.share_end": {
+  "value": 0.2945638432364096
+ },
+ "RR.STminusM_gt3.share_inst": {
+  "value": 0.5522727272727272
+ },
+ "RR.STminusM_gt3.share_non": {
+  "value": 0.561605388717373
+ },
+ "RR.premium_gt3.RR_ci_hi": {
+  "value": 0.5612514871312224
+ },
+ "RR.premium_gt3.RR_ci_lo": {
+  "value": 0.4886449331379586
+ },
+ "RR.premium_gt3.RR_dying_vs_inst": {
+  "value": 0.3606984094788973
+ },
+ "RR.premium_gt3.RR_end_vs_non": {
+  "value": 0.5236833325249532
+ },
+ "RR.premium_gt3.share_dying": {
+  "value": 0.20166320166320167
+ },
+ "RR.premium_gt3.share_end": {
+  "value": 0.2949852507374631
+ },
+ "RR.premium_gt3.share_inst": {
+  "value": 0.5590909090909091
+ },
+ "RR.premium_gt3.share_non": {
+  "value": 0.5632893628964356
+ },
+ "annex.False.All_living.RP_median": {
+  "value": -3.7835736832025555
+ },
+ "annex.False.All_living.R_mean": {
+  "value": -0.1621933808587044
+ },
+ "annex.False.All_living.econ_ST_minus_M_p50": {
+  "value": 3.6963360098500058
+ },
+ "annex.False.All_living.econ_premium_p50": {
+  "value": 4.0170215301331575
+ },
+ "annex.False.All_living.n": {
+  "value": 5522
+ },
+ "annex.False.Dying.RP_median": {
+  "value": -3.680578848579102
+ },
+ "annex.False.Dying.R_mean": {
+  "value": -0.15217603451573802
+ },
+ "annex.False.Dying.econ_ST_minus_M_p50": {
+  "value": 2.7761372765573666
+ },
+ "annex.False.Dying.econ_premium_p50": {
+  "value": 2.995813597676824
+ },
+ "annex.False.Dying.n": {
+  "value": 357
+ },
+ "annex.False.Endangered.RP_median": {
+  "value": -4.633743632289584
+ },
+ "annex.False.Endangered.R_mean": {
+  "value": -0.15644996751575588
+ },
+ "annex.False.Endangered.econ_ST_minus_M_p50": {
+  "value": 3.0754663217244778
+ },
+ "annex.False.Endangered.econ_premium_p50": {
+  "value": 3.368251946930637
+ },
+ "annex.False.Endangered.n": {
+  "value": 2077
+ },
+ "annex.False.In_trouble.RP_median": {
+  "value": -4.797979483987626
+ },
+ "annex.False.In_trouble.R_mean": {
+  "value": -0.15733705709773635
+ },
+ "annex.False.In_trouble.econ_ST_minus_M_p50": {
+  "value": 3.1376010972810278
+ },
+ "annex.False.In_trouble.econ_premium_p50": {
+  "value": 3.4465083571732804
+ },
+ "annex.False.In_trouble.n": {
+  "value": 1720
+ },
+ "annex.False.Institutional.RP_median": {
+  "value": -3.6855832156920836
+ },
+ "annex.False.Institutional.R_mean": {
+  "value": -0.18958635449078995
+ },
+ "annex.False.Institutional.econ_ST_minus_M_p50": {
+  "value": 4.09468055418043
+ },
+ "annex.False.Institutional.econ_premium_p50": {
+  "value": 4.501504841160283
+ },
+ "annex.False.Institutional.n": {
+  "value": 387
+ },
+ "annex.False.Not_endangered.RP_median": {
+  "value": -3.473387909354501
+ },
+ "annex.False.Not_endangered.R_mean": {
+  "value": -0.16565610060131813
+ },
+ "annex.False.Not_endangered.econ_ST_minus_M_p50": {
+  "value": 4.088123517013255
+ },
+ "annex.False.Not_endangered.econ_premium_p50": {
+  "value": 4.406631403642804
+ },
+ "annex.False.Not_endangered.n": {
+  "value": 3445
+ },
+ "annex.False.Stable.RP_median": {
+  "value": -3.4182009922237087
+ },
+ "annex.False.Stable.R_mean": {
+  "value": -0.16262764793446866
+ },
+ "annex.False.Stable.econ_ST_minus_M_p50": {
+  "value": 4.087299584849541
+ },
+ "annex.False.Stable.econ_premium_p50": {
+  "value": 4.399507433211491
+ },
+ "annex.False.Stable.n": {
+  "value": 3058
+ },
+ "annex.True.All_living.RP_median": {
+  "value": -4.236073146601415
+ },
+ "annex.True.All_living.R_mean": {
+  "value": -0.00592232526486801
+ },
+ "annex.True.All_living.econ_ST_minus_M_p50": {
+  "value": 0.5132181178103514
+ },
+ "annex.True.All_living.econ_premium_p50": {
+  "value": 0.4774593987879237
+ },
+ "annex.True.All_living.n": {
+  "value": 414
+ },
+ "annex.True.Dying.RP_median": {
+  "value": -2.993673610454045
+ },
+ "annex.True.Dying.R_mean": {
+  "value": 0.01156113467961039
+ },
+ "annex.True.Dying.econ_ST_minus_M_p50": {
+  "value": 0.4358078290802097
+ },
+ "annex.True.Dying.econ_premium_p50": {
+  "value": 0.3886403777841446
+ },
+ "annex.True.Dying.n": {
+  "value": 124
+ },
+ "annex.True.Endangered.RP_median": {
+  "value": -3.4106574466934068
+ },
+ "annex.True.Endangered.R_mean": {
+  "value": -0.0008116956877993081
+ },
+ "annex.True.Endangered.econ_ST_minus_M_p50": {
+  "value": 0.4873965679670242
+ },
+ "annex.True.Endangered.econ_premium_p50": {
+  "value": 0.4412899848706891
+ },
+ "annex.True.Endangered.n": {
+  "value": 296
+ },
+ "annex.True.In_trouble.RP_median": {
+  "value": -3.637878102258449
+ },
+ "annex.True.In_trouble.R_mean": {
+  "value": -0.009731643161978394
+ },
+ "annex.True.In_trouble.econ_ST_minus_M_p50": {
+  "value": 0.5250260010374079
+ },
+ "annex.True.In_trouble.econ_premium_p50": {
+  "value": 0.47906997896389264
+ },
+ "annex.True.In_trouble.n": {
+  "value": 172
+ },
+ "annex.True.Institutional.RP_median": {
+  "value": -5.120465223163306
+ },
+ "annex.True.Institutional.R_mean": {
+  "value": 0.03221340093059588
+ },
+ "annex.True.Institutional.econ_ST_minus_M_p50": {
+  "value": 0.5481913872102977
+ },
+ "annex.True.Institutional.econ_premium_p50": {
+  "value": 0.5518733766983566
+ },
+ "annex.True.Institutional.n": {
+  "value": 53
+ },
+ "annex.True.Not_endangered.RP_median": {
+  "value": -5.594111883707934
+ },
+ "annex.True.Not_endangered.R_mean": {
+  "value": -0.018742209627684372
+ },
+ "annex.True.Not_endangered.econ_ST_minus_M_p50": {
+  "value": 0.5813947091183429
+ },
+ "annex.True.Not_endangered.econ_premium_p50": {
+  "value": 0.5699847159822131
+ },
+ "annex.True.Not_endangered.n": {
+  "value": 118
+ },
+ "annex.True.Stable.RP_median": {
+  "value": -5.820887754136756
+ },
+ "annex.True.Stable.R_mean": {
+  "value": -0.06029063054443597
+ },
+ "annex.True.Stable.econ_ST_minus_M_p50": {
+  "value": 0.6099987966221461
+ },
+ "annex.True.Stable.econ_premium_p50": {
+  "value": 0.5839165154313337
+ },
+ "annex.True.Stable.n": {
+  "value": 65
+ },
+ "annex.share_all_outside_annexI": {
+  "value": 0.930256064690027
+ },
+ "annex.share_endangered_outside_annexI": {
+  "value": 0.8752633796881585
+ },
+ "base.check_member_mean_R_vs_map_maxabs": {
+  "value": 0.043878713180793505
+ },
+ "base.check_units_vs_module_maxabs": {
+  "value": 0.0
+ },
+ "base.cooler.economy.ensemble_mean_climate": {
+  "value": 0.6862283567886472
+ },
+ "base.cooler.economy.member_p17_p50_p83": {
+  "value": [
+   0.292262964898372,
+   0.5559208677542848,
+   0.6473303346763902
+  ]
+ },
+ "base.cooler.economy.n_members_ratio_gt1": {
+  "value": 36
+ },
+ "base.cooler.economy.ratio_member_p17_p50_p83": {
+  "value": [
+   0.8036630606614099,
+   1.0331502372287136,
+   1.1360129859987207
+  ]
+ },
+ "base.cooler.economy.ratio_vs_land": {
+  "value": 1.1592513897619163
+ },
+ "base.cooler.institutional_languages.ensemble_mean_climate": {
+  "value": 0.7496799550527016
+ },
+ "base.cooler.institutional_languages.member_p17_p50_p83": {
+  "value": [
+   0.3238793853014479,
+   0.6347828533828563,
+   0.7695221079104705
+  ]
+ },
+ "base.cooler.institutional_languages.n_members_ratio_gt1": {
+  "value": 30
+ },
+ "base.cooler.institutional_languages.ratio_member_p17_p50_p83": {
+  "value": [
+   0.7400124958875781,
+   1.1252722872428484,
+   1.507079114353586
+  ]
+ },
+ "base.cooler.institutional_languages.ratio_vs_land": {
+  "value": 1.2664407134652422
+ },
+ "base.cooler.land.ensemble_mean_climate": {
+  "value": 0.5919581920273418
+ },
+ "base.cooler.land.member_p17_p50_p83": {
+  "value": [
+   0.37582687994239805,
+   0.5138805154782631,
+   0.5946717388671054
+  ]
+ },
+ "base.cooler.land.n_members_ratio_gt1": {
+  "value": 0
+ },
+ "base.cooler.land.ratio_member_p17_p50_p83": {
+  "value": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "base.cooler.land.ratio_vs_land": {
+  "value": 1.0
+ },
+ "base.cooler.language_lineages.ensemble_mean_climate": {
+  "value": 0.6414916905822189
+ },
+ "base.cooler.language_lineages.member_p17_p50_p83": {
+  "value": [
+   0.28005087406968776,
+   0.5940294066341368,
+   0.8521079860577009
+  ]
+ },
+ "base.cooler.language_lineages.n_members_ratio_gt1": {
+  "value": 30
+ },
+ "base.cooler.language_lineages.ratio_member_p17_p50_p83": {
+  "value": [
+   0.6041033882692157,
+   1.0268347877824298,
+   1.553490921261953
+  ]
+ },
+ "base.cooler.language_lineages.ratio_vs_land": {
+  "value": 1.0836773596885863
+ },
+ "base.cooler.linguistic_diversity_hotspots.ensemble_mean_climate": {
+  "value": 0.7767180092183098
+ },
+ "base.cooler.linguistic_diversity_hotspots.member_p17_p50_p83": {
+  "value": [
+   0.3020514721564819,
+   0.723302533918489,
+   0.8899753368220744
+  ]
+ },
+ "base.cooler.linguistic_diversity_hotspots.n_members_ratio_gt1": {
+  "value": 32
+ },
+ "base.cooler.linguistic_diversity_hotspots.ratio_member_p17_p50_p83": {
+  "value": [
+   0.7472188471152095,
+   1.2453215330793905,
+   1.712394909879242
+  ]
+ },
+ "base.cooler.linguistic_diversity_hotspots.ratio_vs_land": {
+  "value": 1.3121163279423527
+ },
+ "base.cooler.non_institutional_languages.ensemble_mean_climate": {
+  "value": 0.7228696589695961
+ },
+ "base.cooler.non_institutional_languages.member_p17_p50_p83": {
+  "value": [
+   0.2609553146488664,
+   0.6682155666233953,
+   0.8316441437273067
+  ]
+ },
+ "base.cooler.non_institutional_languages.n_members_ratio_gt1": {
+  "value": 30
+ },
+ "base.cooler.non_institutional_languages.ratio_member_p17_p50_p83": {
+  "value": [
+   0.6380247790517227,
+   1.1948352287296458,
+   1.6366511254161247
+  ]
+ },
+ "base.cooler.non_institutional_languages.ratio_vs_land": {
+  "value": 1.2211498526507556
+ },
+ "base.cooler.people.ensemble_mean_climate": {
+  "value": 0.7072366503306561
+ },
+ "base.cooler.people.member_p17_p50_p83": {
+  "value": [
+   0.32995071614633537,
+   0.5850523700695615,
+   0.7291127463374149
+  ]
+ },
+ "base.cooler.people.n_members_ratio_gt1": {
+  "value": 37
+ },
+ "base.cooler.people.ratio_member_p17_p50_p83": {
+  "value": [
+   0.7406810745833441,
+   1.1102507238623815,
+   1.3875472878845179
+  ]
+ },
+ "base.cooler.people.ratio_vs_land": {
+  "value": 1.194740878419991
+ },
+ "base.cooler.populated_land.ensemble_mean_climate": {
+  "value": 0.576859797503834
+ },
+ "base.cooler.populated_land.member_p17_p50_p83": {
+  "value": [
+   0.32276399850423176,
+   0.5015079661390495,
+   0.6173557631849717
+  ]
+ },
+ "base.cooler.populated_land.n_members_ratio_gt1": {
+  "value": 20
+ },
+ "base.cooler.populated_land.ratio_member_p17_p50_p83": {
+  "value": [
+   0.8613801272983472,
+   0.9556579945174329,
+   1.0388601059747993
+  ]
+ },
+ "base.cooler.populated_land.ratio_vs_land": {
+  "value": 0.9744941539337453
+ },
+ "base.drier.economy.ensemble_mean_climate": {
+  "value": 0.5082680003552549
+ },
+ "base.drier.economy.member_p17_p50_p83": {
+  "value": [
+   0.34449752430667724,
+   0.4750555731306739,
+   0.6613869743774509
+  ]
+ },
+ "base.drier.economy.n_members_ratio_gt1": {
+  "value": 23
+ },
+ "base.drier.economy.ratio_member_p17_p50_p83": {
+  "value": [
+   0.74195959541497,
+   0.8948488188365425,
+   1.0788349205943089
+  ]
+ },
+ "base.drier.economy.ratio_vs_land": {
+  "value": 0.9227773247387211
+ },
+ "base.drier.institutional_languages.ensemble_mean_climate": {
+  "value": 0.6200092702798287
+ },
+ "base.drier.institutional_languages.member_p17_p50_p83": {
+  "value": [
+   0.48771744811885004,
+   0.5729183036124874,
+   0.6803934016153075
+  ]
+ },
+ "base.drier.institutional_languages.n_members_ratio_gt1": {
+  "value": 44
+ },
+ "base.drier.institutional_languages.ratio_member_p17_p50_p83": {
+  "value": [
+   0.9557197027222603,
+   1.126252080308482,
+   1.2092817055359
+  ]
+ },
+ "base.drier.institutional_languages.ratio_vs_land": {
+  "value": 1.1256472871440564
+ },
+ "base.drier.land.ensemble_mean_climate": {
+  "value": 0.5508024381712759
+ },
+ "base.drier.land.member_p17_p50_p83": {
+  "value": [
+   0.44265861477735946,
+   0.5366442782441263,
+   0.6466130904490232
+  ]
+ },
+ "base.drier.land.n_members_ratio_gt1": {
+  "value": 0
+ },
+ "base.drier.land.ratio_member_p17_p50_p83": {
+  "value": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "base.drier.land.ratio_vs_land": {
+  "value": 1.0
+ },
+ "base.drier.language_lineages.ensemble_mean_climate": {
+  "value": 0.7134136742475118
+ },
+ "base.drier.language_lineages.member_p17_p50_p83": {
+  "value": [
+   0.5808453776787853,
+   0.6412530887664749,
+   0.7469082275329738
+  ]
+ },
+ "base.drier.language_lineages.n_members_ratio_gt1": {
+  "value": 60
+ },
+ "base.drier.language_lineages.ratio_member_p17_p50_p83": {
+  "value": [
+   1.064969550978881,
+   1.2459947752525333,
+   1.4140737336819977
+  ]
+ },
+ "base.drier.language_lineages.ratio_vs_land": {
+  "value": 1.2952260643873017
+ },
+ "base.drier.language_lineages_vs_economy.n_members_gt": {
+  "value": 52
+ },
+ "base.drier.language_lineages_vs_economy.ratio_member_p17_p50_p83": {
+  "value": [
+   1.1413442398694296,
+   1.2953260070989898,
+   1.701048674414586
+  ]
+ },
+ "base.drier.language_lineages_vs_people.n_members_gt": {
+  "value": 60
+ },
+ "base.drier.language_lineages_vs_people.ratio_member_p17_p50_p83": {
+  "value": [
+   1.102535907724441,
+   1.3760980402479346,
+   1.5179914264783425
+  ]
+ },
+ "base.drier.language_lineages_vs_populated_land.n_members_gt": {
+  "value": 60
+ },
+ "base.drier.language_lineages_vs_populated_land.ratio_member_p17_p50_p83": {
+  "value": [
+   1.0483434167704333,
+   1.2108560499234422,
+   1.3902219888025114
+  ]
+ },
+ "base.drier.linguistic_diversity_hotspots.ensemble_mean_climate": {
+  "value": 0.6906304426113793
+ },
+ "base.drier.linguistic_diversity_hotspots.member_p17_p50_p83": {
+  "value": [
+   0.5282969190143633,
+   0.6430343803846781,
+   0.7106422364441122
+  ]
+ },
+ "base.drier.linguistic_diversity_hotspots.n_members_ratio_gt1": {
+  "value": 49
+ },
+ "base.drier.linguistic_diversity_hotspots.ratio_member_p17_p50_p83": {
+  "value": [
+   0.9995991197027733,
+   1.1971529184400524,
+   1.4134775555722936
+  ]
+ },
+ "base.drier.linguistic_diversity_hotspots.ratio_vs_land": {
+  "value": 1.25386235562854
+ },
+ "base.drier.linguistic_diversity_hotspots_vs_economy.n_members_gt": {
+  "value": 45
+ },
+ "base.drier.linguistic_diversity_hotspots_vs_economy.ratio_member_p17_p50_p83": {
+  "value": [
+   0.949068674969465,
+   1.1421610182654827,
+   1.7387645316233926
+  ]
+ },
+ "base.drier.linguistic_diversity_hotspots_vs_people.n_members_gt": {
+  "value": 50
+ },
+ "base.drier.linguistic_diversity_hotspots_vs_people.ratio_member_p17_p50_p83": {
+  "value": [
+   1.0209228720086378,
+   1.228645391186726,
+   1.5506707712379921
+  ]
+ },
+ "base.drier.linguistic_diversity_hotspots_vs_populated_land.n_members_gt": {
+  "value": 49
+ },
+ "base.drier.linguistic_diversity_hotspots_vs_populated_land.ratio_member_p17_p50_p83": {
+  "value": [
+   0.9792424147216781,
+   1.170566079032596,
+   1.3726470416628727
+  ]
+ },
+ "base.drier.non_institutional_languages.ensemble_mean_climate": {
+  "value": 0.6531576010863507
+ },
+ "base.drier.non_institutional_languages.member_p17_p50_p83": {
+  "value": [
+   0.5029328422294785,
+   0.5952172943306527,
+   0.6903105662790558
+  ]
+ },
+ "base.drier.non_institutional_languages.n_members_ratio_gt1": {
+  "value": 50
+ },
+ "base.drier.non_institutional_languages.ratio_member_p17_p50_p83": {
+  "value": [
+   1.0071882151668015,
+   1.175445253866813,
+   1.2704827259910694
+  ]
+ },
+ "base.drier.non_institutional_languages.ratio_vs_land": {
+  "value": 1.185829175438847
+ },
+ "base.drier.non_institutional_languages_vs_economy.n_members_gt": {
+  "value": 46
+ },
+ "base.drier.non_institutional_languages_vs_economy.ratio_member_p17_p50_p83": {
+  "value": [
+   0.9621706786324986,
+   1.1476529258667796,
+   1.501846051497665
+  ]
+ },
+ "base.drier.non_institutional_languages_vs_people.n_members_gt": {
+  "value": 50
+ },
+ "base.drier.non_institutional_languages_vs_people.ratio_member_p17_p50_p83": {
+  "value": [
+   1.0806930871886384,
+   1.1862966860302613,
+   1.3431395208207515
+  ]
+ },
+ "base.drier.non_institutional_languages_vs_populated_land.n_members_gt": {
+  "value": 49
+ },
+ "base.drier.non_institutional_languages_vs_populated_land.ratio_member_p17_p50_p83": {
+  "value": [
+   0.9866729470196063,
+   1.1384736450687,
+   1.2498805208305166
+  ]
+ },
+ "base.drier.people.ensemble_mean_climate": {
+  "value": 0.5276061855674692
+ },
+ "base.drier.people.member_p17_p50_p83": {
+  "value": [
+   0.39777569317982153,
+   0.46083696900144866,
+   0.6176401804478069
+  ]
+ },
+ "base.drier.people.n_members_ratio_gt1": {
+  "value": 14
+ },
+ "base.drier.people.ratio_member_p17_p50_p83": {
+  "value": [
+   0.8242094047677647,
+   0.9296248426705765,
+   1.0537727582057768
+  ]
+ },
+ "base.drier.people.ratio_vs_land": {
+  "value": 0.9578864380469686
+ },
+ "base.drier.populated_land.ensemble_mean_climate": {
+  "value": 0.5629441008258779
+ },
+ "base.drier.populated_land.member_p17_p50_p83": {
+  "value": [
+   0.4473359640213303,
+   0.5475395775666442,
+   0.6576742981997109
+  ]
+ },
+ "base.drier.populated_land.n_members_ratio_gt1": {
+  "value": 49
+ },
+ "base.drier.populated_land.ratio_member_p17_p50_p83": {
+  "value": [
+   0.9994255890975392,
+   1.021661158624696,
+   1.0389998775233444
+  ]
+ },
+ "base.drier.populated_land.ratio_vs_land": {
+  "value": 1.0220435891585984
+ },
+ "base.lineages.n_mostly_cooler": {
+  "value": 179
+ },
+ "base.lineages.n_mostly_warmer": {
+  "value": 14
+ },
+ "base.odds.economy.dry_to_wet": {
+  "value": 2.0456222905448107
+ },
+ "base.odds.economy.member_p17_p50_p83": {
+  "value": [
+   0.8749270605023249,
+   1.5779258497812954,
+   3.1085691996237697
+  ]
+ },
+ "base.odds.economy.n_members_above_land": {
+  "value": 25
+ },
+ "base.odds.institutional_languages.dry_to_wet": {
+  "value": 2.887150786809238
+ },
+ "base.odds.institutional_languages.member_p17_p50_p83": {
+  "value": [
+   1.4246898311550713,
+   2.1802495225366867,
+   3.561625189605114
+  ]
+ },
+ "base.odds.institutional_languages.n_members_above_land": {
+  "value": 42
+ },
+ "base.odds.land.dry_to_wet": {
+  "value": 2.0725127242614145
+ },
+ "base.odds.land.member_p17_p50_p83": {
+  "value": [
+   1.275090646604355,
+   1.8710634919624693,
+   2.551248846982284
+  ]
+ },
+ "base.odds.land.n_members_above_land": {
+  "value": 0
+ },
+ "base.odds.language_lineages.dry_to_wet": {
+  "value": 5.401326726705541
+ },
+ "base.odds.language_lineages.member_p17_p50_p83": {
+  "value": [
+   2.761575764190081,
+   3.631543340437629,
+   5.190024867112152
+  ]
+ },
+ "base.odds.language_lineages.n_members_above_land": {
+  "value": 60
+ },
+ "base.odds.linguistic_diversity_hotspots.dry_to_wet": {
+  "value": 5.090949141825752
+ },
+ "base.odds.linguistic_diversity_hotspots.member_p17_p50_p83": {
+  "value": [
+   2.9834363844495178,
+   3.9522847905400207,
+   5.321883819824317
+  ]
+ },
+ "base.odds.linguistic_diversity_hotspots.n_members_above_land": {
+  "value": 50
+ },
+ "base.odds.non_institutional_languages.dry_to_wet": {
+  "value": 4.026231926859673
+ },
+ "base.odds.non_institutional_languages.member_p17_p50_p83": {
+  "value": [
+   2.080806816667859,
+   3.0603562258073707,
+   3.9627999251380714
+  ]
+ },
+ "base.odds.non_institutional_languages.n_members_above_land": {
+  "value": 50
+ },
+ "base.odds.people.dry_to_wet": {
+  "value": 1.8482540226288406
+ },
+ "base.odds.people.member_p17_p50_p83": {
+  "value": [
+   0.9314658006752341,
+   1.3371877208366723,
+   2.033728506990231
+  ]
+ },
+ "base.odds.people.n_members_above_land": {
+  "value": 16
+ },
+ "base.odds.populated_land.dry_to_wet": {
+  "value": 2.1639308030970796
+ },
+ "base.odds.populated_land.member_p17_p50_p83": {
+  "value": [
+   1.3001582332381485,
+   1.8871640111155084,
+   2.6482979163829663
+  ]
+ },
+ "base.odds.populated_land.n_members_above_land": {
+  "value": 46
+ },
+ "base.warmer.economy.ensemble_mean_climate": {
+  "value": 0.15054286883695372
+ },
+ "base.warmer.economy.member_p17_p50_p83": {
+  "value": [
+   0.14489441382251744,
+   0.22099223630943648,
+   0.3777502131107243
+  ]
+ },
+ "base.warmer.economy.n_members_ratio_gt1": {
+  "value": 10
+ },
+ "base.warmer.economy.ratio_member_p17_p50_p83": {
+  "value": [
+   0.5854405100457768,
+   0.8016847233305189,
+   0.9906940426653299
+  ]
+ },
+ "base.warmer.economy.ratio_vs_land": {
+  "value": 0.6944696366744391
+ },
+ "base.warmer.institutional_languages.ensemble_mean_climate": {
+  "value": 0.05497437812406729
+ },
+ "base.warmer.institutional_languages.member_p17_p50_p83": {
+  "value": [
+   0.0762116887053351,
+   0.17008400733979906,
+   0.314603467510116
+  ]
+ },
+ "base.warmer.institutional_languages.n_members_ratio_gt1": {
+  "value": 20
+ },
+ "base.warmer.institutional_languages.ratio_member_p17_p50_p83": {
+  "value": [
+   0.2777771412370783,
+   0.509357363754549,
+   1.104557809641122
+  ]
+ },
+ "base.warmer.institutional_languages.ratio_vs_land": {
+  "value": 0.2536024236629446
+ },
+ "base.warmer.land.ensemble_mean_climate": {
+  "value": 0.21677386726055933
+ },
+ "base.warmer.land.member_p17_p50_p83": {
+  "value": [
+   0.19579697694429335,
+   0.3042925920862707,
+   0.36993339489314897
+  ]
+ },
+ "base.warmer.land.n_members_ratio_gt1": {
+  "value": 0
+ },
+ "base.warmer.land.ratio_member_p17_p50_p83": {
+  "value": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "base.warmer.land.ratio_vs_land": {
+  "value": 1.0
+ },
+ "base.warmer.language_lineages.ensemble_mean_climate": {
+  "value": 0.056246603345238164
+ },
+ "base.warmer.language_lineages.member_p17_p50_p83": {
+  "value": [
+   0.058958500128286594,
+   0.1116757880623527,
+   0.3924307738723396
+  ]
+ },
+ "base.warmer.language_lineages.n_members_ratio_gt1": {
+  "value": 13
+ },
+ "base.warmer.language_lineages.ratio_member_p17_p50_p83": {
+  "value": [
+   0.24274651527375363,
+   0.3614507584804878,
+   1.37708484500953
+  ]
+ },
+ "base.warmer.language_lineages.ratio_vs_land": {
+  "value": 0.25947132860636973
+ },
+ "base.warmer.linguistic_diversity_hotspots.ensemble_mean_climate": {
+  "value": 0.010523732568455551
+ },
+ "base.warmer.linguistic_diversity_hotspots.member_p17_p50_p83": {
+  "value": [
+   0.0043256754606680915,
+   0.052707295748584446,
+   0.290117007045131
+  ]
+ },
+ "base.warmer.linguistic_diversity_hotspots.n_members_ratio_gt1": {
+  "value": 11
+ },
+ "base.warmer.linguistic_diversity_hotspots.ratio_member_p17_p50_p83": {
+  "value": [
+   0.02976784067912807,
+   0.2171223129996124,
+   1.0179937601855187
+  ]
+ },
+ "base.warmer.linguistic_diversity_hotspots.ratio_vs_land": {
+  "value": 0.048547053671401094
+ },
+ "base.warmer.non_institutional_languages.ensemble_mean_climate": {
+  "value": 0.05624172822840338
+ },
+ "base.warmer.non_institutional_languages.member_p17_p50_p83": {
+  "value": [
+   0.03388009246759291,
+   0.1101681153795275,
+   0.3326571458321353
+  ]
+ },
+ "base.warmer.non_institutional_languages.n_members_ratio_gt1": {
+  "value": 13
+ },
+ "base.warmer.non_institutional_languages.ratio_member_p17_p50_p83": {
+  "value": [
+   0.15251077433739296,
+   0.3536306897254091,
+   1.1673766474254514
+  ]
+ },
+ "base.warmer.non_institutional_languages.ratio_vs_land": {
+  "value": 0.25944883919426304
+ },
+ "base.warmer.people.ensemble_mean_climate": {
+  "value": 0.08175855903089523
+ },
+ "base.warmer.people.member_p17_p50_p83": {
+  "value": [
+   0.09863984416755663,
+   0.2013191038748779,
+   0.28949815341570656
+  ]
+ },
+ "base.warmer.people.n_members_ratio_gt1": {
+  "value": 9
+ },
+ "base.warmer.people.ratio_member_p17_p50_p83": {
+  "value": [
+   0.3507051467797713,
+   0.7140649766772657,
+   0.918896855826309
+  ]
+ },
+ "base.warmer.people.ratio_vs_land": {
+  "value": 0.37716058703986916
+ },
+ "base.warmer.populated_land.ensemble_mean_climate": {
+  "value": 0.2110263817446023
+ },
+ "base.warmer.populated_land.member_p17_p50_p83": {
+  "value": [
+   0.19424613418127307,
+   0.2919121101254029,
+   0.39322567390562807
+  ]
+ },
+ "base.warmer.populated_land.n_members_ratio_gt1": {
+  "value": 39
+ },
+ "base.warmer.populated_land.ratio_member_p17_p50_p83": {
+  "value": [
+   0.8530316980918689,
+   1.027590318752082,
+   1.0593015603474119
+  ]
+ },
+ "base.warmer.populated_land.ratio_vs_land": {
+  "value": 0.9734862620269231
+ },
+ "base.wetter.economy.ensemble_mean_climate": {
+  "value": 0.24846620155859167
+ },
+ "base.wetter.economy.member_p17_p50_p83": {
+  "value": [
+   0.2277160086757861,
+   0.30307188019630127,
+   0.39280223286943283
+  ]
+ },
+ "base.wetter.economy.n_members_ratio_gt1": {
+  "value": 27
+ },
+ "base.wetter.economy.ratio_member_p17_p50_p83": {
+  "value": [
+   0.8766221860843082,
+   0.9760089129824339,
+   1.292744839300488
+  ]
+ },
+ "base.wetter.economy.ratio_vs_land": {
+  "value": 0.9349075613912867
+ },
+ "base.wetter.institutional_languages.ensemble_mean_climate": {
+  "value": 0.21474779672489425
+ },
+ "base.wetter.institutional_languages.member_p17_p50_p83": {
+  "value": [
+   0.18921148850346378,
+   0.2818000032117573,
+   0.34296026862871376
+  ]
+ },
+ "base.wetter.institutional_languages.n_members_ratio_gt1": {
+  "value": 26
+ },
+ "base.wetter.institutional_languages.ratio_member_p17_p50_p83": {
+  "value": [
+   0.6794897762748772,
+   0.9101832782911654,
+   1.0874742330785998
+  ]
+ },
+ "base.wetter.institutional_languages.ratio_vs_land": {
+  "value": 0.8080348059044905
+ },
+ "base.wetter.land.ensemble_mean_climate": {
+  "value": 0.26576552786548824
+ },
+ "base.wetter.land.member_p17_p50_p83": {
+  "value": [
+   0.25276441371875724,
+   0.28322643726391905,
+   0.3400342687746848
+  ]
+ },
+ "base.wetter.land.n_members_ratio_gt1": {
+  "value": 0
+ },
+ "base.wetter.land.ratio_member_p17_p50_p83": {
+  "value": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "base.wetter.land.ratio_vs_land": {
+  "value": 1.0
+ },
+ "base.wetter.language_lineages.ensemble_mean_climate": {
+  "value": 0.1320811923337672
+ },
+ "base.wetter.language_lineages.member_p17_p50_p83": {
+  "value": [
+   0.1293063246259587,
+   0.171649146466186,
+   0.21365895950348324
+  ]
+ },
+ "base.wetter.language_lineages.n_members_ratio_gt1": {
+  "value": 0
+ },
+ "base.wetter.language_lineages.ratio_member_p17_p50_p83": {
+  "value": [
+   0.4931629752284458,
+   0.6162800739969561,
+   0.6563758828216348
+  ]
+ },
+ "base.wetter.language_lineages.ratio_vs_land": {
+  "value": 0.49698391433450834
+ },
+ "base.wetter.linguistic_diversity_hotspots.ensemble_mean_climate": {
+  "value": 0.13565848398236022
+ },
+ "base.wetter.linguistic_diversity_hotspots.member_p17_p50_p83": {
+  "value": [
+   0.131275626726622,
+   0.1613771392435805,
+   0.21297344144409674
+  ]
+ },
+ "base.wetter.linguistic_diversity_hotspots.n_members_ratio_gt1": {
+  "value": 9
+ },
+ "base.wetter.linguistic_diversity_hotspots.ratio_member_p17_p50_p83": {
+  "value": [
+   0.41842810965452554,
+   0.5549923975132249,
+   0.8105888609241604
+  ]
+ },
+ "base.wetter.linguistic_diversity_hotspots.ratio_vs_land": {
+  "value": 0.5104442441121294
+ },
+ "base.wetter.non_institutional_languages.ensemble_mean_climate": {
+  "value": 0.162225528223803
+ },
+ "base.wetter.non_institutional_languages.member_p17_p50_p83": {
+  "value": [
+   0.16861033596299987,
+   0.20465625709021085,
+   0.2570189709004676
+  ]
+ },
+ "base.wetter.non_institutional_languages.n_members_ratio_gt1": {
+  "value": 10
+ },
+ "base.wetter.non_institutional_languages.ratio_member_p17_p50_p83": {
+  "value": [
+   0.5987479320717622,
+   0.6923499983666022,
+   0.79365960398269
+  ]
+ },
+ "base.wetter.non_institutional_languages.ratio_vs_land": {
+  "value": 0.6104084661646191
+ },
+ "base.wetter.people.ensemble_mean_climate": {
+  "value": 0.28546194360071525
+ },
+ "base.wetter.people.member_p17_p50_p83": {
+  "value": [
+   0.2813698986691903,
+   0.34873049673461093,
+   0.431787881971113
+  ]
+ },
+ "base.wetter.people.n_members_ratio_gt1": {
+  "value": 44
+ },
+ "base.wetter.people.ratio_member_p17_p50_p83": {
+  "value": [
+   0.8830901649320482,
+   1.206744053665711,
+   1.3350739416838058
+  ]
+ },
+ "base.wetter.people.ratio_vs_land": {
+  "value": 1.0741120035146017
+ },
+ "base.wetter.populated_land.ensemble_mean_climate": {
+  "value": 0.2601488458042079
+ },
+ "base.wetter.populated_land.member_p17_p50_p83": {
+  "value": [
+   0.24730419653221056,
+   0.28874915300387105,
+   0.3405021956403858
+  ]
+ },
+ "base.wetter.populated_land.n_members_ratio_gt1": {
+  "value": 24
+ },
+ "base.wetter.populated_land.ratio_member_p17_p50_p83": {
+  "value": [
+   0.9677277317592904,
+   0.9948616560798352,
+   1.0076950478010354
+  ]
+ },
+ "base.wetter.populated_land.ratio_vs_land": {
+  "value": 0.9788660248513377
+ },
+ "country.n_total": {
+  "value": 187
+ },
+ "country.n_with_climate": {
+  "value": 165
+ },
+ "dry.all.RP_median": {
+  "value": -3.798669321105627
+ },
+ "dry.all.RP_median_2050": {
+  "value": -0.6770378918983617
+ },
+ "dry.all.RP_p25_p75": {
+  "value": [
+   -6.866935901085437,
+   -0.22353605567876866
+  ]
+ },
+ "dry.all.n_drier": {
+  "value": 3863
+ },
+ "dry.all.share_RP_below_minus10": {
+  "value": 0.11017520215633424
+ },
+ "dry.all.share_RP_below_minus5": {
+  "value": 0.4014487870619946
+ },
+ "dry.all.share_drier": {
+  "value": 0.6507749326145552
+ },
+ "dry.all.share_drier_2050": {
+  "value": 0.09383423180592992
+ },
+ "dry.all.share_drier_ci": {
+  "value": [
+   0.6388140161725068,
+   0.6625673854447439
+  ]
+ },
+ "dry.all.share_similar": {
+  "value": 0.185478436657682
+ },
+ "dry.all.share_wetter": {
+  "value": 0.1637466307277628
+ },
+ "dry.area.Africa.n": {
+  "value": 1788
+ },
+ "dry.area.Africa.n_drier": {
+  "value": 1033
+ },
+ "dry.area.Africa.share_drier": {
+  "value": 0.5777404921700223
+ },
+ "dry.area.Americas.n": {
+  "value": 815
+ },
+ "dry.area.Americas.n_drier": {
+  "value": 563
+ },
+ "dry.area.Americas.share_drier": {
+  "value": 0.69079754601227
+ },
+ "dry.area.Asia.n": {
+  "value": 1759
+ },
+ "dry.area.Asia.n_drier": {
+  "value": 1078
+ },
+ "dry.area.Asia.share_drier": {
+  "value": 0.6128482092097783
+ },
+ "dry.area.Europe.n": {
+  "value": 166
+ },
+ "dry.area.Europe.n_drier": {
+  "value": 137
+ },
+ "dry.area.Europe.share_drier": {
+  "value": 0.8253012048192772
+ },
+ "dry.area.Pacific.n": {
+  "value": 968
+ },
+ "dry.area.Pacific.n_drier": {
+  "value": 773
+ },
+ "dry.area.Pacific.share_drier": {
+  "value": 0.7985537190082644
+ },
+ "dry.check_member_PS_minus_PM_vs_RP_maxabs": {
+  "value": 2.0726521867686643e-05
+ },
+ "dry.class.Dying.n": {
+  "value": 481
+ },
+ "dry.class.Dying.share_drier": {
+  "value": 0.6465696465696466
+ },
+ "dry.class.In_trouble.n": {
+  "value": 1892
+ },
+ "dry.class.In_trouble.share_drier": {
+  "value": 0.6733615221987315
+ },
+ "dry.class.Institutional.n": {
+  "value": 440
+ },
+ "dry.class.Institutional.share_drier": {
+  "value": 0.634090909090909
+ },
+ "dry.class.Stable.n": {
+  "value": 3123
+ },
+ "dry.class.Stable.share_drier": {
+  "value": 0.6400896573807237
+ },
+ "dry.gap_noninst_minus_inst_share_drier": {
+  "value": 0.018019716818843512
+ },
+ "dry.gap_noninst_minus_inst_share_drier_ci": {
+  "value": [
+   -0.02688707489744608,
+   0.06556967050416831
+  ]
+ },
+ "dry.inst.RP_median": {
+  "value": -4.151999065630072
+ },
+ "dry.inst.RP_median_2050": {
+  "value": -0.7249103238506418
+ },
+ "dry.inst.RP_p25_p75": {
+  "value": [
+   -7.059458541405476,
+   0.6243737881046165
+  ]
+ },
+ "dry.inst.n_drier": {
+  "value": 279
+ },
+ "dry.inst.n_flip_wetter_under_M_to_below1900_under_S": {
+  "value": 133
+ },
+ "dry.inst.share_RP_below_minus10": {
+  "value": 0.17045454545454544
+ },
+ "dry.inst.share_RP_below_minus5": {
+  "value": 0.42954545454545456
+ },
+ "dry.inst.share_S_below_both_H_and_M": {
+  "value": 0.5568181818181818
+ },
+ "dry.inst.share_S_drier_than_H_by_2pp": {
+  "value": 0.7295454545454545
+ },
+ "dry.inst.share_below1900.H": {
+  "value": 0.2772727272727273
+ },
+ "dry.inst.share_below1900.M": {
+  "value": 0.2863636363636364
+ },
+ "dry.inst.share_below1900.S": {
+  "value": 0.5318181818181819
+ },
+ "dry.inst.share_drier": {
+  "value": 0.634090909090909
+ },
+ "dry.inst.share_drier_2050": {
+  "value": 0.15454545454545454
+ },
+ "dry.inst.share_drier_ci": {
+  "value": [
+   0.5886363636363636,
+   0.6772727272727272
+  ]
+ },
+ "dry.inst.share_flip": {
+  "value": 0.30227272727272725
+ },
+ "dry.inst.share_similar": {
+  "value": 0.1613636363636364
+ },
+ "dry.inst.share_wetter": {
+  "value": 0.20454545454545456
+ },
+ "dry.lang.noninst.share_indigenous_somewhere": {
+  "value": 0.99490538573508
+ },
+ "dry.lic.indigenous_noninst.share_drier": {
+  "value": 0.6436933223413026
+ },
+ "dry.lic.indigenous_share_of_noninst_drier_lics": {
+  "value": 0.9796737766624843
+ },
+ "dry.lic.noninst.n_units": {
+  "value": 6239
+ },
+ "dry.lic.noninst.share_indigenous": {
+  "value": 0.972110915210771
+ },
+ "dry.member.gap_noninst_minus_inst.n_pos": {
+  "value": 29
+ },
+ "dry.member.gap_noninst_minus_inst.p17_p50_p83": {
+  "value": [
+   -0.024698292973402154,
+   -0.0005359269551409307,
+   0.05438467645891229
+  ]
+ },
+ "dry.member.inst.share_drier.p17_p50_p83": {
+  "value": [
+   0.47740909090909095,
+   0.5579545454545454,
+   0.6840909090909091
+  ]
+ },
+ "dry.member.noninst.median_RP.p17_p50_p83": {
+  "value": [
+   -6.213247632614127,
+   -3.5219589327226113,
+   -1.5967682133845555
+  ]
+ },
+ "dry.member.noninst.n_flip.p17_p50_p83": {
+  "value": [
+   725.75,
+   1178.5,
+   1818.5299999999997
+  ]
+ },
+ "dry.member.noninst.n_members_S_more_below1900_than_M": {
+  "value": 57
+ },
+ "dry.member.noninst.n_members_majority_S_drier_than_H": {
+  "value": 55
+ },
+ "dry.member.noninst.n_members_majority_drier": {
+  "value": 45
+ },
+ "dry.member.noninst.n_members_median_negative": {
+  "value": 60
+ },
+ "dry.member.noninst.share_S_drier_than_H.p17_p50_p83": {
+  "value": [
+   0.5367303493449782,
+   0.6148107714701601,
+   0.7572671033478894
+  ]
+ },
+ "dry.member.noninst.share_below1900.H.p17_p50_p83": {
+  "value": [
+   0.24327328966521106,
+   0.3351528384279476,
+   0.4171470160116448
+  ]
+ },
+ "dry.member.noninst.share_below1900.M.p17_p50_p83": {
+  "value": [
+   0.2496852256186317,
+   0.32923944687045126,
+   0.47113173216885007
+  ]
+ },
+ "dry.member.noninst.share_below1900.S.p17_p50_p83": {
+  "value": [
+   0.39629912663755457,
+   0.524745269286754,
+   0.6282259825327511
+  ]
+ },
+ "dry.member.noninst.share_drier.min_max": {
+  "value": [
+   0.3877365356622999,
+   0.778566229985444
+  ]
+ },
+ "dry.member.noninst.share_drier.p17_p50_p83": {
+  "value": [
+   0.482014192139738,
+   0.5959788937409025,
+   0.688660844250364
+  ]
+ },
+ "dry.n_inst": {
+  "value": 440
+ },
+ "dry.n_languages": {
+  "value": 5936
+ },
+ "dry.n_noninst": {
+  "value": 5496
+ },
+ "dry.noninst.L1_total": {
+  "value": 1096835855.0
+ },
+ "dry.noninst.RP_median": {
+  "value": -3.7959972447186905
+ },
+ "dry.noninst.RP_median_2050": {
+  "value": -0.6722303119424037
+ },
+ "dry.noninst.RP_p25_p75": {
+  "value": [
+   -6.8266982456409036,
+   -0.22353605567876866
+  ]
+ },
+ "dry.noninst.drier.L1_median_per_language": {
+  "value": 6000.0
+ },
+ "dry.noninst.drier.L1_total": {
+  "value": 562547068.0
+ },
+ "dry.noninst.n_drier": {
+  "value": 3584
+ },
+ "dry.noninst.n_excluded_hyperarid": {
+  "value": 123
+ },
+ "dry.noninst.n_flip_wetter_under_M_to_below1900_under_S": {
+  "value": 1460
+ },
+ "dry.noninst.share_RP_below_minus10": {
+  "value": 0.10534934497816593
+ },
+ "dry.noninst.share_RP_below_minus5": {
+  "value": 0.3991994177583697
+ },
+ "dry.noninst.share_S_below_both_H_and_M": {
+  "value": 0.5644104803493449
+ },
+ "dry.noninst.share_S_drier_than_H_by_2pp": {
+  "value": 0.7600072780203785
+ },
+ "dry.noninst.share_below1900.H": {
+  "value": 0.259825327510917
+ },
+ "dry.noninst.share_below1900.M": {
+  "value": 0.2638282387190684
+ },
+ "dry.noninst.share_below1900.S": {
+  "value": 0.4965429403202329
+ },
+ "dry.noninst.share_cooler": {
+  "value": 0.7272561863173217
+ },
+ "dry.noninst.share_cooler_and_drier": {
+  "value": 0.42248908296943233
+ },
+ "dry.noninst.share_drier": {
+  "value": 0.6521106259097526
+ },
+ "dry.noninst.share_drier_2050": {
+  "value": 0.08897379912663755
+ },
+ "dry.noninst.share_drier_ci": {
+  "value": [
+   0.6391921397379913,
+   0.664665211062591
+  ]
+ },
+ "dry.noninst.share_drier_endangered": {
+  "value": 0.6679308891698272
+ },
+ "dry.noninst.share_drier_excl_hyperarid": {
+  "value": 0.6540107947143123
+ },
+ "dry.noninst.share_drier_in_ge_5of6_patterns": {
+  "value": 0.3331513828238719
+ },
+ "dry.noninst.share_drier_in_ge_two_thirds_members": {
+  "value": 0.4383187772925764
+ },
+ "dry.noninst.share_drier_speaker_weighted": {
+  "value": 0.5128817274121666
+ },
+ "dry.noninst.share_drier_stable": {
+  "value": 0.6400896573807237
+ },
+ "dry.noninst.share_drier_territory_weighted": {
+  "value": 0.6000360564391447
+ },
+ "dry.noninst.share_flip": {
+  "value": 0.26564774381368267
+ },
+ "dry.noninst.share_in_tropics": {
+  "value": 0.8447962154294032
+ },
+ "dry.noninst.share_of_drier_in_tropics": {
+  "value": 0.8875558035714286
+ },
+ "dry.noninst.share_of_drier_that_are_cooler": {
+  "value": 0.6478794642857143
+ },
+ "dry.noninst.share_similar": {
+  "value": 0.18740902474526927
+ },
+ "dry.noninst.share_speakers_drier": {
+  "value": 0.512881727412166
+ },
+ "dry.noninst.share_territory_drier": {
+  "value": 0.6000360564391447
+ },
+ "dry.noninst.share_wetter": {
+  "value": 0.16048034934497818
+ },
+ "dry.pattern.noninst.share_drier_min_max": {
+  "value": [
+   0.43353347889374094,
+   0.7165211062590976
+  ]
+ },
+ "dry.sankey.Indigenous.share_drier": {
+  "value": 0.6407637655417406
+ },
+ "dry.sankey.Non-indigenous.share_drier": {
+  "value": 0.5683229813664596
+ },
+ "dry.sankey.n_lic": {
+  "value": 7078.0
+ },
+ "dry.sankey.noninst_lic.drier_share_cooler": {
+  "value": 0.6383799421407907
+ },
+ "dry.sankey.noninst_lic.drier_share_indigenous": {
+  "value": 0.9674541947926711
+ },
+ "dry.sankey.noninst_lic.n": {
+  "value": 6510.0
+ },
+ "dry.sankey.noninst_lic.share_drier": {
+  "value": 0.637173579109063
+ },
+ "dry.sankey.noninst_lic.share_wetter": {
+  "value": 0.16666666666666663
+ },
+ "dry.share_noninst_of_all": {
+  "value": 0.9258760107816711
+ },
+ "dry.t1.AES:_Extinct_in_Glottolog.L1_drier_millions": {
+  "value": 0.014107
+ },
+ "dry.t1.AES:_Extinct_in_Glottolog.below1900_M": {
+  "value": 0.5
+ },
+ "dry.t1.AES:_Extinct_in_Glottolog.below1900_S": {
+  "value": 0.6428571428571429
+ },
+ "dry.t1.AES:_Extinct_in_Glottolog.ci_hi": {
+  "value": 0.9285714285714286
+ },
+ "dry.t1.AES:_Extinct_in_Glottolog.ci_lo": {
+  "value": 0.5
+ },
+ "dry.t1.AES:_Extinct_in_Glottolog.median_RP": {
+  "value": -4.146398053147326
+ },
+ "dry.t1.AES:_Extinct_in_Glottolog.mem_p17": {
+  "value": 0.42857142857142855
+ },
+ "dry.t1.AES:_Extinct_in_Glottolog.mem_p83": {
+  "value": 0.7857142857142857
+ },
+ "dry.t1.AES:_Extinct_in_Glottolog.n": {
+  "value": 14
+ },
+ "dry.t1.AES:_Extinct_in_Glottolog.share_drier": {
+  "value": 0.7142857142857143
+ },
+ "dry.t1.AES:_Extinct_in_Glottolog.share_lt_minus5": {
+  "value": 0.5
+ },
+ "dry.t1.AES:_Extinct_in_Glottolog.share_wetter": {
+  "value": 0.07142857142857142
+ },
+ "dry.t1.AES:_Moribund.L1_drier_millions": {
+  "value": 2.969247
+ },
+ "dry.t1.AES:_Moribund.below1900_M": {
+  "value": 0.27181208053691275
+ },
+ "dry.t1.AES:_Moribund.below1900_S": {
+  "value": 0.4563758389261745
+ },
+ "dry.t1.AES:_Moribund.ci_hi": {
+  "value": 0.7348993288590604
+ },
+ "dry.t1.AES:_Moribund.ci_lo": {
+  "value": 0.6308724832214765
+ },
+ "dry.t1.AES:_Moribund.median_RP": {
+  "value": -4.510393227729855
+ },
+ "dry.t1.AES:_Moribund.mem_p17": {
+  "value": 0.5034563758389262
+ },
+ "dry.t1.AES:_Moribund.mem_p83": {
+  "value": 0.7511744966442953
+ },
+ "dry.t1.AES:_Moribund.n": {
+  "value": 298
+ },
+ "dry.t1.AES:_Moribund.share_drier": {
+  "value": 0.6845637583892618
+ },
+ "dry.t1.AES:_Moribund.share_lt_minus5": {
+  "value": 0.436241610738255
+ },
+ "dry.t1.AES:_Moribund.share_wetter": {
+  "value": 0.13087248322147652
+ },
+ "dry.t1.AES:_Nearly_extinct.L1_drier_millions": {
+  "value": 1.158821
+ },
+ "dry.t1.AES:_Nearly_extinct.below1900_M": {
+  "value": 0.327683615819209
+ },
+ "dry.t1.AES:_Nearly_extinct.below1900_S": {
+  "value": 0.4971751412429379
+ },
+ "dry.t1.AES:_Nearly_extinct.ci_hi": {
+  "value": 0.6779661016949152
+ },
+ "dry.t1.AES:_Nearly_extinct.ci_lo": {
+  "value": 0.5310734463276836
+ },
+ "dry.t1.AES:_Nearly_extinct.median_RP": {
+  "value": -3.238804775150021
+ },
+ "dry.t1.AES:_Nearly_extinct.mem_p17": {
+  "value": 0.4577966101694915
+ },
+ "dry.t1.AES:_Nearly_extinct.mem_p83": {
+  "value": 0.700225988700565
+ },
+ "dry.t1.AES:_Nearly_extinct.n": {
+  "value": 177
+ },
+ "dry.t1.AES:_Nearly_extinct.share_drier": {
+  "value": 0.6045197740112994
+ },
+ "dry.t1.AES:_Nearly_extinct.share_lt_minus5": {
+  "value": 0.2824858757062147
+ },
+ "dry.t1.AES:_Nearly_extinct.share_wetter": {
+  "value": 0.12994350282485875
+ },
+ "dry.t1.AES:_Not_endangered.L1_drier_millions": {
+  "value": 4620.118909
+ },
+ "dry.t1.AES:_Not_endangered.below1900_M": {
+  "value": 0.2151208106001559
+ },
+ "dry.t1.AES:_Not_endangered.below1900_S": {
+  "value": 0.4859703819173811
+ },
+ "dry.t1.AES:_Not_endangered.ci_hi": {
+  "value": 0.6648577552611067
+ },
+ "dry.t1.AES:_Not_endangered.ci_lo": {
+  "value": 0.6286048324240062
+ },
+ "dry.t1.AES:_Not_endangered.median_RP": {
+  "value": -3.581914357906736
+ },
+ "dry.t1.AES:_Not_endangered.mem_p17": {
+  "value": 0.484871395167576
+ },
+ "dry.t1.AES:_Not_endangered.mem_p83": {
+  "value": 0.654290724863601
+ },
+ "dry.t1.AES:_Not_endangered.n": {
+  "value": 2566
+ },
+ "dry.t1.AES:_Not_endangered.share_drier": {
+  "value": 0.646921278254092
+ },
+ "dry.t1.AES:_Not_endangered.share_lt_minus5": {
+  "value": 0.3780202650038971
+ },
+ "dry.t1.AES:_Not_endangered.share_wetter": {
+  "value": 0.15822291504286828
+ },
+ "dry.t1.AES:_Shifting.L1_drier_millions": {
+  "value": 16.919426
+ },
+ "dry.t1.AES:_Shifting.below1900_M": {
+  "value": 0.3216875411997363
+ },
+ "dry.t1.AES:_Shifting.below1900_S": {
+  "value": 0.4733025708635465
+ },
+ "dry.t1.AES:_Shifting.ci_hi": {
+  "value": 0.6598549769281477
+ },
+ "dry.t1.AES:_Shifting.ci_lo": {
+  "value": 0.6110744891232696
+ },
+ "dry.t1.AES:_Shifting.median_RP": {
+  "value": -3.999628280302499
+ },
+ "dry.t1.AES:_Shifting.mem_p17": {
+  "value": 0.4897824653922215
+ },
+ "dry.t1.AES:_Shifting.mem_p83": {
+  "value": 0.7040210942649967
+ },
+ "dry.t1.AES:_Shifting.n": {
+  "value": 1517
+ },
+ "dry.t1.AES:_Shifting.share_drier": {
+  "value": 0.6348055372445617
+ },
+ "dry.t1.AES:_Shifting.share_lt_minus5": {
+  "value": 0.43902439024390244
+ },
+ "dry.t1.AES:_Shifting.share_wetter": {
+  "value": 0.17732366512854317
+ },
+ "dry.t1.AES:_Threatened.L1_drier_millions": {
+  "value": 172.147128
+ },
+ "dry.t1.AES:_Threatened.below1900_M": {
+  "value": 0.2838235294117647
+ },
+ "dry.t1.AES:_Threatened.below1900_S": {
+  "value": 0.5595588235294118
+ },
+ "dry.t1.AES:_Threatened.ci_hi": {
+  "value": 0.6977941176470588
+ },
+ "dry.t1.AES:_Threatened.ci_lo": {
+  "value": 0.6485294117647059
+ },
+ "dry.t1.AES:_Threatened.median_RP": {
+  "value": -4.06220567003545
+ },
+ "dry.t1.AES:_Threatened.mem_p17": {
+  "value": 0.43464705882352944
+ },
+ "dry.t1.AES:_Threatened.mem_p83": {
+  "value": 0.7358970588235294
+ },
+ "dry.t1.AES:_Threatened.n": {
+  "value": 1360
+ },
+ "dry.t1.AES:_Threatened.share_drier": {
+  "value": 0.6727941176470589
+ },
+ "dry.t1.AES:_Threatened.share_lt_minus5": {
+  "value": 0.4117647058823529
+ },
+ "dry.t1.AES:_Threatened.share_wetter": {
+  "value": 0.17205882352941176
+ },
+ "dry.t1.All_living_languages.L1_drier_millions": {
+  "value": 4813.345758
+ },
+ "dry.t1.All_living_languages.below1900_M": {
+  "value": 0.26549865229110514
+ },
+ "dry.t1.All_living_languages.below1900_S": {
+  "value": 0.4991576819407008
+ },
+ "dry.t1.All_living_languages.ci_hi": {
+  "value": 0.6627358490566038
+ },
+ "dry.t1.All_living_languages.ci_lo": {
+  "value": 0.6393151954177897
+ },
+ "dry.t1.All_living_languages.median_RP": {
+  "value": -3.798669321105627
+ },
+ "dry.t1.All_living_languages.mem_p17": {
+  "value": 0.47766846361185983
+ },
+ "dry.t1.All_living_languages.mem_p83": {
+  "value": 0.6876330862533693
+ },
+ "dry.t1.All_living_languages.n": {
+  "value": 5936
+ },
+ "dry.t1.All_living_languages.share_drier": {
+  "value": 0.6507749326145552
+ },
+ "dry.t1.All_living_languages.share_lt_minus5": {
+  "value": 0.4014487870619946
+ },
+ "dry.t1.All_living_languages.share_wetter": {
+  "value": 0.1637466307277628
+ },
+ "dry.t1.Dying.L1_drier_millions": {
+  "value": 0.570669
+ },
+ "dry.t1.Dying.below1900_M": {
+  "value": 0.3097713097713098
+ },
+ "dry.t1.Dying.below1900_S": {
+  "value": 0.5135135135135135
+ },
+ "dry.t1.Dying.ci_hi": {
+  "value": 0.6902286902286903
+ },
+ "dry.t1.Dying.ci_lo": {
+  "value": 0.6008316008316008
+ },
+ "dry.t1.Dying.median_RP": {
+  "value": -3.387331060565897
+ },
+ "dry.t1.Dying.mem_p17": {
+  "value": 0.45340956340956345
+ },
+ "dry.t1.Dying.mem_p83": {
+  "value": 0.7212266112266112
+ },
+ "dry.t1.Dying.n": {
+  "value": 481
+ },
+ "dry.t1.Dying.share_drier": {
+  "value": 0.6465696465696466
+ },
+ "dry.t1.Dying.share_lt_minus5": {
+  "value": 0.37422037422037424
+ },
+ "dry.t1.Dying.share_wetter": {
+  "value": 0.1496881496881497
+ },
+ "dry.t1.In_trouble.L1_drier_millions": {
+  "value": 68.348991
+ },
+ "dry.t1.In_trouble.below1900_M": {
+  "value": 0.2489429175475687
+ },
+ "dry.t1.In_trouble.below1900_S": {
+  "value": 0.5121564482029598
+ },
+ "dry.t1.In_trouble.ci_hi": {
+  "value": 0.693987843551797
+ },
+ "dry.t1.In_trouble.ci_lo": {
+  "value": 0.6506342494714588
+ },
+ "dry.t1.In_trouble.median_RP": {
+  "value": -4.6802055785674685
+ },
+ "dry.t1.In_trouble.mem_p17": {
+  "value": 0.4817389006342495
+ },
+ "dry.t1.In_trouble.mem_p83": {
+  "value": 0.7401532769556025
+ },
+ "dry.t1.In_trouble.n": {
+  "value": 1892
+ },
+ "dry.t1.In_trouble.share_drier": {
+  "value": 0.6733615221987315
+ },
+ "dry.t1.In_trouble.share_lt_minus5": {
+  "value": 0.452431289640592
+ },
+ "dry.t1.In_trouble.share_wetter": {
+  "value": 0.1649048625792812
+ },
+ "dry.t1.Institutional.L1_drier_millions": {
+  "value": 4250.79869
+ },
+ "dry.t1.Institutional.below1900_M": {
+  "value": 0.2863636363636364
+ },
+ "dry.t1.Institutional.below1900_S": {
+  "value": 0.5318181818181819
+ },
+ "dry.t1.Institutional.ci_hi": {
+  "value": 0.6772727272727272
+ },
+ "dry.t1.Institutional.ci_lo": {
+  "value": 0.5909090909090909
+ },
+ "dry.t1.Institutional.median_RP": {
+  "value": -4.151999065630072
+ },
+ "dry.t1.Institutional.mem_p17": {
+  "value": 0.47740909090909095
+ },
+ "dry.t1.Institutional.mem_p83": {
+  "value": 0.6840909090909091
+ },
+ "dry.t1.Institutional.n": {
+  "value": 440
+ },
+ "dry.t1.Institutional.share_drier": {
+  "value": 0.634090909090909
+ },
+ "dry.t1.Institutional.share_lt_minus5": {
+  "value": 0.42954545454545456
+ },
+ "dry.t1.Institutional.share_wetter": {
+  "value": 0.20454545454545456
+ },
+ "dry.t1.Non-institutional.L1_drier_millions": {
+  "value": 562.547068
+ },
+ "dry.t1.Non-institutional.below1900_M": {
+  "value": 0.2638282387190684
+ },
+ "dry.t1.Non-institutional.below1900_S": {
+  "value": 0.4965429403202329
+ },
+ "dry.t1.Non-institutional.ci_hi": {
+  "value": 0.6650291120815138
+ },
+ "dry.t1.Non-institutional.ci_lo": {
+  "value": 0.6395514919941776
+ },
+ "dry.t1.Non-institutional.median_RP": {
+  "value": -3.7959972447186905
+ },
+ "dry.t1.Non-institutional.mem_p17": {
+  "value": 0.482014192139738
+ },
+ "dry.t1.Non-institutional.mem_p83": {
+  "value": 0.688660844250364
+ },
+ "dry.t1.Non-institutional.n": {
+  "value": 5496
+ },
+ "dry.t1.Non-institutional.share_drier": {
+  "value": 0.6521106259097526
+ },
+ "dry.t1.Non-institutional.share_lt_minus5": {
+  "value": 0.3991994177583697
+ },
+ "dry.t1.Non-institutional.share_wetter": {
+  "value": 0.16048034934497818
+ },
+ "dry.t1.Stable.L1_drier_millions": {
+  "value": 493.627408
+ },
+ "dry.t1.Stable.below1900_M": {
+  "value": 0.26577009285943004
+ },
+ "dry.t1.Stable.below1900_S": {
+  "value": 0.4844700608389369
+ },
+ "dry.t1.Stable.ci_hi": {
+  "value": 0.6570605187319885
+ },
+ "dry.t1.Stable.ci_lo": {
+  "value": 0.6234390009606148
+ },
+ "dry.t1.Stable.median_RP": {
+  "value": -3.5071539338534445
+ },
+ "dry.t1.Stable.mem_p17": {
+  "value": 0.4667499199487672
+ },
+ "dry.t1.Stable.mem_p83": {
+  "value": 0.6535190521934038
+ },
+ "dry.t1.Stable.n": {
+  "value": 3123
+ },
+ "dry.t1.Stable.share_drier": {
+  "value": 0.6400896573807237
+ },
+ "dry.t1.Stable.share_lt_minus5": {
+  "value": 0.37079731027857826
+ },
+ "dry.t1.Stable.share_wetter": {
+  "value": 0.15946205571565802
+ },
+ "dry.t1.aes.n_without_value": {
+  "value": 4
+ },
+ "dry.top10_countries_share_of_drier_noninst": {
+  "value": 0.6702008928571429
+ },
+ "dry.within_country.gap_ci": {
+  "value": [
+   -0.049066026685999346,
+   0.003226866088110895
+  ]
+ },
+ "dry.within_country.gap_noninst_minus_inst_share_drier": {
+  "value": -0.023161481140823132
+ },
+ "econ.n_languages_with_econ": {
+  "value": 6052
+ },
+ "econ.world_pct_pvgdp.H.p17_p50_p83": {
+  "value": [
+   5.3694445122746925,
+   6.334160244320775,
+   8.157230984093369
+  ]
+ },
+ "econ.world_pct_pvgdp.M.p17_p50_p83": {
+  "value": [
+   3.662315288547777,
+   4.380751296117102,
+   5.438889270062874
+  ]
+ },
+ "econ.world_pct_pvgdp.M_noT.p17_p50_p83": {
+  "value": [
+   3.3880913988846593,
+   4.1893727620932335,
+   5.3965981434471555
+  ]
+ },
+ "econ.world_pct_pvgdp.S.p17_p50_p83": {
+  "value": [
+   3.416029386481728,
+   4.116129415904266,
+   5.316920218365191
+  ]
+ },
+ "econ.world_pct_pvgdp.ST.p17_p50_p83": {
+  "value": [
+   4.99645932542942,
+   6.113125132596747,
+   9.058226364823357
+  ]
+ },
+ "econ.world_pct_pvgdp.premium.p17_p50_p83": {
+  "value": [
+   1.2124045800337222,
+   2.1395798365731338,
+   4.2816610068692125
+  ]
+ },
+ "emulator.frac_member_years_clamped": {
+  "value": 0.017555555555555557
+ },
+ "emulator.median_r2": {
+  "value": 0.9999807106282061
+ },
+ "emulator.median_rel_rmse": {
+  "value": 0.0019433603771903062
+ },
+ "emulator.min_r2": {
+  "value": 0.505954102132723
+ },
+ "emulator.n_country_patterns": {
+  "value": 1038
+ },
+ "emulator.p95_rel_rmse": {
+  "value": 0.017914858438014807
+ },
+ "equity.eta0.0.ST_minus_M.p17_p50_p83": {
+  "value": [
+   0.9880598632627772,
+   1.9163141452454744,
+   4.040556986206916
+  ]
+ },
+ "equity.eta0.0.premium.p17_p50_p83": {
+  "value": [
+   1.214234677977862,
+   2.142811313848071,
+   4.286938888363122
+  ]
+ },
+ "equity.eta1.0.ST_minus_M.p17_p50_p83": {
+  "value": [
+   3.136771254520935,
+   5.932713420892542,
+   10.866375246490817
+  ]
+ },
+ "equity.eta1.0.premium.p17_p50_p83": {
+  "value": [
+   3.818973580676866,
+   6.659337459303268,
+   12.177169036216322
+  ]
+ },
+ "equity.eta1.5.ST_minus_M.p17_p50_p83": {
+  "value": [
+   8.49503237413243,
+   16.32451832898351,
+   27.97551761925527
+  ]
+ },
+ "equity.eta1.5.premium.p17_p50_p83": {
+  "value": [
+   10.22006129504978,
+   17.83715311524312,
+   31.67153561226087
+  ]
+ },
+ "eth.languages_excluded_egids_with_polygon": {
+  "value": [
+   "omg"
+  ]
+ },
+ "eth.n_languages_Dying": {
+  "value": 1030
+ },
+ "eth.n_languages_Extinct": {
+  "value": 454
+ },
+ "eth.n_languages_In_trouble": {
+  "value": 2163
+ },
+ "eth.n_languages_Institutional": {
+  "value": 485
+ },
+ "eth.n_languages_Stable": {
+  "value": 3481
+ },
+ "eth.n_languages_table": {
+  "value": 7613
+ },
+ "eth.n_languages_with_polygon": {
+  "value": 6230
+ },
+ "eth.n_lics_table": {
+  "value": 13089
+ },
+ "eth.n_living_languages": {
+  "value": 7159
+ },
+ "eth.n_polygons_clean": {
+  "value": 7481
+ },
+ "eth.n_polygons_excluded_egids": {
+  "value": 1
+ },
+ "eth.n_polygons_invalid_repaired": {
+  "value": 121
+ },
+ "eth.n_polygons_raw": {
+  "value": 7482
+ },
+ "eth.n_polygons_without_language_record": {
+  "value": 20
+ },
+ "eth.n_polygons_without_lic_record": {
+  "value": 24
+ },
+ "eth.polys_is_indigenous_F": {
+  "value": 388
+ },
+ "eth.polys_is_indigenous_T": {
+  "value": 7069
+ },
+ "eth.polys_sign_language": {
+  "value": 202
+ },
+ "gap.w_area.RP_2050.ci": {
+  "value": [
+   -6.537401637865356,
+   0.554000106980194
+  ]
+ },
+ "gap.w_area.RP_2050.dying_minus_inst": {
+  "value": 0.3561957277251072
+ },
+ "gap.w_area.RP_2050.p": {
+  "value": 3.325617741930002e-05
+ },
+ "gap.w_area.RP_2050.rank_biserial": {
+  "value": -0.06349048651572875
+ },
+ "gap.w_area.RP_2050.value": {
+  "value": -2.4175591038863558
+ },
+ "gap.w_area.RP_2100.ci": {
+  "value": [
+   -46.11650005775222,
+   6.750422855085051
+  ]
+ },
+ "gap.w_area.RP_2100.dying_minus_inst": {
+  "value": 4.166045372155457
+ },
+ "gap.w_area.RP_2100.p": {
+  "value": 0.0006347590995528761
+ },
+ "gap.w_area.RP_2100.rank_biserial": {
+  "value": -0.05226659399959721
+ },
+ "gap.w_area.RP_2100.value": {
+  "value": -14.775653069099151
+ },
+ "gap.w_area.R_2050.ci": {
+  "value": [
+   -0.004744866081302201,
+   0.053603487950430156
+  ]
+ },
+ "gap.w_area.R_2050.dying_minus_inst": {
+  "value": 0.013518090423784334
+ },
+ "gap.w_area.R_2050.p": {
+  "value": 4.062113512414008e-08
+ },
+ "gap.w_area.R_2050.rank_biserial": {
+  "value": 0.08396358178161822
+ },
+ "gap.w_area.R_2050.value": {
+  "value": 0.02398255243844922
+ },
+ "gap.w_area.R_2100.ci": {
+  "value": [
+   -0.02336537611070202,
+   0.25755465072802625
+  ]
+ },
+ "gap.w_area.R_2100.dying_minus_inst": {
+  "value": 0.06412494161340505
+ },
+ "gap.w_area.R_2100.p": {
+  "value": 4.637945089864384e-08
+ },
+ "gap.w_area.R_2100.rank_biserial": {
+  "value": 0.08360450427019561
+ },
+ "gap.w_area.R_2100.value": {
+  "value": 0.11481562931862216
+ },
+ "gap.w_area.drier_2100.ci": {
+  "value": [
+   -17.262390429936776,
+   20.450528595453672
+  ]
+ },
+ "gap.w_area.drier_2100.dying_minus_inst": {
+  "value": -21.14402896633777
+ },
+ "gap.w_area.drier_2100.p": {
+  "value": 0.0236640342067934
+ },
+ "gap.w_area.drier_2100.rank_biserial": {
+  "value": 0.028582025852398107
+ },
+ "gap.w_area.drier_2100.value": {
+  "value": 0.12454470011304863
+ },
+ "gap.w_area.econ_ST_minus_M.ci": {
+  "value": [
+   -1.4022323671268113,
+   0.27630705954534174
+  ]
+ },
+ "gap.w_area.econ_ST_minus_M.dying_minus_inst": {
+  "value": -0.4441404357780081
+ },
+ "gap.w_area.econ_ST_minus_M.p": {
+  "value": 8.737942507859577e-96
+ },
+ "gap.w_area.econ_ST_minus_M.rank_biserial": {
+  "value": -0.3175915690967043
+ },
+ "gap.w_area.econ_ST_minus_M.value": {
+  "value": -0.44505236968364725
+ },
+ "gap.w_area.econ_S_minus_M.ci": {
+  "value": [
+   -0.012075567270307492,
+   0.18112760292723268
+  ]
+ },
+ "gap.w_area.econ_S_minus_M.dying_minus_inst": {
+  "value": 0.06499193330279178
+ },
+ "gap.w_area.econ_S_minus_M.p": {
+  "value": 2.1406793478964132e-08
+ },
+ "gap.w_area.econ_S_minus_M.rank_biserial": {
+  "value": 0.08564788482153607
+ },
+ "gap.w_area.econ_S_minus_M.value": {
+  "value": 0.07315844442505849
+ },
+ "gap.w_area.econ_premium.ci": {
+  "value": [
+   -1.6671739922328745,
+   0.2500773655533431
+  ]
+ },
+ "gap.w_area.econ_premium.dying_minus_inst": {
+  "value": -0.5566572935019862
+ },
+ "gap.w_area.econ_premium.p": {
+  "value": 1.6438463066350545e-92
+ },
+ "gap.w_area.econ_premium.rank_biserial": {
+  "value": -0.3120026853352317
+ },
+ "gap.w_area.econ_premium.value": {
+  "value": -0.5657795812301476
+ },
+ "gap.w_lang.RP_2050.ci": {
+  "value": [
+   -0.1250261933269928,
+   0.324075988853128
+  ]
+ },
+ "gap.w_lang.RP_2050.dying_minus_inst": {
+  "value": 0.30132915601773336
+ },
+ "gap.w_lang.RP_2050.p": {
+  "value": 3.325617741930002e-05
+ },
+ "gap.w_lang.RP_2050.rank_biserial": {
+  "value": -0.06349048651572875
+ },
+ "gap.w_lang.RP_2050.value": {
+  "value": 0.10616040991650011
+ },
+ "gap.w_lang.RP_2100.ci": {
+  "value": [
+   -0.24454000066220322,
+   2.5340368197427607
+  ]
+ },
+ "gap.w_lang.RP_2100.dying_minus_inst": {
+  "value": 3.09971865200007
+ },
+ "gap.w_lang.RP_2100.p": {
+  "value": 0.0006347590995528761
+ },
+ "gap.w_lang.RP_2100.rank_biserial": {
+  "value": -0.05226659399959721
+ },
+ "gap.w_lang.RP_2100.value": {
+  "value": 1.1827441543009476
+ },
+ "gap.w_lang.R_2050.ci": {
+  "value": [
+   0.0031658301989217607,
+   0.006775769564039314
+  ]
+ },
+ "gap.w_lang.R_2050.dying_minus_inst": {
+  "value": 0.0111254957810995
+ },
+ "gap.w_lang.R_2050.p": {
+  "value": 4.062113512414008e-08
+ },
+ "gap.w_lang.R_2050.rank_biserial": {
+  "value": 0.08396358178161822
+ },
+ "gap.w_lang.R_2050.value": {
+  "value": 0.0049914214235275214
+ },
+ "gap.w_lang.R_2100.ci": {
+  "value": [
+   0.014989560111864786,
+   0.03236843178515364
+  ]
+ },
+ "gap.w_lang.R_2100.dying_minus_inst": {
+  "value": 0.05290436073455308
+ },
+ "gap.w_lang.R_2100.p": {
+  "value": 4.637945089864384e-08
+ },
+ "gap.w_lang.R_2100.rank_biserial": {
+  "value": 0.08360450427019561
+ },
+ "gap.w_lang.R_2100.value": {
+  "value": 0.023754407525301335
+ },
+ "gap.w_lang.drier_2100.ci": {
+  "value": [
+   0.25969547719638525,
+   5.358631029997746
+  ]
+ },
+ "gap.w_lang.drier_2100.dying_minus_inst": {
+  "value": 1.2478737478737543
+ },
+ "gap.w_lang.drier_2100.p": {
+  "value": 0.0236640342067934
+ },
+ "gap.w_lang.drier_2100.rank_biserial": {
+  "value": 0.028582025852398107
+ },
+ "gap.w_lang.drier_2100.value": {
+  "value": 2.858202585239809
+ },
+ "gap.w_lang.econ_ST_minus_M.ci": {
+  "value": [
+   -1.3160254713900192,
+   -1.103127487393945
+  ]
+ },
+ "gap.w_lang.econ_ST_minus_M.dying_minus_inst": {
+  "value": -1.5760935576612312
+ },
+ "gap.w_lang.econ_ST_minus_M.p": {
+  "value": 8.737942507859577e-96
+ },
+ "gap.w_lang.econ_ST_minus_M.rank_biserial": {
+  "value": -0.3175915690967043
+ },
+ "gap.w_lang.econ_ST_minus_M.value": {
+  "value": -1.2096919075194652
+ },
+ "gap.w_lang.econ_S_minus_M.ci": {
+  "value": [
+   0.05018642917366944,
+   0.07889203925803445
+  ]
+ },
+ "gap.w_lang.econ_S_minus_M.dying_minus_inst": {
+  "value": 0.13900370435293963
+ },
+ "gap.w_lang.econ_S_minus_M.p": {
+  "value": 2.1406793478964132e-08
+ },
+ "gap.w_lang.econ_S_minus_M.rank_biserial": {
+  "value": 0.08564788482153607
+ },
+ "gap.w_lang.econ_S_minus_M.value": {
+  "value": 0.06403609074445848
+ },
+ "gap.w_lang.econ_premium.ci": {
+  "value": [
+   -1.433212371054077,
+   -1.2001236887220024
+  ]
+ },
+ "gap.w_lang.econ_premium.dying_minus_inst": {
+  "value": -1.7830455419833724
+ },
+ "gap.w_lang.econ_premium.p": {
+  "value": 1.6438463066350545e-92
+ },
+ "gap.w_lang.econ_premium.rank_biserial": {
+  "value": -0.3120026853352317
+ },
+ "gap.w_lang.econ_premium.value": {
+  "value": -1.3150084828308808
+ },
+ "gap.w_spk.RP_2050.ci": {
+  "value": [
+   -1.015136333274836,
+   2.0642464590847798
+  ]
+ },
+ "gap.w_spk.RP_2050.dying_minus_inst": {
+  "value": -0.2238596532398877
+ },
+ "gap.w_spk.RP_2050.p": {
+  "value": 0.00013814243499290943
+ },
+ "gap.w_spk.RP_2050.rank_biserial": {
+  "value": -0.05885385413856781
+ },
+ "gap.w_spk.RP_2050.value": {
+  "value": 0.42407050468014224
+ },
+ "gap.w_spk.RP_2100.ci": {
+  "value": [
+   -4.829520998041904,
+   10.753474941693144
+  ]
+ },
+ "gap.w_spk.RP_2100.dying_minus_inst": {
+  "value": -0.36867324242546706
+ },
+ "gap.w_spk.RP_2100.p": {
+  "value": 0.0019494746986128827
+ },
+ "gap.w_spk.RP_2100.rank_biserial": {
+  "value": -0.047834270114805455
+ },
+ "gap.w_spk.RP_2100.value": {
+  "value": 2.5531562103501555
+ },
+ "gap.w_spk.R_2050.ci": {
+  "value": [
+   -0.009927314108782826,
+   0.01796204635252801
+  ]
+ },
+ "gap.w_spk.R_2050.dying_minus_inst": {
+  "value": -0.004939586381472898
+ },
+ "gap.w_spk.R_2050.p": {
+  "value": 2.3519129423537257e-07
+ },
+ "gap.w_spk.R_2050.rank_biserial": {
+  "value": 0.0798176961476047
+ },
+ "gap.w_spk.R_2050.value": {
+  "value": 0.003961501534355594
+ },
+ "gap.w_spk.R_2100.ci": {
+  "value": [
+   -0.04786278416820595,
+   0.08733313996397586
+  ]
+ },
+ "gap.w_spk.R_2100.dying_minus_inst": {
+  "value": -0.022159133594393948
+ },
+ "gap.w_spk.R_2100.p": {
+  "value": 2.718640483653851e-07
+ },
+ "gap.w_spk.R_2100.rank_biserial": {
+  "value": 0.07939845356126818
+ },
+ "gap.w_spk.R_2100.value": {
+  "value": 0.019589336277495373
+ },
+ "gap.w_spk.drier_2100.ci": {
+  "value": [
+   -18.525023875128777,
+   22.006673158120133
+  ]
+ },
+ "gap.w_spk.drier_2100.dying_minus_inst": {
+  "value": -4.506779981964101
+ },
+ "gap.w_spk.drier_2100.p": {
+  "value": 0.03297463805781627
+ },
+ "gap.w_spk.drier_2100.rank_biserial": {
+  "value": 0.02719253657668297
+ },
+ "gap.w_spk.drier_2100.value": {
+  "value": 1.457923879247204
+ },
+ "gap.w_spk.econ_ST_minus_M.ci": {
+  "value": [
+   -0.6274207190390853,
+   0.7398228338979234
+  ]
+ },
+ "gap.w_spk.econ_ST_minus_M.dying_minus_inst": {
+  "value": -0.0394366632148655
+ },
+ "gap.w_spk.econ_ST_minus_M.p": {
+  "value": 1.3561930396940462e-90
+ },
+ "gap.w_spk.econ_ST_minus_M.rank_biserial": {
+  "value": -0.31154260905477105
+ },
+ "gap.w_spk.econ_ST_minus_M.value": {
+  "value": 0.07543055879098892
+ },
+ "gap.w_spk.econ_S_minus_M.ci": {
+  "value": [
+   -0.04538028147686397,
+   0.17788265692153296
+  ]
+ },
+ "gap.w_spk.econ_S_minus_M.dying_minus_inst": {
+  "value": 0.09485526522976806
+ },
+ "gap.w_spk.econ_S_minus_M.p": {
+  "value": 2.7242707054406067e-07
+ },
+ "gap.w_spk.econ_S_minus_M.rank_biserial": {
+  "value": 0.07936154323815647
+ },
+ "gap.w_spk.econ_S_minus_M.value": {
+  "value": 0.05966834141422234
+ },
+ "gap.w_spk.econ_premium.ci": {
+  "value": [
+   -0.7690779533913084,
+   0.78787960839428
+  ]
+ },
+ "gap.w_spk.econ_premium.dying_minus_inst": {
+  "value": -0.09787317504461379
+ },
+ "gap.w_spk.econ_premium.p": {
+  "value": 2.0420078602172896e-87
+ },
+ "gap.w_spk.econ_premium.rank_biserial": {
+  "value": -0.3059100522795807
+ },
+ "gap.w_spk.econ_premium.value": {
+  "value": 0.04581972886915242
+ },
+ "global.G_H.2050.mean": {
+  "value": 2.1292071176666667
+ },
+ "global.G_H.2050.p17_p50_p83": {
+  "value": [
+   1.8553895453,
+   2.07895218,
+   2.3928271585
+  ]
+ },
+ "global.G_H.2100.mean": {
+  "value": 3.683204809333333
+ },
+ "global.G_H.2100.p17_p50_p83": {
+  "value": [
+   3.1474924866,
+   3.54292366,
+   4.2635261525
+  ]
+ },
+ "global.G_S.2050.mean": {
+  "value": 1.7921736526666665
+ },
+ "global.G_S.2050.p17_p50_p83": {
+  "value": [
+   1.5224842416,
+   1.7732169949999999,
+   2.0724612092
+  ]
+ },
+ "global.G_S.2100.mean": {
+  "value": 2.0673487926666665
+ },
+ "global.G_S.2100.p17_p50_p83": {
+  "value": [
+   1.4802140987999999,
+   1.92907067,
+   2.7142395014000003
+  ]
+ },
+ "global.dG.2050.mean": {
+  "value": 0.3370334650000001
+ },
+ "global.dG.2050.p17_p50_p83": {
+  "value": [
+   0.24573746600000015,
+   0.32887615000000003,
+   0.42529656300000007
+  ]
+ },
+ "global.dG.2100.mean": {
+  "value": 1.6158560166666665
+ },
+ "global.dG.2100.p17_p50_p83": {
+  "value": [
+   1.1797727019999997,
+   1.5779086999999998,
+   2.010117446
+  ]
+ },
+ "glottolog.n_eth_languages_matched": {
+  "value": 7587
+ },
+ "glottolog.n_eth_living": {
+  "value": 7159
+ },
+ "glottolog.n_eth_living_matched": {
+  "value": 7153
+ },
+ "glottolog.n_matched_manual": {
+  "value": 1
+ },
+ "glottolog.n_matched_via_dialect": {
+  "value": 199
+ },
+ "glottolog.version": {
+  "value": "5.3"
+ },
+ "glottolog.world.n_families_spoken_l1": {
+  "value": 238
+ },
+ "glottolog.world.n_isolates_spoken_l1": {
+  "value": 183
+ },
+ "gradient.RP_2100.ci": {
+  "value": [
+   0.02140361464127927,
+   0.679763232834432
+  ]
+ },
+ "gradient.RP_2100.slope_per_egids_step": {
+  "value": 0.3349989692714779
+ },
+ "gradient.R_2100.ci": {
+  "value": [
+   0.0041626993757037795,
+   0.010407254576359723
+  ]
+ },
+ "gradient.R_2100.slope_per_egids_step": {
+  "value": 0.007241297225716103
+ },
+ "gradient.econ_ST_minus_M.ci": {
+  "value": [
+   -0.3088276800527071,
+   -0.23379593043566213
+  ]
+ },
+ "gradient.econ_ST_minus_M.slope_per_egids_step": {
+  "value": -0.26998525680022045
+ },
+ "gradient.econ_premium.ci": {
+  "value": [
+   -0.34427122759683987,
+   -0.25944749118743005
+  ]
+ },
+ "gradient.econ_premium.slope_per_egids_step": {
+  "value": -0.3006406503678833
+ },
+ "grid.A2_shiftT_absmax.2050": {
+  "value": 0.004814632485336645
+ },
+ "grid.A2_shiftT_absmax.2100": {
+  "value": 0.031599868612671056
+ },
+ "grid.landmean.PH.2050": {
+  "value": 9.99919533376352
+ },
+ "grid.landmean.PH.2100": {
+  "value": 17.2314610793633
+ },
+ "grid.landmean.PM.2050": {
+  "value": 8.39364567086551
+ },
+ "grid.landmean.PM.2100": {
+  "value": 9.510642514431755
+ },
+ "grid.landmean.PS.2050": {
+  "value": 8.764459333956449
+ },
+ "grid.landmean.PS.2100": {
+  "value": 7.125182698821219
+ },
+ "grid.landmean.R.2050": {
+  "value": -0.01012348374307635
+ },
+ "grid.landmean.R.2100": {
+  "value": -0.04819576057216497
+ },
+ "grid.landmean.RP.2050": {
+  "value": 0.3708136630909402
+ },
+ "grid.landmean.RP.2100": {
+  "value": -2.3854598156105347
+ },
+ "grid.landmean.TH.2050": {
+  "value": 2.87137651636347
+ },
+ "grid.landmean.TH.2100": {
+  "value": 4.9655966828373534
+ },
+ "grid.landmean.TM.2050": {
+  "value": 2.415955019796637
+ },
+ "grid.landmean.TM.2100": {
+  "value": 2.7811410652122386
+ },
+ "grid.landmean.TS.2050": {
+  "value": 2.4058315360535607
+ },
+ "grid.landmean.TS.2100": {
+  "value": 2.732945304640074
+ },
+ "grid.landshare_RP_neg.2050": {
+  "value": 0.5829553572140929
+ },
+ "grid.landshare_RP_neg.2100": {
+  "value": 0.6483494654759641
+ },
+ "grid.landshare_R_pos.2050": {
+  "value": 0.3243953777755262
+ },
+ "grid.landshare_R_pos.2100": {
+  "value": 0.32585883126957116
+ },
+ "grid.ratio_GS_over_GH.2050": {
+  "value": 0.841709403372019
+ },
+ "grid.ratio_GS_over_GH.2100": {
+  "value": 0.5612907507689914
+ },
+ "heritage.all.endemism_ratio_vs_land": {
+  "value": 1.1813682537997454
+ },
+ "heritage.all.endemism_ratio_vs_land.member_p17_p50_p83": {
+  "value": [
+   1.0034007799408475,
+   1.1765923038951698,
+   1.2672745582695715
+  ]
+ },
+ "heritage.all.endemism_ratio_vs_land.n_members_gt1": {
+  "value": 50
+ },
+ "heritage.all.endemism_ratio_vs_populated_land.member_p17_p50_p83": {
+  "value": [
+   0.9823568532380805,
+   1.1387605234067661,
+   1.2364590714053216
+  ]
+ },
+ "heritage.all.endemism_ratio_vs_populated_land.n_members_gt1": {
+  "value": 46
+ },
+ "heritage.all.endemism_share_drier": {
+  "value": 0.6507005145710425
+ },
+ "heritage.all.endemism_share_drier.member_p17_p50_p83": {
+  "value": [
+   0.503317639885157,
+   0.5897605819240764,
+   0.6910117396237019
+  ]
+ },
+ "heritage.cells.hotspot_ratio_vs_land.member_p17_p50_p83": {
+  "value": [
+   0.9995991197027732,
+   1.197152918440053,
+   1.4134775555722927
+  ]
+ },
+ "heritage.cells.hotspot_ratio_vs_land.n_members_gt1": {
+  "value": 49
+ },
+ "heritage.cells.land_share_holding_half_of_noninst_endemism": {
+  "value": 0.013135143496630594
+ },
+ "heritage.cells.n_cells_holding_half_of_noninst_endemism": {
+  "value": 592
+ },
+ "heritage.cells.share_dry_of_cells_holding_half": {
+  "value": 0.6906304426113793
+ },
+ "heritage.cells.share_dry_of_cells_holding_half.member_p17_p50_p83": {
+  "value": [
+   0.5282969190143636,
+   0.6430343803846779,
+   0.7106422364441123
+  ]
+ },
+ "heritage.family.Afro_Asiatic.frac_members_majority_drier": {
+  "value": 0.15
+ },
+ "heritage.family.Afro_Asiatic.mean_f_dry": {
+  "value": 0.24498194027653233
+ },
+ "heritage.family.Afro_Asiatic.mean_f_p17_p83": {
+  "value": [
+   0.2677053341620604,
+   0.49370928082574245
+  ]
+ },
+ "heritage.family.Afro_Asiatic.n": {
+  "value": 308
+ },
+ "heritage.family.Algic.frac_members_majority_drier": {
+  "value": 1.0
+ },
+ "heritage.family.Algic.mean_f_dry": {
+  "value": 0.9382204163364385
+ },
+ "heritage.family.Algic.mean_f_p17_p83": {
+  "value": [
+   0.7050921366517306,
+   0.9635146400417284
+  ]
+ },
+ "heritage.family.Algic.n": {
+  "value": 30
+ },
+ "heritage.family.Arawakan.frac_members_majority_drier": {
+  "value": 0.4
+ },
+ "heritage.family.Arawakan.mean_f_dry": {
+  "value": 0.3810811395166832
+ },
+ "heritage.family.Arawakan.mean_f_p17_p83": {
+  "value": [
+   0.2811142425824335,
+   0.6314060672755656
+  ]
+ },
+ "heritage.family.Arawakan.n": {
+  "value": 40
+ },
+ "heritage.family.Athabaskan_Eyak_Tlingit.frac_members_majority_drier": {
+  "value": 0.8
+ },
+ "heritage.family.Athabaskan_Eyak_Tlingit.mean_f_dry": {
+  "value": 0.66589897466909
+ },
+ "heritage.family.Athabaskan_Eyak_Tlingit.mean_f_p17_p83": {
+  "value": [
+   0.47900178310575037,
+   0.8669300957230046
+  ]
+ },
+ "heritage.family.Athabaskan_Eyak_Tlingit.n": {
+  "value": 31
+ },
+ "heritage.family.Atlantic_Congo.frac_members_majority_drier": {
+  "value": 0.8166666666666667
+ },
+ "heritage.family.Atlantic_Congo.mean_f_dry": {
+  "value": 0.6585328863502665
+ },
+ "heritage.family.Atlantic_Congo.mean_f_p17_p83": {
+  "value": [
+   0.49727914853731287,
+   0.7596274868732096
+  ]
+ },
+ "heritage.family.Atlantic_Congo.n": {
+  "value": 1320
+ },
+ "heritage.family.Austroasiatic.frac_members_majority_drier": {
+  "value": 0.5
+ },
+ "heritage.family.Austroasiatic.mean_f_dry": {
+  "value": 0.7099809124277028
+ },
+ "heritage.family.Austroasiatic.mean_f_p17_p83": {
+  "value": [
+   0.23390507405383595,
+   0.8132556406958603
+  ]
+ },
+ "heritage.family.Austroasiatic.n": {
+  "value": 142
+ },
+ "heritage.family.Austronesian.frac_members_majority_drier": {
+  "value": 1.0
+ },
+ "heritage.family.Austronesian.mean_f_dry": {
+  "value": 0.7333193415011571
+ },
+ "heritage.family.Austronesian.mean_f_p17_p83": {
+  "value": [
+   0.5687102630546376,
+   0.78173190207628
+  ]
+ },
+ "heritage.family.Austronesian.n": {
+  "value": 1098
+ },
+ "heritage.family.Central_Sudanic.frac_members_majority_drier": {
+  "value": 0.7333333333333333
+ },
+ "heritage.family.Central_Sudanic.mean_f_dry": {
+  "value": 0.6488732478753051
+ },
+ "heritage.family.Central_Sudanic.mean_f_p17_p83": {
+  "value": [
+   0.4532534021236372,
+   0.9250062802644857
+  ]
+ },
+ "heritage.family.Central_Sudanic.n": {
+  "value": 53
+ },
+ "heritage.family.Dravidian.frac_members_majority_drier": {
+  "value": 0.16666666666666666
+ },
+ "heritage.family.Dravidian.mean_f_dry": {
+  "value": 0.070910542528482
+ },
+ "heritage.family.Dravidian.mean_f_p17_p83": {
+  "value": [
+   0.0020072621352151105,
+   0.20966802993049155
+  ]
+ },
+ "heritage.family.Dravidian.n": {
+  "value": 77
+ },
+ "heritage.family.Indo_European.frac_members_majority_drier": {
+  "value": 0.4166666666666667
+ },
+ "heritage.family.Indo_European.mean_f_dry": {
+  "value": 0.4421910922211646
+ },
+ "heritage.family.Indo_European.mean_f_p17_p83": {
+  "value": [
+   0.3410668382011107,
+   0.66830238586464
+  ]
+ },
+ "heritage.family.Indo_European.n": {
+  "value": 430
+ },
+ "heritage.family.Kru.frac_members_majority_drier": {
+  "value": 0.8333333333333334
+ },
+ "heritage.family.Kru.mean_f_dry": {
+  "value": 0.9061611929413358
+ },
+ "heritage.family.Kru.mean_f_p17_p83": {
+  "value": [
+   0.6572601162095978,
+   0.9997101618323206
+  ]
+ },
+ "heritage.family.Kru.n": {
+  "value": 38
+ },
+ "heritage.family.Mande.frac_members_majority_drier": {
+  "value": 0.38333333333333336
+ },
+ "heritage.family.Mande.mean_f_dry": {
+  "value": 0.30052392640607123
+ },
+ "heritage.family.Mande.mean_f_p17_p83": {
+  "value": [
+   0.26069082944349176,
+   0.7004683995635205
+  ]
+ },
+ "heritage.family.Mande.n": {
+  "value": 74
+ },
+ "heritage.family.Mayan.frac_members_majority_drier": {
+  "value": 0.38333333333333336
+ },
+ "heritage.family.Mayan.mean_f_dry": {
+  "value": 0.5791607379888453
+ },
+ "heritage.family.Mayan.mean_f_p17_p83": {
+  "value": [
+   0.034262988871796025,
+   0.9092465227057979
+  ]
+ },
+ "heritage.family.Mayan.n": {
+  "value": 31
+ },
+ "heritage.family.Nakh_Daghestanian.frac_members_majority_drier": {
+  "value": 0.9333333333333333
+ },
+ "heritage.family.Nakh_Daghestanian.mean_f_dry": {
+  "value": 1.0
+ },
+ "heritage.family.Nakh_Daghestanian.mean_f_p17_p83": {
+  "value": [
+   0.7238165358005706,
+   1.0
+  ]
+ },
+ "heritage.family.Nakh_Daghestanian.n": {
+  "value": 31
+ },
+ "heritage.family.Nuclear_Torricelli.frac_members_majority_drier": {
+  "value": 1.0
+ },
+ "heritage.family.Nuclear_Torricelli.mean_f_dry": {
+  "value": 1.0
+ },
+ "heritage.family.Nuclear_Torricelli.mean_f_p17_p83": {
+  "value": [
+   1.0,
+   1.0
+  ]
+ },
+ "heritage.family.Nuclear_Torricelli.n": {
+  "value": 55
+ },
+ "heritage.family.Nuclear_Trans_New_Guinea.frac_members_majority_drier": {
+  "value": 1.0
+ },
+ "heritage.family.Nuclear_Trans_New_Guinea.mean_f_dry": {
+  "value": 0.9997582496310214
+ },
+ "heritage.family.Nuclear_Trans_New_Guinea.mean_f_p17_p83": {
+  "value": [
+   0.7998797376350326,
+   1.0
+  ]
+ },
+ "heritage.family.Nuclear_Trans_New_Guinea.n": {
+  "value": 307
+ },
+ "heritage.family.Otomanguean.frac_members_majority_drier": {
+  "value": 0.5
+ },
+ "heritage.family.Otomanguean.mean_f_dry": {
+  "value": 0.9611430665571817
+ },
+ "heritage.family.Otomanguean.mean_f_p17_p83": {
+  "value": [
+   0.011232600835870334,
+   1.0
+  ]
+ },
+ "heritage.family.Otomanguean.n": {
+  "value": 176
+ },
+ "heritage.family.Quechuan.frac_members_majority_drier": {
+  "value": 0.16666666666666666
+ },
+ "heritage.family.Quechuan.mean_f_dry": {
+  "value": 0.33735663874249006
+ },
+ "heritage.family.Quechuan.mean_f_p17_p83": {
+  "value": [
+   0.25169846987209493,
+   0.4133115280903714
+  ]
+ },
+ "heritage.family.Quechuan.n": {
+  "value": 44
+ },
+ "heritage.family.Sepik.frac_members_majority_drier": {
+  "value": 1.0
+ },
+ "heritage.family.Sepik.mean_f_dry": {
+  "value": 1.0
+ },
+ "heritage.family.Sepik.mean_f_p17_p83": {
+  "value": [
+   0.998533544655353,
+   1.0
+  ]
+ },
+ "heritage.family.Sepik.n": {
+  "value": 34
+ },
+ "heritage.family.Sino_Tibetan.frac_members_majority_drier": {
+  "value": 0.21666666666666667
+ },
+ "heritage.family.Sino_Tibetan.mean_f_dry": {
+  "value": 0.38232648157796717
+ },
+ "heritage.family.Sino_Tibetan.mean_f_p17_p83": {
+  "value": [
+   0.03773677465595643,
+   0.5204875463338562
+  ]
+ },
+ "heritage.family.Sino_Tibetan.n": {
+  "value": 314
+ },
+ "heritage.family.Tai_Kadai.frac_members_majority_drier": {
+  "value": 0.31666666666666665
+ },
+ "heritage.family.Tai_Kadai.mean_f_dry": {
+  "value": 0.3445318028121532
+ },
+ "heritage.family.Tai_Kadai.mean_f_p17_p83": {
+  "value": [
+   0.058337640417455504,
+   0.8127149106604057
+  ]
+ },
+ "heritage.family.Tai_Kadai.n": {
+  "value": 50
+ },
+ "heritage.family.Tupian.frac_members_majority_drier": {
+  "value": 0.5666666666666667
+ },
+ "heritage.family.Tupian.mean_f_dry": {
+  "value": 0.5887093903279823
+ },
+ "heritage.family.Tupian.mean_f_p17_p83": {
+  "value": [
+   0.15234229174635244,
+   0.8433461793699628
+  ]
+ },
+ "heritage.family.Tupian.n": {
+  "value": 51
+ },
+ "heritage.family.Turkic.frac_members_majority_drier": {
+  "value": 1.0
+ },
+ "heritage.family.Turkic.mean_f_dry": {
+  "value": 0.8221470112861897
+ },
+ "heritage.family.Turkic.mean_f_p17_p83": {
+  "value": [
+   0.6805934686452432,
+   0.8872346950928531
+  ]
+ },
+ "heritage.family.Turkic.n": {
+  "value": 33
+ },
+ "heritage.family.Uralic.frac_members_majority_drier": {
+  "value": 0.65
+ },
+ "heritage.family.Uralic.mean_f_dry": {
+  "value": 0.6284274639198896
+ },
+ "heritage.family.Uralic.mean_f_p17_p83": {
+  "value": [
+   0.4389579948666155,
+   0.80245902864243
+  ]
+ },
+ "heritage.family.Uralic.n": {
+  "value": 34
+ },
+ "heritage.family.Uto_Aztecan.frac_members_majority_drier": {
+  "value": 0.5
+ },
+ "heritage.family.Uto_Aztecan.mean_f_dry": {
+  "value": 0.4844213398732015
+ },
+ "heritage.family.Uto_Aztecan.mean_f_p17_p83": {
+  "value": [
+   0.03659502383961734,
+   0.7103054531316764
+  ]
+ },
+ "heritage.family.Uto_Aztecan.n": {
+  "value": 52
+ },
+ "heritage.gdp_share_drier": {
+  "value": 0.5082680003552549
+ },
+ "heritage.glottolog.n_excluded_by_category": {
+  "value": {
+   "Bookkeeping": 65,
+   "Mixed_Language": 1,
+   "Pidgin": 2,
+   "Unattested": 13,
+   "Unclassifiable": 3
+  }
+ },
+ "heritage.glottolog.n_languages_in_lineage_sample": {
+  "value": 5852
+ },
+ "heritage.inst.endemism_ratio_vs_land": {
+  "value": 1.1256472871440564
+ },
+ "heritage.inst.endemism_ratio_vs_land.member_p17_p50_p83": {
+  "value": [
+   0.9557197027222603,
+   1.126252080308482,
+   1.2092817055359
+  ]
+ },
+ "heritage.inst.endemism_ratio_vs_land.n_members_gt1": {
+  "value": 44
+ },
+ "heritage.inst.endemism_ratio_vs_populated_land.member_p17_p50_p83": {
+  "value": [
+   0.9360397114349516,
+   1.088494362959056,
+   1.2055465982740787
+  ]
+ },
+ "heritage.inst.endemism_ratio_vs_populated_land.n_members_gt1": {
+  "value": 42
+ },
+ "heritage.inst.endemism_share_drier": {
+  "value": 0.6200092702798287
+ },
+ "heritage.inst.endemism_share_drier.member_p17_p50_p83": {
+  "value": [
+   0.48771744811885004,
+   0.5729183036124874,
+   0.6803934016153075
+  ]
+ },
+ "heritage.land_share_drier": {
+  "value": 0.5508024381712759
+ },
+ "heritage.land_share_drier.member_p17_p50_p83": {
+  "value": [
+   0.44265861477735946,
+   0.5366442782441263,
+   0.6466130904490232
+  ]
+ },
+ "heritage.lineage.isolates_by_macroarea": {
+  "value": {
+   "Africa": 11,
+   "Eurasia": 4,
+   "North America": 6,
+   "Papunesia": 50,
+   "South America": 24
+  }
+ },
+ "heritage.lineage.isolates_n": {
+  "value": 95
+ },
+ "heritage.lineage.isolates_share_mostly_drier": {
+  "value": 0.7157894736842105
+ },
+ "heritage.lineage.lineage_weighted_mean_f_dry": {
+  "value": 0.7134136742475118
+ },
+ "heritage.lineage.n": {
+  "value": 278
+ },
+ "heritage.lineage.n_all_languages_mostly_drier": {
+  "value": 169
+ },
+ "heritage.lineage.n_all_languages_mostly_drier.member_p17_p50_p83": {
+  "value": [
+   134.03,
+   153.5,
+   180.94
+  ]
+ },
+ "heritage.lineage.n_all_languages_mostly_drier_multi": {
+  "value": 93
+ },
+ "heritage.lineage.n_families": {
+  "value": 183
+ },
+ "heritage.lineage.n_families_single_language": {
+  "value": 17
+ },
+ "heritage.lineage.share_majority_homeland_drier": {
+  "value": 0.7158273381294964
+ },
+ "heritage.lineage.share_majority_homeland_drier.member_p17_p50_p83": {
+  "value": [
+   0.5757553956834532,
+   0.6366906474820144,
+   0.7515827338129496
+  ]
+ },
+ "heritage.n_languages_with_cells": {
+  "value": 5936
+ },
+ "heritage.noninst.binary_ratio_vs_land": {
+  "value": 1.1839283574612176
+ },
+ "heritage.noninst.binary_ratio_vs_land.member_p17_p50_p83": {
+  "value": [
+   1.0012836821362598,
+   1.1404025249799679,
+   1.242796268425169
+  ]
+ },
+ "heritage.noninst.binary_ratio_vs_land.n_members_gt1": {
+  "value": 50
+ },
+ "heritage.noninst.endemism_ratio_vs_land": {
+  "value": 1.185829175438847
+ },
+ "heritage.noninst.endemism_ratio_vs_land.member_p17_p50_p83": {
+  "value": [
+   1.0071882151668015,
+   1.175445253866813,
+   1.2704827259910694
+  ]
+ },
+ "heritage.noninst.endemism_ratio_vs_land.n_members_gt1": {
+  "value": 50
+ },
+ "heritage.noninst.endemism_ratio_vs_populated_land.member_p17_p50_p83": {
+  "value": [
+   0.9860605363578646,
+   1.1372870338239005,
+   1.2495049098684006
+  ]
+ },
+ "heritage.noninst.endemism_ratio_vs_populated_land.n_members_gt1": {
+  "value": 49
+ },
+ "heritage.noninst.endemism_share_drier": {
+  "value": 0.6531576010863507
+ },
+ "heritage.noninst.endemism_share_drier.member_p17_p50_p83": {
+  "value": [
+   0.5029328422294785,
+   0.5952172943306527,
+   0.6903105662790558
+  ]
+ },
+ "heritage.noninst.n_fully_wetter_or_similar": {
+  "value": 1621
+ },
+ "heritage.noninst.n_no_refuge": {
+  "value": 3310
+ },
+ "heritage.noninst.n_no_refuge_ge_two_thirds_members": {
+  "value": 2185
+ },
+ "heritage.noninst.range_km2_median": {
+  "value": 579.1484872122383
+ },
+ "heritage.noninst.share_no_refuge": {
+  "value": 0.6022561863173217
+ },
+ "heritage.noninst.share_no_refuge.member_p17_p50_p83": {
+  "value": [
+   0.43985080058224163,
+   0.5429403202328966,
+   0.6331222707423582
+  ]
+ },
+ "heritage.populated_land_share_drier": {
+  "value": 0.5635731114027893
+ },
+ "heritage.range.Q1.mean_f_dry": {
+  "value": 0.6661029177008829
+ },
+ "heritage.range.Q1.range_km2_median": {
+  "value": 12.86756279350898
+ },
+ "heritage.range.Q1.share_no_refuge": {
+  "value": 0.6627272727272727
+ },
+ "heritage.range.Q2.mean_f_dry": {
+  "value": 0.6848166342929661
+ },
+ "heritage.range.Q2.range_km2_median": {
+  "value": 156.4156479888136
+ },
+ "heritage.range.Q2.share_no_refuge": {
+  "value": 0.6669699727024567
+ },
+ "heritage.range.Q3.mean_f_dry": {
+  "value": 0.6688535033893049
+ },
+ "heritage.range.Q3.range_km2_median": {
+  "value": 580.3774904262905
+ },
+ "heritage.range.Q3.share_no_refuge": {
+  "value": 0.6260236578707916
+ },
+ "heritage.range.Q4.mean_f_dry": {
+  "value": 0.6237900963369655
+ },
+ "heritage.range.Q4.range_km2_median": {
+  "value": 1929.8320775646496
+ },
+ "heritage.range.Q4.share_no_refuge": {
+  "value": 0.5641492265696088
+ },
+ "heritage.range.Q5.mean_f_dry": {
+  "value": 0.6222130745336409
+ },
+ "heritage.range.Q5.range_km2_median": {
+  "value": 10408.357571639403
+ },
+ "heritage.range.Q5.share_no_refuge": {
+  "value": 0.4913557779799818
+ },
+ "heritage.tree.ED_max": {
+  "value": 5.504651162790697
+ },
+ "heritage.tree.ED_median": {
+  "value": 1.66774929137543
+ },
+ "heritage.tree.ED_ratio_vs_land.member_p17_p50_p83": {
+  "value": [
+   1.0061434524507302,
+   1.1650585580363946,
+   1.2588621921682197
+  ]
+ },
+ "heritage.tree.ED_ratio_vs_land.n_members_gt1": {
+  "value": 50
+ },
+ "heritage.tree.ED_weighted_share_drier.member_p17_p50_p83": {
+  "value": [
+   0.4986532934686488,
+   0.5886230060113901,
+   0.6881360309388448
+  ]
+ },
+ "heritage.tree.PD_share_mostly_drier": {
+  "value": 0.6815737051792828
+ },
+ "heritage.tree.PD_share_mostly_drier.member_p17_p50_p83": {
+  "value": [
+   0.546918326693227,
+   0.6297310756972112,
+   0.7196882470119521
+  ]
+ },
+ "heritage.tree.PD_share_null_p2.5_p50_p97.5": {
+  "value": [
+   0.7583142430278884,
+   0.7615537848605578,
+   0.7649402390438247
+  ]
+ },
+ "heritage.tree.PD_share_percentile_vs_null": {
+  "value": 0.0
+ },
+ "heritage.tree.all.ED_weighted_share_drier": {
+  "value": 0.64554323208197
+ },
+ "heritage.tree.all.unweighted_share_drier": {
+  "value": 0.6515198501727828
+ },
+ "heritage.tree.lang_share_mostly_drier": {
+  "value": 0.6512303485987696
+ },
+ "heritage.tree.n_edges_total": {
+  "value": 10040
+ },
+ "heritage.tree.n_top_lineages": {
+  "value": 278
+ },
+ "heritage.tree.noninst.ED_weighted_share_drier": {
+  "value": 0.6480263250442244
+ },
+ "heritage.tree.noninst.unweighted_share_drier": {
+  "value": 0.653903986018098
+ },
+ "latband.0-23N": {
+  "value": {
+   "R": -0.17929684329529438,
+   "RP_median": -3.0373970946498217,
+   "n": 2726,
+   "premium": 4.8288069108276135,
+   "share_end": 0.3191489361702128
+  }
+ },
+ "latband.0-23S": {
+  "value": {
+   "R": -0.12929307259110848,
+   "RP_median": -5.391118522493657,
+   "n": 2221,
+   "premium": 3.050113774474165,
+   "share_end": 0.4515983791085097
+  }
+ },
+ "latband.23-35N": {
+  "value": {
+   "R": -0.19642221678749425,
+   "RP_median": 1.2247148137554593,
+   "n": 511,
+   "premium": 4.949790999763373,
+   "share_end": 0.410958904109589
+  }
+ },
+ "latband.23-35S": {
+  "value": {
+   "R": -0.12815385086608733,
+   "RP_median": 4.8266277924196315,
+   "n": 30,
+   "premium": 2.9774783537630958,
+   "share_end": 0.3
+  }
+ },
+ "latband.35-55N": {
+  "value": {
+   "R": -0.10527551292218958,
+   "RP_median": -4.710821669812315,
+   "n": 353,
+   "premium": 1.4533274545046102,
+   "share_end": 0.5864022662889519
+  }
+ },
+ "latband.35-60S": {
+  "value": {
+   "R": 0.277393382642955,
+   "RP_median": -5.055131640103853,
+   "n": 4,
+   "premium": 0.4941088286240748,
+   "share_end": 1.0
+  }
+ },
+ "latband.>55N": {
+  "value": {
+   "R": 0.19899415518413777,
+   "RP_median": -3.1688981082483094,
+   "n": 91,
+   "premium": 0.5566118119059437,
+   "share_end": 0.7692307692307693
+  }
+ },
+ "member.RP_median_Dying.2050.frac_pos": {
+  "value": 0.0
+ },
+ "member.RP_median_Dying.2050.p17_p50_p83": {
+  "value": [
+   -1.1641430484066981,
+   -0.6350022575251246,
+   -0.22020469564341408
+  ]
+ },
+ "member.RP_median_Dying.2100.frac_pos": {
+  "value": 0.0
+ },
+ "member.RP_median_Dying.2100.p17_p50_p83": {
+  "value": [
+   -6.006818030415004,
+   -3.0550864845507517,
+   -1.3861101776829792
+  ]
+ },
+ "member.RP_median_In trouble.2050.frac_pos": {
+  "value": 0.0
+ },
+ "member.RP_median_In trouble.2050.p17_p50_p83": {
+  "value": [
+   -1.3660848750834667,
+   -0.7793467656582823,
+   -0.327552632620684
+  ]
+ },
+ "member.RP_median_In trouble.2100.frac_pos": {
+  "value": 0.0
+ },
+ "member.RP_median_In trouble.2100.p17_p50_p83": {
+  "value": [
+   -7.047558636665669,
+   -4.034881382021312,
+   -1.694671243242563
+  ]
+ },
+ "member.RP_median_Institutional.2050.frac_pos": {
+  "value": 0.0
+ },
+ "member.RP_median_Institutional.2050.p17_p50_p83": {
+  "value": [
+   -1.273920380654646,
+   -0.6160869381093506,
+   -0.29199255964433446
+  ]
+ },
+ "member.RP_median_Institutional.2100.frac_pos": {
+  "value": 0.0
+ },
+ "member.RP_median_Institutional.2100.p17_p50_p83": {
+  "value": [
+   -6.676544550992113,
+   -3.086075512084278,
+   -1.6141768663126543
+  ]
+ },
+ "member.RP_median_Stable.2050.frac_pos": {
+  "value": 0.016666666666666666
+ },
+ "member.RP_median_Stable.2050.p17_p50_p83": {
+  "value": [
+   -1.0135627120897102,
+   -0.6689704484877257,
+   -0.341747274596157
+  ]
+ },
+ "member.RP_median_Stable.2100.frac_pos": {
+  "value": 0.0
+ },
+ "member.RP_median_Stable.2100.p17_p50_p83": {
+  "value": [
+   -5.452737683449485,
+   -3.2229828507000327,
+   -1.4837992767629145
+  ]
+ },
+ "member.RR_Rpos_dying_vs_inst.2050.frac_pos": {
+  "value": 0.9666666666666667
+ },
+ "member.RR_Rpos_dying_vs_inst.2050.p17_p50_p83": {
+  "value": [
+   1.178734778734779,
+   3.0733483222171007,
+   4095634.0956340935
+  ]
+ },
+ "member.RR_Rpos_dying_vs_inst.2100.frac_pos": {
+  "value": 1.0
+ },
+ "member.RR_Rpos_dying_vs_inst.2100.p17_p50_p83": {
+  "value": [
+   0.8835254888218318,
+   0.9397742755039664,
+   2.141521964194029
+  ]
+ },
+ "member.RR_Rpos_end_vs_non.2050.frac_pos": {
+  "value": 0.9833333333333333
+ },
+ "member.RR_Rpos_end_vs_non.2050.p17_p50_p83": {
+  "value": [
+   0.9216096656187454,
+   2.7686861175148527,
+   9.004345132743364
+  ]
+ },
+ "member.RR_Rpos_end_vs_non.2100.frac_pos": {
+  "value": 1.0
+ },
+ "member.RR_Rpos_end_vs_non.2100.p17_p50_p83": {
+  "value": [
+   0.7542984812385342,
+   0.9670102833867595,
+   2.1661882311056853
+  ]
+ },
+ "member.R_mean_Dying.2050.frac_pos": {
+  "value": 0.16666666666666666
+ },
+ "member.R_mean_Dying.2050.p17_p50_p83": {
+  "value": [
+   -0.048850533114302784,
+   -0.017959800224909225,
+   -0.0004335672719423006
+  ]
+ },
+ "member.R_mean_Dying.2100.frac_pos": {
+  "value": 0.16666666666666666
+ },
+ "member.R_mean_Dying.2100.p17_p50_p83": {
+  "value": [
+   -0.2376848353146902,
+   -0.09620001281799154,
+   -0.003082301821774572
+  ]
+ },
+ "member.R_mean_In trouble.2050.frac_pos": {
+  "value": 0.16666666666666666
+ },
+ "member.R_mean_In trouble.2050.p17_p50_p83": {
+  "value": [
+   -0.07210118168122531,
+   -0.028469734619463744,
+   -0.0022577149066116083
+  ]
+ },
+ "member.R_mean_In trouble.2100.frac_pos": {
+  "value": 0.16666666666666666
+ },
+ "member.R_mean_In trouble.2100.p17_p50_p83": {
+  "value": [
+   -0.3372000038554362,
+   -0.13525146003315916,
+   -0.011603593087662182
+  ]
+ },
+ "member.R_mean_Institutional.2050.frac_pos": {
+  "value": 0.16666666666666666
+ },
+ "member.R_mean_Institutional.2050.p17_p50_p83": {
+  "value": [
+   -0.06956252022817118,
+   -0.032554923865935566,
+   -0.005908519440901278
+  ]
+ },
+ "member.R_mean_Institutional.2100.frac_pos": {
+  "value": 0.16666666666666666
+ },
+ "member.R_mean_Institutional.2100.p17_p50_p83": {
+  "value": [
+   -0.31773168648446415,
+   -0.15473452060286397,
+   -0.027477833572042518
+  ]
+ },
+ "member.R_mean_Stable.2050.frac_pos": {
+  "value": 0.3333333333333333
+ },
+ "member.R_mean_Stable.2050.p17_p50_p83": {
+  "value": [
+   -0.08290259901418345,
+   -0.03176517272170949,
+   0.006543204998026998
+  ]
+ },
+ "member.R_mean_Stable.2100.frac_pos": {
+  "value": 0.3333333333333333
+ },
+ "member.R_mean_Stable.2100.p17_p50_p83": {
+  "value": [
+   -0.37907461391423564,
+   -0.15214499319907343,
+   0.030919362791681965
+  ]
+ },
+ "member.gap_RP_end_minus_non.2050.frac_pos": {
+  "value": 0.6666666666666666
+ },
+ "member.gap_RP_end_minus_non.2050.p17_p50_p83": {
+  "value": [
+   -0.41817095891350003,
+   0.1186230587573428,
+   0.641308863708713
+  ]
+ },
+ "member.gap_RP_end_minus_non.2100.frac_pos": {
+  "value": 0.5833333333333334
+ },
+ "member.gap_RP_end_minus_non.2100.p17_p50_p83": {
+  "value": [
+   -2.383706667115448,
+   0.32456328164453196,
+   4.915764872282665
+  ]
+ },
+ "member.gap_R_dying_minus_inst.2050.frac_pos": {
+  "value": 0.5
+ },
+ "member.gap_R_dying_minus_inst.2050.p17_p50_p83": {
+  "value": [
+   -0.007099491633192925,
+   0.0052024479878034794,
+   0.031874788085882344
+  ]
+ },
+ "member.gap_R_dying_minus_inst.2100.frac_pos": {
+  "value": 0.5
+ },
+ "member.gap_R_dying_minus_inst.2100.p17_p50_p83": {
+  "value": [
+   -0.03392430683364779,
+   0.028078789580373895,
+   0.14923467216282624
+  ]
+ },
+ "member.gap_R_end_minus_non.2050.frac_pos": {
+  "value": 0.5
+ },
+ "member.gap_R_end_minus_non.2050.p17_p50_p83": {
+  "value": [
+   -0.008084650663955882,
+   0.0012325513072869304,
+   0.016682533050432335
+  ]
+ },
+ "member.gap_R_end_minus_non.2100.frac_pos": {
+  "value": 0.5
+ },
+ "member.gap_R_end_minus_non.2100.p17_p50_p83": {
+  "value": [
+   -0.0383725771821212,
+   0.00687959941525719,
+   0.08048663861794675
+  ]
+ },
+ "overlay.n_languages_living_nonsign": {
+  "value": 5936
+ },
+ "overlay.n_languages_with_exposure": {
+  "value": 6081
+ },
+ "overlay.n_polys_dropped_no_land": {
+  "value": 185
+ },
+ "overlay.n_polys_nearest_cell_fallback": {
+  "value": 385
+ },
+ "overlay.n_polys_with_land_coverage": {
+  "value": 6911
+ },
+ "overlay.n_polys_without_land_coverage": {
+  "value": 570
+ },
+ "owid.latest_year_mode": {
+  "value": 2024
+ },
+ "pattern.RP_range_median.2050": {
+  "value": 3.1267023936531673
+ },
+ "pattern.RP_range_median.2100": {
+  "value": 14.957773725318011
+ },
+ "pattern.R_range_median.2050": {
+  "value": 0.1334259145810657
+ },
+ "pattern.R_range_median.2050.Dying": {
+  "value": 0.13319358045260465
+ },
+ "pattern.R_range_median.2050.In_trouble": {
+  "value": 0.12800942869278892
+ },
+ "pattern.R_range_median.2050.Institutional": {
+  "value": 0.1685442660566476
+ },
+ "pattern.R_range_median.2050.Stable": {
+  "value": 0.15667237456611915
+ },
+ "pattern.R_range_median.2100": {
+  "value": 0.6371676145101925
+ },
+ "pattern.R_range_median.2100.Dying": {
+  "value": 0.6353322249907843
+ },
+ "pattern.R_range_median.2100.In_trouble": {
+  "value": 0.6233197221628285
+ },
+ "pattern.R_range_median.2100.Institutional": {
+  "value": 0.8057677454939094
+ },
+ "pattern.R_range_median.2100.Stable": {
+  "value": 0.7568903628778797
+ },
+ "pattern.highlat_R_by_pattern.2050": {
+  "value": [
+   -0.08837810865254093,
+   -0.0036463112602735746,
+   -0.016727726186078592,
+   0.17121794387918604,
+   0.09801930570606636,
+   0.09189604088354804
+  ]
+ },
+ "pattern.highlat_R_by_pattern.2100": {
+  "value": [
+   -0.4212303905662678,
+   -0.014635844135919862,
+   -0.07936241049300458,
+   0.8540300002914372,
+   0.4681014196806924,
+   0.4358642623481181
+  ]
+ },
+ "pattern.highlat_n": {
+  "value": 91
+ },
+ "pattern.highlat_share_end": {
+  "value": 0.7692307692307693
+ },
+ "pattern.share_lang_RP_neg_5of6.2050": {
+  "value": 0.46647574123989216
+ },
+ "pattern.share_lang_RP_neg_5of6.2100": {
+  "value": 0.5
+ },
+ "pattern.share_lang_R_sign_agree5of6.2050": {
+  "value": 0.433288409703504
+ },
+ "pattern.share_lang_R_sign_agree5of6.2100": {
+  "value": 0.44002695417789756
+ },
+ "pattern.tropics_R_by_pattern.2050": {
+  "value": [
+   -0.025896033071708537,
+   0.03219002950181624,
+   0.004924156150647416,
+   -0.07474296865336888,
+   -0.03243996003960398,
+   -0.09662401981755918
+  ]
+ },
+ "pattern.tropics_R_by_pattern.2100": {
+  "value": [
+   -0.1255726868417575,
+   0.14636452674651315,
+   0.022245245254633655,
+   -0.3735280665894549,
+   -0.15574879393078367,
+   -0.45756469409354733
+  ]
+ },
+ "persp.H_minus_M.end.BR_p17_p50_p83": {
+  "value": [
+   NaN,
+   NaN,
+   NaN
+  ]
+ },
+ "persp.H_minus_M.end.p17_p50_p83": {
+  "value": [
+   2.076298891750941,
+   2.7804578841885568,
+   3.7420699685496372
+  ]
+ },
+ "persp.H_minus_M.gdp.BR_p17_p50_p83": {
+  "value": [
+   NaN,
+   NaN,
+   NaN
+  ]
+ },
+ "persp.H_minus_M.gdp.p17_p50_p83": {
+  "value": [
+   1.551382810060061,
+   2.035938913139831,
+   2.700999241503019
+  ]
+ },
+ "persp.H_minus_M.lang.BR_p17_p50_p83": {
+  "value": [
+   NaN,
+   NaN,
+   NaN
+  ]
+ },
+ "persp.H_minus_M.lang.p17_p50_p83": {
+  "value": [
+   2.597451351472045,
+   3.538435541947716,
+   4.641905197337207
+  ]
+ },
+ "persp.H_minus_M.pop.BR_p17_p50_p83": {
+  "value": [
+   NaN,
+   NaN,
+   NaN
+  ]
+ },
+ "persp.H_minus_M.pop.p17_p50_p83": {
+  "value": [
+   2.252905038953997,
+   3.0174837448119574,
+   4.0227087134745005
+  ]
+ },
+ "persp.M.end.BR_p17_p50_p83": {
+  "value": [
+   1.2273189261677002,
+   1.282887470643696,
+   1.4019036376639242
+  ]
+ },
+ "persp.M.end.p17_p50_p83": {
+  "value": [
+   4.715467761631927,
+   5.547661174701492,
+   7.222727533966141
+  ]
+ },
+ "persp.M.gdp.BR_p17_p50_p83": {
+  "value": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "persp.M.gdp.p17_p50_p83": {
+  "value": [
+   3.662315288547777,
+   4.380751296117101,
+   5.438889270062875
+  ]
+ },
+ "persp.M.lang.BR_p17_p50_p83": {
+  "value": [
+   1.4195578097780732,
+   1.4993493358870307,
+   1.6806475276304027
+  ]
+ },
+ "persp.M.lang.p17_p50_p83": {
+  "value": [
+   5.425804018445715,
+   6.486862932214969,
+   8.66352498746631
+  ]
+ },
+ "persp.M.pop.BR_p17_p50_p83": {
+  "value": [
+   1.4061702088634525,
+   1.428013622966167,
+   1.4637612686310946
+  ]
+ },
+ "persp.M.pop.p17_p50_p83": {
+  "value": [
+   5.227139096131862,
+   6.2137142601360615,
+   7.677155175713424
+  ]
+ },
+ "persp.ST.end.BR_p17_p50_p83": {
+  "value": [
+   1.284432417169457,
+   1.3198467454364535,
+   1.4650289495217874
+  ]
+ },
+ "persp.ST.end.p17_p50_p83": {
+  "value": [
+   6.59628792730034,
+   8.413883778200244,
+   11.80658366324117
+  ]
+ },
+ "persp.ST.gdp.BR_p17_p50_p83": {
+  "value": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "persp.ST.gdp.p17_p50_p83": {
+  "value": [
+   4.996459325429419,
+   6.113125132596748,
+   9.058226364823357
+  ]
+ },
+ "persp.ST.lang.BR_p17_p50_p83": {
+  "value": [
+   1.506792407867617,
+   1.5843439655757048,
+   1.7896883860391395
+  ]
+ },
+ "persp.ST.lang.p17_p50_p83": {
+  "value": [
+   7.923406862930207,
+   10.24644194155591,
+   14.195949684653803
+  ]
+ },
+ "persp.ST.pop.BR_p17_p50_p83": {
+  "value": [
+   1.4176645185782109,
+   1.437687410355501,
+   1.4954814022274148
+  ]
+ },
+ "persp.ST.pop.p17_p50_p83": {
+  "value": [
+   7.194350456397821,
+   9.130401550336892,
+   12.729367319936637
+  ]
+ },
+ "persp.ST_minus_M.end.BR_p17_p50_p83": {
+  "value": [
+   1.37572069663325,
+   1.4283488427846414,
+   1.6219493973248749
+  ]
+ },
+ "persp.ST_minus_M.end.p17_p50_p83": {
+  "value": [
+   1.4801683383743345,
+   2.748816793356019,
+   5.703069028537238
+  ]
+ },
+ "persp.ST_minus_M.gdp.BR_p17_p50_p83": {
+  "value": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "persp.ST_minus_M.gdp.p17_p50_p83": {
+  "value": [
+   0.986391449519315,
+   1.9136356748566952,
+   4.036516303669199
+  ]
+ },
+ "persp.ST_minus_M.lang.BR_p17_p50_p83": {
+  "value": [
+   1.6801615049344358,
+   1.7533818152124798,
+   2.060348866478261
+  ]
+ },
+ "persp.ST_minus_M.lang.p17_p50_p83": {
+  "value": [
+   1.8116516744029718,
+   3.4719907608649243,
+   6.705443961815056
+  ]
+ },
+ "persp.ST_minus_M.pop.BR_p17_p50_p83": {
+  "value": [
+   1.428260533455269,
+   1.480582377470169,
+   1.5907080387264922
+  ]
+ },
+ "persp.ST_minus_M.pop.p17_p50_p83": {
+  "value": [
+   1.5523820956641934,
+   2.8841553064420427,
+   5.610282724416533
+  ]
+ },
+ "persp.S_minus_M.end.BR_p17_p50_p83": {
+  "value": [
+   NaN,
+   NaN,
+   NaN
+  ]
+ },
+ "persp.S_minus_M.end.p17_p50_p83": {
+  "value": [
+   -0.5543168209184786,
+   -0.21892690542210214,
+   -0.011362613427499666
+  ]
+ },
+ "persp.S_minus_M.gdp.BR_p17_p50_p83": {
+  "value": [
+   NaN,
+   NaN,
+   NaN
+  ]
+ },
+ "persp.S_minus_M.gdp.p17_p50_p83": {
+  "value": [
+   -0.3821840651057784,
+   -0.20881352390906593,
+   -0.10863349869721997
+  ]
+ },
+ "persp.S_minus_M.lang.BR_p17_p50_p83": {
+  "value": [
+   NaN,
+   NaN,
+   NaN
+  ]
+ },
+ "persp.S_minus_M.lang.p17_p50_p83": {
+  "value": [
+   -0.6945219382255134,
+   -0.2831912765609457,
+   -0.003748155687475491
+  ]
+ },
+ "persp.S_minus_M.pop.BR_p17_p50_p83": {
+  "value": [
+   NaN,
+   NaN,
+   NaN
+  ]
+ },
+ "persp.S_minus_M.pop.p17_p50_p83": {
+  "value": [
+   -0.6700306718351977,
+   -0.3711879721937734,
+   -0.10433643648769012
+  ]
+ },
+ "persp.premium.end.BR_p17_p50_p83": {
+  "value": [
+   1.365279413768531,
+   1.4141972358618315,
+   1.5462487527855842
+  ]
+ },
+ "persp.premium.end.p17_p50_p83": {
+  "value": [
+   1.6668899623391034,
+   3.0045601545065406,
+   6.056184735862213
+  ]
+ },
+ "persp.premium.gdp.BR_p17_p50_p83": {
+  "value": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "persp.premium.gdp.p17_p50_p83": {
+  "value": [
+   1.2124045800337222,
+   2.1395798365731338,
+   4.281661006869213
+  ]
+ },
+ "persp.premium.lang.BR_p17_p50_p83": {
+  "value": [
+   1.650714563186152,
+   1.7333105695858388,
+   1.9601689063920869
+  ]
+ },
+ "persp.premium.lang.p17_p50_p83": {
+  "value": [
+   2.0840432860003437,
+   3.769787567613659,
+   7.159188846338237
+  ]
+ },
+ "persp.premium.pop.BR_p17_p50_p83": {
+  "value": [
+   1.4495072374429063,
+   1.5414488840949854,
+   1.5778929023647015
+  ]
+ },
+ "persp.premium.pop.p17_p50_p83": {
+  "value": [
+   1.8788446534141923,
+   3.2819147397669814,
+   6.164845768436756
+  ]
+ },
+ "persp.share_languages_with_econ": {
+  "value": 0.9943516937348672
+ },
+ "pixel.T1.local_minus_national_premium.endangered": {
+  "value": -0.8089198674001713
+ },
+ "pixel.T1.local_minus_national_premium.not_endangered": {
+  "value": -1.138196294101875
+ },
+ "pixel.T1.mean_premium_lang_weighted": {
+  "value": 2.8685479041081154
+ },
+ "pixel.T1.n_countries_with_both_groups": {
+  "value": 128
+ },
+ "pixel.T1.n_polygons": {
+  "value": 7054
+ },
+ "pixel.T1.within_country_variance_share_premium": {
+  "value": 0.2762695134827696
+ },
+ "pixel.T2.mean_premium_area_weighted": {
+  "value": 1.4522557297902166
+ },
+ "pixel.T2.n_cells": {
+  "value": 47433
+ },
+ "pixel.T2.within_country_variance_share_benefit": {
+  "value": 0.2989630812580767
+ },
+ "pixel.T2.within_country_variance_share_premium": {
+  "value": 0.27614222694656687
+ },
+ "pixel.cell_area_formula_vs_climrisk_max_rel_diff": {
+  "value": 2.7625195901936905e-06
+ },
+ "pixel.country_gdp_ratio_median": {
+  "value": 0.9999999997997745
+ },
+ "pixel.country_gdp_ratio_p5_p95": {
+  "value": [
+   0.9999999867737774,
+   1.0000000121816734
+  ]
+ },
+ "pixel.country_loss_sum_of_cell_medians_ratio_median": {
+  "value": 1.000369054379392
+ },
+ "pixel.country_loss_sum_of_cell_medians_ratio_p25_p75": {
+  "value": [
+   0.9972491972187171,
+   1.0044239020296493
+  ]
+ },
+ "pixel.imputation_km_p50_p95_max": {
+  "value": [
+   55.59746332227929,
+   317.944392764682,
+   1088.4263076708003
+  ]
+ },
+ "pixel.lang_mean_benefit_econ_p50": {
+  "value": 3.1071996258178998
+ },
+ "pixel.lang_mean_premium_local_econ_p50": {
+  "value": 2.8915209245594022
+ },
+ "pixel.lang_mean_premium_local_terr_p50": {
+  "value": 2.7864779986378307
+ },
+ "pixel.lang_mean_premium_national_from_script05": {
+  "value": 3.900917688039981
+ },
+ "pixel.n_cells": {
+  "value": 47506
+ },
+ "pixel.n_languages": {
+  "value": 5920
+ },
+ "pixel.n_polycell_rows_imputed": {
+  "value": 7143
+ },
+ "pixel.n_polygons": {
+  "value": 7054
+ },
+ "pixel.share_cells_gdp_recovered": {
+  "value": 0.9984633519976424
+ },
+ "pixel.share_polygon_land_weight_imputed": {
+  "value": 0.05181147300728178
+ },
+ "pixel.share_polygon_land_weight_on_gdp_cells": {
+  "value": 0.9481885269927182
+ },
+ "pixel.share_world_gdp_recovered": {
+  "value": 0.9994066332448638
+ },
+ "pixel.verdict.T1_endangered_within_country.ROBUST": {
+  "value": false
+ },
+ "pixel.verdict.T1_endangered_within_country.ci": {
+  "value": [
+   -0.19724727770613673,
+   0.1264536905148986
+  ]
+ },
+ "pixel.verdict.T1_endangered_within_country.ci_excludes_zero": {
+  "value": false
+ },
+ "pixel.verdict.T1_endangered_within_country.estimate": {
+  "value": -0.055518488511273584
+ },
+ "pixel.verdict.T1_endangered_within_country.magnitude_ge_10pct": {
+  "value": false
+ },
+ "pixel.verdict.T1_endangered_within_country.rel_to_mean": {
+  "value": -0.01935421347914889
+ },
+ "pixel.verdict.T1_endangered_within_country.same_sign_all_specs": {
+  "value": true
+ },
+ "pixel.verdict.T2_richness_all_within_country.ROBUST": {
+  "value": true
+ },
+ "pixel.verdict.T2_richness_all_within_country.ci": {
+  "value": [
+   0.0631659613131687,
+   0.2434671522105159
+  ]
+ },
+ "pixel.verdict.T2_richness_all_within_country.ci_excludes_zero": {
+  "value": true
+ },
+ "pixel.verdict.T2_richness_all_within_country.estimate": {
+  "value": 0.14634120231212872
+ },
+ "pixel.verdict.T2_richness_all_within_country.magnitude_ge_10pct": {
+  "value": true
+ },
+ "pixel.verdict.T2_richness_all_within_country.rel_to_mean": {
+  "value": 0.10076820446304469
+ },
+ "pixel.verdict.T2_richness_all_within_country.same_sign_all_specs": {
+  "value": true
+ },
+ "pixel.verdict.T2_richness_endangered_within_country.ROBUST": {
+  "value": false
+ },
+ "pixel.verdict.T2_richness_endangered_within_country.ci": {
+  "value": [
+   -0.034129522089556205,
+   0.15673902561757627
+  ]
+ },
+ "pixel.verdict.T2_richness_endangered_within_country.ci_excludes_zero": {
+  "value": false
+ },
+ "pixel.verdict.T2_richness_endangered_within_country.estimate": {
+  "value": 0.052452788206307305
+ },
+ "pixel.verdict.T2_richness_endangered_within_country.magnitude_ge_10pct": {
+  "value": false
+ },
+ "pixel.verdict.T2_richness_endangered_within_country.rel_to_mean": {
+  "value": 0.03611814856732175
+ },
+ "pixel.verdict.T2_richness_endangered_within_country.same_sign_all_specs": {
+  "value": false
+ },
+ "points.ED_weighted_share_drier": {
+  "value": 0.6163115324851073
+ },
+ "points.added_by_macroarea": {
+  "value": {
+   "Africa": 119,
+   "Australia": 133,
+   "Eurasia": 282,
+   "North America": 6,
+   "Papunesia": 20,
+   "South America": 19
+  }
+ },
+ "points.added_mean_f_dry": {
+  "value": 0.3385146804835924
+ },
+ "points.added_mean_f_dry_by_macroarea": {
+  "value": {
+   "Africa": 0.916,
+   "Australia": 0.0,
+   "Eurasia": 0.2128,
+   "North America": 0.1667,
+   "Papunesia": 0.7,
+   "South America": 0.6316
+  }
+ },
+ "points.added_noninst_share": {
+  "value": 0.9585492227979274
+ },
+ "points.deep_tropics_share_languages": {
+  "value": 0.6516278301107254
+ },
+ "points.families": {
+  "value": 213
+ },
+ "points.hotspots_drier": {
+  "value": 0.6638742541638445
+ },
+ "points.isolates": {
+  "value": 102
+ },
+ "points.isolates_mostly_drier": {
+  "value": 0.696078431372549
+ },
+ "points.languages": {
+  "value": 6515
+ },
+ "points.lineage_languages": {
+  "value": 6403
+ },
+ "points.lineages": {
+  "value": 315
+ },
+ "points.lineages_drier": {
+  "value": 0.6784193318788961
+ },
+ "points.lineages_dry_to_wet": {
+  "value": 3.7981139803946236
+ },
+ "points.lineages_members_gt_economy": {
+  "value": 51
+ },
+ "points.lineages_members_gt_land": {
+  "value": 52
+ },
+ "points.lineages_members_gt_people": {
+  "value": 60
+ },
+ "points.lineages_mostly_drier": {
+  "value": 0.6793650793650794
+ },
+ "points.lineages_mostly_drier_p17": {
+  "value": 0.5714285714285714
+ },
+ "points.lineages_mostly_drier_p83": {
+  "value": 0.6854285714285714
+ },
+ "points.lineages_wetter": {
+  "value": 0.17862005600169178
+ },
+ "points.n_candidates_without_polygon": {
+  "value": 586
+ },
+ "points.n_point_languages_added": {
+  "value": 582
+ },
+ "points.n_point_languages_in_sample": {
+  "value": 579
+ },
+ "points.n_without_glottolog_point": {
+  "value": 4
+ },
+ "points.noninst_drier": {
+  "value": 0.623988460679323
+ },
+ "points.noninst_dry_to_wet": {
+  "value": 3.3263874896418804
+ },
+ "points.noninst_languages": {
+  "value": 6051
+ },
+ "points.noninst_members_gt_land": {
+  "value": 48
+ },
+ "points.noninst_wetter": {
+  "value": 0.18758742408164292
+ },
+ "points.people_drier": {
+  "value": 0.5295968965006738
+ },
+ "resp.share_cumco2_annexI": {
+  "value": 0.6252001089725675
+ },
+ "resp.share_endangered_annexI": {
+  "value": 0.11220422084423133
+ },
+ "resp.share_languages_annexI": {
+  "value": 0.0626035328037869
+ },
+ "resp.share_pop_annexI": {
+  "value": 0.16691146914073599
+ },
+ "resp.spearman_cumco2pc_vs_nlang": {
+  "value": [
+   -0.3826609131498543,
+   3.3338664869124115e-07
+  ]
+ },
+ "resp.spearman_cumco2pc_vs_premium": {
+  "value": [
+   -0.8451436198171645,
+   9.576698953229534e-47
+  ]
+ },
+ "resp.tercile_high.premium_median": {
+  "value": 0.4792754890678472
+ },
+ "resp.tercile_high.share_cumco2": {
+  "value": 0.6847095111495701
+ },
+ "resp.tercile_high.share_languages": {
+  "value": 0.0806504561473107
+ },
+ "resp.tercile_low.premium_median": {
+  "value": 6.641084026562041
+ },
+ "resp.tercile_low.share_cumco2": {
+  "value": 0.013030525601522867
+ },
+ "resp.tercile_low.share_languages": {
+  "value": 0.5448987166824523
+ },
+ "resp.tercile_mid.premium_median": {
+  "value": 1.774629803479263
+ },
+ "resp.tercile_mid.share_cumco2": {
+  "value": 0.3022599632489069
+ },
+ "resp.tercile_mid.share_languages": {
+  "value": 0.37445082717023714
+ },
+ "sample.L1_total_main": {
+  "value": 7319444335.0
+ },
+ "sample.mean_abs_lat.Dying": {
+  "value": 20.38480286974793
+ },
+ "sample.mean_abs_lat.In_trouble": {
+  "value": 13.332397549202907
+ },
+ "sample.mean_abs_lat.Institutional": {
+  "value": 18.82666078123071
+ },
+ "sample.mean_abs_lat.Stable": {
+  "value": 11.866104973596729
+ },
+ "sample.n_Dying": {
+  "value": 481
+ },
+ "sample.n_In_trouble": {
+  "value": 1892
+ },
+ "sample.n_Institutional": {
+  "value": 440
+ },
+ "sample.n_Stable": {
+  "value": 3123
+ },
+ "sample.n_annexI": {
+  "value": 414
+ },
+ "sample.n_endangered_main": {
+  "value": 2373
+ },
+ "sample.n_languages_main": {
+  "value": 5936
+ },
+ "sample.share_annexI.Dying": {
+  "value": 0.2577962577962578
+ },
+ "sample.share_annexI.In_trouble": {
+  "value": 0.09090909090909091
+ },
+ "sample.share_annexI.Institutional": {
+  "value": 0.12045454545454545
+ },
+ "sample.share_annexI.Stable": {
+  "value": 0.020813320525136087
+ },
+ "sample.share_endangered_main": {
+  "value": 0.39976415094339623
+ },
+ "sankey.Indigenous.P.SRM drier ": {
+  "value": 0.6407637655417406
+ },
+ "sankey.Indigenous.P.SRM wetter": {
+  "value": 0.16859088217880402
+ },
+ "sankey.Indigenous.P.Similar (w": {
+  "value": 0.1906453522794553
+ },
+ "sankey.Indigenous.RP_median": {
+  "value": -3.67736540453621
+ },
+ "sankey.Indigenous.R_mean": {
+  "value": -0.1525479180424379
+ },
+ "sankey.Indigenous.T.SRM cooler": {
+  "value": 0.7304618117229129
+ },
+ "sankey.Indigenous.T.SRM warmer": {
+  "value": 0.0563943161634103
+ },
+ "sankey.Indigenous.T.Similar (w": {
+  "value": 0.21314387211367672
+ },
+ "sankey.Indigenous.share_endangered": {
+  "value": 0.4029011249259917
+ },
+ "sankey.Non-indige.P.SRM drier ": {
+  "value": 0.5683229813664596
+ },
+ "sankey.Non-indige.P.SRM wetter": {
+  "value": 0.17701863354037267
+ },
+ "sankey.Non-indige.P.Similar (w": {
+  "value": 0.2546583850931677
+ },
+ "sankey.Non-indige.RP_median": {
+  "value": -3.2394717168462166
+ },
+ "sankey.Non-indige.R_mean": {
+  "value": -0.13583960001054696
+ },
+ "sankey.Non-indige.T.SRM cooler": {
+  "value": 0.6677018633540373
+ },
+ "sankey.Non-indige.T.SRM warmer": {
+  "value": 0.059006211180124224
+ },
+ "sankey.Non-indige.T.Similar (w": {
+  "value": 0.2732919254658385
+ },
+ "sankey.Non-indige.share_endangered": {
+  "value": 0.30745341614906835
+ },
+ "sankey.n_lic_indigenous": {
+  "value": 6756
+ },
+ "sankey.n_lic_nonindigenous": {
+  "value": 322
+ },
+ "sankey.n_lic_polygons": {
+  "value": 7078
+ },
+ "scenario.k0.0.L2L1.CW_diff_mean": {
+  "value": 3.7796376103005245
+ },
+ "scenario.k0.0.L2L1.share_diff_endangered": {
+  "value": 0.31602067975548137
+ },
+ "scenario.k1.0.L2L1.CW_diff_mean": {
+  "value": 6.840368163286556
+ },
+ "scenario.k1.0.L2L1.share_diff_endangered": {
+  "value": 0.6220680083655213
+ },
+ "scenario.kappa_star.ST": {
+  "value": 0.3494404445036814
+ },
+ "scenario.kappa_star.excess": {
+  "value": 0.44351028362596967
+ },
+ "scenario.mean_end.ST": {
+  "value": 8.554385725838209
+ },
+ "scenario.mean_end.excess": {
+  "value": 2.9853515418396936
+ },
+ "scenario.mean_non.ST": {
+  "value": 11.54363407633106
+ },
+ "scenario.mean_non.excess": {
+  "value": 4.309385650884242
+ },
+ "scenario.n_L1_lost": {
+  "value": 480
+ },
+ "scenario.n_L2_lost": {
+  "value": 2365
+ },
+ "sens.p005.ST_minus_M.end.p50": {
+  "value": 1.6509285867772483
+ },
+ "sens.p005.ST_minus_M.gdp.p50": {
+  "value": 1.1147008203135995
+ },
+ "sens.p005.ST_minus_M.lang.p50": {
+  "value": 2.123134524915983
+ },
+ "sens.p005.ST_minus_M.pop.p50": {
+  "value": 1.692317639139211
+ },
+ "sens.p005.premium.end.p50": {
+  "value": 1.8597526959633923
+ },
+ "sens.p005.premium.gdp.p50": {
+  "value": 1.3290186486377293
+ },
+ "sens.p005.premium.lang.p50": {
+  "value": 2.331712145423628
+ },
+ "sens.p005.premium.pop.p50": {
+  "value": 2.0272267548890532
+ },
+ "sens.p01.ST_minus_M.end.p50": {
+  "value": 2.748816792628893
+ },
+ "sens.p01.ST_minus_M.gdp.p50": {
+  "value": 1.9136356746319905
+ },
+ "sens.p01.ST_minus_M.lang.p50": {
+  "value": 3.471990760311912
+ },
+ "sens.p01.ST_minus_M.pop.p50": {
+  "value": 2.884155305881472
+ },
+ "sens.p01.premium.end.p50": {
+  "value": 3.004560154239138
+ },
+ "sens.p01.premium.gdp.p50": {
+  "value": 2.1395798364833496
+ },
+ "sens.p01.premium.lang.p50": {
+  "value": 3.769787567413008
+ },
+ "sens.p01.premium.pop.p50": {
+  "value": 3.2819147395667523
+ },
+ "sens.p02.ST_minus_M.end.p50": {
+  "value": 3.736785668417821
+ },
+ "sens.p02.ST_minus_M.gdp.p50": {
+  "value": 2.6839466192090073
+ },
+ "sens.p02.ST_minus_M.lang.p50": {
+  "value": 4.705441005163145
+ },
+ "sens.p02.ST_minus_M.pop.p50": {
+  "value": 4.043364135561465
+ },
+ "sens.p02.premium.end.p50": {
+  "value": 4.0241130614444485
+ },
+ "sens.p02.premium.gdp.p50": {
+  "value": 2.8571841888654363
+ },
+ "sens.p02.premium.lang.p50": {
+  "value": 5.041343819343897
+ },
+ "sens.p02.premium.pop.p50": {
+  "value": 4.364659215345736
+ },
+ "t1.All_living.CM_mean": {
+  "value": 1.7089909174153988
+ },
+ "t1.All_living.CS_mean": {
+  "value": 1.8602853398819454
+ },
+ "t1.All_living.L1_speakers": {
+  "value": 7319444335.0
+ },
+ "t1.All_living.RP_median": {
+  "value": -3.798669321105627
+ },
+ "t1.All_living.RP_median_ens_frac_neg": {
+  "value": 1.0
+ },
+ "t1.All_living.RP_median_ens_p17": {
+  "value": -6.23367294020929
+ },
+ "t1.All_living.RP_median_ens_p83": {
+  "value": -1.5967358897750508
+ },
+ "t1.All_living.RP_median_hi": {
+  "value": -3.631662384286773
+ },
+ "t1.All_living.RP_median_lo": {
+  "value": -3.957156207413947
+ },
+ "t1.All_living.R_mean": {
+  "value": -0.1512944224665467
+ },
+ "t1.All_living.R_mean_ens_p17": {
+  "value": -0.34831972985307985
+ },
+ "t1.All_living.R_mean_ens_p83": {
+  "value": -0.0014471022069737695
+ },
+ "t1.All_living.R_mean_hi": {
+  "value": -0.14722260884060398
+ },
+ "t1.All_living.R_mean_lo": {
+  "value": -0.15542098675448032
+ },
+ "t1.All_living.econ_H_minus_ST_frac_members_pos": {
+  "value": 0.5166666666666667
+ },
+ "t1.All_living.econ_H_minus_ST_p50": {
+  "value": 0.012427404105960944
+ },
+ "t1.All_living.econ_H_p50": {
+  "value": 10.19053405480878
+ },
+ "t1.All_living.econ_M_p50": {
+  "value": 6.482959779710938
+ },
+ "t1.All_living.econ_ST_minus_M_frac_members_pos": {
+  "value": 1.0
+ },
+ "t1.All_living.econ_ST_minus_M_p17": {
+  "value": 1.8102241623811486
+ },
+ "t1.All_living.econ_ST_minus_M_p50": {
+  "value": 3.4689075654104817
+ },
+ "t1.All_living.econ_ST_minus_M_p83": {
+  "value": 6.700942754687489
+ },
+ "t1.All_living.econ_ST_p50": {
+  "value": 10.23918473461866
+ },
+ "t1.All_living.econ_S_minus_M_p17": {
+  "value": -0.6940586252277967
+ },
+ "t1.All_living.econ_S_minus_M_p50": {
+  "value": -0.2829797580277835
+ },
+ "t1.All_living.econ_S_minus_M_p83": {
+  "value": -0.0038274944258897547
+ },
+ "t1.All_living.econ_S_p50": {
+  "value": 6.269522423587659
+ },
+ "t1.All_living.econ_premium_p17": {
+  "value": 2.082351589602994
+ },
+ "t1.All_living.econ_premium_p50": {
+  "value": 3.766555796051163
+ },
+ "t1.All_living.econ_premium_p83": {
+  "value": 7.154262369287676
+ },
+ "t1.All_living.mean_abs_lat": {
+  "value": 13.53968378027708
+ },
+ "t1.All_living.n_languages": {
+  "value": 5936
+ },
+ "t1.All_living.rho": {
+  "value": 1.0885285117227876
+ },
+ "t1.All_living.share_RP_drier": {
+  "value": 0.6507749326145552
+ },
+ "t1.All_living.share_RP_wetter": {
+  "value": 0.1637466307277628
+ },
+ "t1.All_living.share_R_cooler": {
+  "value": 0.7297843665768194
+ },
+ "t1.All_living.share_R_similar": {
+  "value": 0.2152964959568733
+ },
+ "t1.All_living.share_R_warmer": {
+  "value": 0.05491913746630728
+ },
+ "t1.All_living.share_annexI": {
+  "value": 0.06974393530997304
+ },
+ "t1.Dying.CM_mean": {
+  "value": 1.8373871707440173
+ },
+ "t1.Dying.CS_mean": {
+  "value": 1.947352375779042
+ },
+ "t1.Dying.L1_speakers": {
+  "value": 894390.0
+ },
+ "t1.Dying.RP_median": {
+  "value": -3.387331060565897
+ },
+ "t1.Dying.RP_median_ens_frac_neg": {
+  "value": 1.0
+ },
+ "t1.Dying.RP_median_ens_p17": {
+  "value": -6.006818030415004
+ },
+ "t1.Dying.RP_median_ens_p83": {
+  "value": -1.3861101776829792
+ },
+ "t1.Dying.RP_median_hi": {
+  "value": -2.714619458969884
+ },
+ "t1.Dying.RP_median_lo": {
+  "value": -4.038074157938388
+ },
+ "t1.Dying.R_mean": {
+  "value": -0.10996520503502451
+ },
+ "t1.Dying.R_mean_ens_p17": {
+  "value": -0.23768483531469017
+ },
+ "t1.Dying.R_mean_ens_p83": {
+  "value": -0.0030823018217745694
+ },
+ "t1.Dying.R_mean_hi": {
+  "value": -0.08970350768384709
+ },
+ "t1.Dying.R_mean_lo": {
+  "value": -0.13032527568240931
+ },
+ "t1.Dying.econ_H_minus_ST_frac_members_pos": {
+  "value": 0.5166666666666667
+ },
+ "t1.Dying.econ_H_minus_ST_p50": {
+  "value": 0.04949527264493695
+ },
+ "t1.Dying.econ_H_p50": {
+  "value": 6.786200459204414
+ },
+ "t1.Dying.econ_M_p50": {
+  "value": 4.443112263508008
+ },
+ "t1.Dying.econ_ST_minus_M_frac_members_pos": {
+  "value": 1.0
+ },
+ "t1.Dying.econ_ST_minus_M_p17": {
+  "value": 1.1726956510994742
+ },
+ "t1.Dying.econ_ST_minus_M_p50": {
+  "value": 2.1632367766306677
+ },
+ "t1.Dying.econ_ST_minus_M_p83": {
+  "value": 4.623468219615983
+ },
+ "t1.Dying.econ_ST_p50": {
+  "value": 6.708054257261913
+ },
+ "t1.Dying.econ_S_minus_M_p17": {
+  "value": -0.36427844879269927
+ },
+ "t1.Dying.econ_S_minus_M_p50": {
+  "value": -0.1472710533944719
+ },
+ "t1.Dying.econ_S_minus_M_p83": {
+  "value": -0.008663096403412894
+ },
+ "t1.Dying.econ_S_p50": {
+  "value": 4.2892246423511455
+ },
+ "t1.Dying.econ_premium_p17": {
+  "value": 1.282087425260569
+ },
+ "t1.Dying.econ_premium_p50": {
+  "value": 2.3198371958309965
+ },
+ "t1.Dying.econ_premium_p83": {
+  "value": 4.834026583985532
+ },
+ "t1.Dying.mean_abs_lat": {
+  "value": 20.38480286974793
+ },
+ "t1.Dying.n_languages": {
+  "value": 481
+ },
+ "t1.Dying.rho": {
+  "value": 1.0598486844721444
+ },
+ "t1.Dying.share_RP_drier": {
+  "value": 0.6465696465696466
+ },
+ "t1.Dying.share_RP_wetter": {
+  "value": 0.1496881496881497
+ },
+ "t1.Dying.share_R_cooler": {
+  "value": 0.656964656964657
+ },
+ "t1.Dying.share_R_similar": {
+  "value": 0.22661122661122662
+ },
+ "t1.Dying.share_R_warmer": {
+  "value": 0.11642411642411643
+ },
+ "t1.Dying.share_annexI": {
+  "value": 0.2577962577962578
+ },
+ "t1.Endangered.CM_mean": {
+  "value": 1.7148459705092447
+ },
+ "t1.Endangered.CS_mean": {
+  "value": 1.8518821460060053
+ },
+ "t1.Endangered.L1_speakers": {
+  "value": 102561190.0
+ },
+ "t1.Endangered.RP_median": {
+  "value": -4.45282116632925
+ },
+ "t1.Endangered.RP_median_ens_frac_neg": {
+  "value": 1.0
+ },
+ "t1.Endangered.RP_median_ens_p17": {
+  "value": -6.677913271774744
+ },
+ "t1.Endangered.RP_median_ens_p83": {
+  "value": -1.7511861791033498
+ },
+ "t1.Endangered.RP_median_hi": {
+  "value": -4.019201830868073
+ },
+ "t1.Endangered.RP_median_lo": {
+  "value": -4.708853243365617
+ },
+ "t1.Endangered.R_mean": {
+  "value": -0.1370361754967609
+ },
+ "t1.Endangered.R_mean_ens_p17": {
+  "value": -0.3106578011087244
+ },
+ "t1.Endangered.R_mean_ens_p83": {
+  "value": -0.016560621963781143
+ },
+ "t1.Endangered.R_mean_hi": {
+  "value": -0.12993887420090028
+ },
+ "t1.Endangered.R_mean_lo": {
+  "value": -0.14398511801101016
+ },
+ "t1.Endangered.econ_H_minus_ST_frac_members_pos": {
+  "value": 0.5166666666666667
+ },
+ "t1.Endangered.econ_H_minus_ST_p50": {
+  "value": 0.029263763080052005
+ },
+ "t1.Endangered.econ_H_p50": {
+  "value": 8.514598203959574
+ },
+ "t1.Endangered.econ_M_p50": {
+  "value": 5.547573701431217
+ },
+ "t1.Endangered.econ_ST_minus_M_frac_members_pos": {
+  "value": 1.0
+ },
+ "t1.Endangered.econ_ST_minus_M_p17": {
+  "value": 1.4801440507940622
+ },
+ "t1.Endangered.econ_ST_minus_M_p50": {
+  "value": 2.748769800923472
+ },
+ "t1.Endangered.econ_ST_minus_M_p83": {
+  "value": 5.70297769242483
+ },
+ "t1.Endangered.econ_ST_p50": {
+  "value": 8.413745958540662
+ },
+ "t1.Endangered.econ_S_minus_M_p17": {
+  "value": -0.5543054129271213
+ },
+ "t1.Endangered.econ_S_minus_M_p50": {
+  "value": -0.2189230980495055
+ },
+ "t1.Endangered.econ_S_minus_M_p83": {
+  "value": -0.011363342557347863
+ },
+ "t1.Endangered.econ_S_p50": {
+  "value": 5.341146197686463
+ },
+ "t1.Endangered.econ_premium_p17": {
+  "value": 1.6668615766913317
+ },
+ "t1.Endangered.econ_premium_p50": {
+  "value": 3.0045090989881738
+ },
+ "t1.Endangered.econ_premium_p83": {
+  "value": 6.05608570967889
+ },
+ "t1.Endangered.mean_abs_lat": {
+  "value": 14.761899006928214
+ },
+ "t1.Endangered.n_languages": {
+  "value": 2373
+ },
+ "t1.Endangered.rho": {
+  "value": 1.0799116526226935
+ },
+ "t1.Endangered.share_RP_drier": {
+  "value": 0.6679308891698272
+ },
+ "t1.Endangered.share_RP_wetter": {
+  "value": 0.16182048040455121
+ },
+ "t1.Endangered.share_R_cooler": {
+  "value": 0.6999578592498946
+ },
+ "t1.Endangered.share_R_similar": {
+  "value": 0.24146649810366624
+ },
+ "t1.Endangered.share_R_warmer": {
+  "value": 0.05857564264643911
+ },
+ "t1.Endangered.share_annexI": {
+  "value": 0.12473662031184155
+ },
+ "t1.In_trouble.CM_mean": {
+  "value": 1.6836925258406796
+ },
+ "t1.In_trouble.CS_mean": {
+  "value": 1.8276109089442558
+ },
+ "t1.In_trouble.L1_speakers": {
+  "value": 101666800.0
+ },
+ "t1.In_trouble.RP_median": {
+  "value": -4.68020557856747
+ },
+ "t1.In_trouble.RP_median_ens_frac_neg": {
+  "value": 1.0
+ },
+ "t1.In_trouble.RP_median_ens_p17": {
+  "value": -7.04755863666567
+ },
+ "t1.In_trouble.RP_median_ens_p83": {
+  "value": -1.6946712432425632
+ },
+ "t1.In_trouble.RP_median_hi": {
+  "value": -4.3573802952347895
+ },
+ "t1.In_trouble.RP_median_lo": {
+  "value": -4.860186828218341
+ },
+ "t1.In_trouble.R_mean": {
+  "value": -0.14391838310357652
+ },
+ "t1.In_trouble.R_mean_ens_p17": {
+  "value": -0.33720000385543586
+ },
+ "t1.In_trouble.R_mean_ens_p83": {
+  "value": -0.01160359308766217
+ },
+ "t1.In_trouble.R_mean_hi": {
+  "value": -0.13704776481524034
+ },
+ "t1.In_trouble.R_mean_lo": {
+  "value": -0.1507176020603846
+ },
+ "t1.In_trouble.econ_H_minus_ST_frac_members_pos": {
+  "value": 0.5166666666666667
+ },
+ "t1.In_trouble.econ_H_minus_ST_p50": {
+  "value": 0.02308752254773771
+ },
+ "t1.In_trouble.econ_H_p50": {
+  "value": 8.954229261541515
+ },
+ "t1.In_trouble.econ_M_p50": {
+  "value": 5.828815871300252
+ },
+ "t1.In_trouble.econ_ST_minus_M_frac_members_pos": {
+  "value": 1.0
+ },
+ "t1.In_trouble.econ_ST_minus_M_p17": {
+  "value": 1.5584332984616536
+ },
+ "t1.In_trouble.econ_ST_minus_M_p50": {
+  "value": 2.8978710484887444
+ },
+ "t1.In_trouble.econ_ST_minus_M_p83": {
+  "value": 5.977866046243581
+ },
+ "t1.In_trouble.econ_ST_p50": {
+  "value": 8.85637169265716
+ },
+ "t1.In_trouble.econ_S_minus_M_p17": {
+  "value": -0.6023553263141662
+ },
+ "t1.In_trouble.econ_S_minus_M_p50": {
+  "value": -0.23625793552750957
+ },
+ "t1.In_trouble.econ_S_minus_M_p83": {
+  "value": -0.012050938394954623
+ },
+ "t1.In_trouble.econ_S_p50": {
+  "value": 5.607597576176396
+ },
+ "t1.In_trouble.econ_premium_p17": {
+  "value": 1.7648412014588382
+ },
+ "t1.In_trouble.econ_premium_p50": {
+  "value": 3.1788552600043207
+ },
+ "t1.In_trouble.econ_premium_p83": {
+  "value": 6.367273179351513
+ },
+ "t1.In_trouble.mean_abs_lat": {
+  "value": 13.332397549202907
+ },
+ "t1.In_trouble.n_languages": {
+  "value": 1892
+ },
+ "t1.In_trouble.rho": {
+  "value": 1.085477829766879
+ },
+ "t1.In_trouble.share_RP_drier": {
+  "value": 0.6733615221987315
+ },
+ "t1.In_trouble.share_RP_wetter": {
+  "value": 0.1649048625792812
+ },
+ "t1.In_trouble.share_R_cooler": {
+  "value": 0.7108879492600423
+ },
+ "t1.In_trouble.share_R_similar": {
+  "value": 0.2452431289640592
+ },
+ "t1.In_trouble.share_R_warmer": {
+  "value": 0.04386892177589852
+ },
+ "t1.In_trouble.share_annexI": {
+  "value": 0.09090909090909091
+ },
+ "t1.Institutional.CM_mean": {
+  "value": 1.7941442011770803
+ },
+ "t1.Institutional.CS_mean": {
+  "value": 1.9570137669466576
+ },
+ "t1.Institutional.L1_speakers": {
+  "value": 6222608480.0
+ },
+ "t1.Institutional.RP_median": {
+  "value": -4.151999065630071
+ },
+ "t1.Institutional.RP_median_ens_frac_neg": {
+  "value": 1.0
+ },
+ "t1.Institutional.RP_median_ens_p17": {
+  "value": -6.676544550992113
+ },
+ "t1.Institutional.RP_median_ens_p83": {
+  "value": -1.6141768663126537
+ },
+ "t1.Institutional.RP_median_hi": {
+  "value": -3.337590108042841
+ },
+ "t1.Institutional.RP_median_lo": {
+  "value": -4.799233447695569
+ },
+ "t1.Institutional.R_mean": {
+  "value": -0.1628695657695776
+ },
+ "t1.Institutional.R_mean_ens_p17": {
+  "value": -0.31773168648446426
+ },
+ "t1.Institutional.R_mean_ens_p83": {
+  "value": -0.02747783357204254
+ },
+ "t1.Institutional.R_mean_hi": {
+  "value": -0.14718271842815134
+ },
+ "t1.Institutional.R_mean_lo": {
+  "value": -0.1783669187050668
+ },
+ "t1.Institutional.econ_H_minus_ST_frac_members_pos": {
+  "value": 0.5166666666666667
+ },
+ "t1.Institutional.econ_H_minus_ST_p50": {
+  "value": 0.03204001790505393
+ },
+ "t1.Institutional.econ_H_p50": {
+  "value": 10.763195709890569
+ },
+ "t1.Institutional.econ_M_p50": {
+  "value": 6.8080885340973545
+ },
+ "t1.Institutional.econ_ST_minus_M_frac_members_pos": {
+  "value": 1.0
+ },
+ "t1.Institutional.econ_ST_minus_M_p17": {
+  "value": 1.9619664519532296
+ },
+ "t1.Institutional.econ_ST_minus_M_p50": {
+  "value": 3.672477737752399
+ },
+ "t1.Institutional.econ_ST_minus_M_p83": {
+  "value": 6.863229318294597
+ },
+ "t1.Institutional.econ_ST_p50": {
+  "value": 10.732241204019905
+ },
+ "t1.Institutional.econ_S_minus_M_p17": {
+  "value": -0.7856761292533632
+ },
+ "t1.Institutional.econ_S_minus_M_p50": {
+  "value": -0.34000434676305413
+ },
+ "t1.Institutional.econ_S_minus_M_p83": {
+  "value": -0.00885297892768312
+ },
+ "t1.Institutional.econ_S_p50": {
+  "value": 6.505255432729681
+ },
+ "t1.Institutional.econ_premium_p17": {
+  "value": 2.287157154242447
+ },
+ "t1.Institutional.econ_premium_p50": {
+  "value": 4.037786792110422
+ },
+ "t1.Institutional.econ_premium_p83": {
+  "value": 7.440111338844976
+ },
+ "t1.Institutional.mean_abs_lat": {
+  "value": 18.82666078123071
+ },
+ "t1.Institutional.n_languages": {
+  "value": 440
+ },
+ "t1.Institutional.rho": {
+  "value": 1.0907784143898378
+ },
+ "t1.Institutional.share_RP_drier": {
+  "value": 0.634090909090909
+ },
+ "t1.Institutional.share_RP_wetter": {
+  "value": 0.20454545454545456
+ },
+ "t1.Institutional.share_R_cooler": {
+  "value": 0.7613636363636364
+ },
+ "t1.Institutional.share_R_similar": {
+  "value": 0.18863636363636363
+ },
+ "t1.Institutional.share_R_warmer": {
+  "value": 0.05
+ },
+ "t1.Institutional.share_annexI": {
+  "value": 0.12045454545454545
+ },
+ "t1.Not_endangered.CM_mean": {
+  "value": 1.7050913830365895
+ },
+ "t1.Not_endangered.CS_mean": {
+  "value": 1.8658819660586519
+ },
+ "t1.Not_endangered.L1_speakers": {
+  "value": 7216883145.0
+ },
+ "t1.Not_endangered.RP_median": {
+  "value": -3.5189120600608943
+ },
+ "t1.Not_endangered.RP_median_ens_frac_neg": {
+  "value": 1.0
+ },
+ "t1.Not_endangered.RP_median_ens_p17": {
+  "value": -5.569450506646575
+ },
+ "t1.Not_endangered.RP_median_ens_p83": {
+  "value": -1.4012700669153237
+ },
+ "t1.Not_endangered.RP_median_hi": {
+  "value": -3.357605491551478
+ },
+ "t1.Not_endangered.RP_median_lo": {
+  "value": -3.703897029780195
+ },
+ "t1.Not_endangered.R_mean": {
+  "value": -0.16079058302206223
+ },
+ "t1.Not_endangered.R_mean_ens_p17": {
+  "value": -0.371499287484514
+ },
+ "t1.Not_endangered.R_mean_ens_p83": {
+  "value": 0.019445262738020833
+ },
+ "t1.Not_endangered.R_mean_hi": {
+  "value": -0.15579266705747258
+ },
+ "t1.Not_endangered.R_mean_lo": {
+  "value": -0.16578917776154714
+ },
+ "t1.Not_endangered.econ_H_minus_ST_frac_members_pos": {
+  "value": 0.48333333333333334
+ },
+ "t1.Not_endangered.econ_H_minus_ST_p50": {
+  "value": -0.0105474952238029
+ },
+ "t1.Not_endangered.econ_H_p50": {
+  "value": 11.317530425778198
+ },
+ "t1.Not_endangered.econ_M_p50": {
+  "value": 7.159907235607369
+ },
+ "t1.Not_endangered.econ_ST_minus_M_frac_members_pos": {
+  "value": 1.0
+ },
+ "t1.Not_endangered.econ_ST_minus_M_p17": {
+  "value": 2.029776361554816
+ },
+ "t1.Not_endangered.econ_ST_minus_M_p50": {
+  "value": 3.9706858904004285
+ },
+ "t1.Not_endangered.econ_ST_minus_M_p83": {
+  "value": 7.36653423022367
+ },
+ "t1.Not_endangered.econ_ST_p50": {
+  "value": 11.484149144693122
+ },
+ "t1.Not_endangered.econ_S_minus_M_p17": {
+  "value": -0.7797178239220013
+ },
+ "t1.Not_endangered.econ_S_minus_M_p50": {
+  "value": -0.32570226249721856
+ },
+ "t1.Not_endangered.econ_S_minus_M_p83": {
+  "value": 0.0011985294970934673
+ },
+ "t1.Not_endangered.econ_S_p50": {
+  "value": 6.8855897090906595
+ },
+ "t1.Not_endangered.econ_premium_p17": {
+  "value": 2.342675369758005
+ },
+ "t1.Not_endangered.econ_premium_p50": {
+  "value": 4.280732867221776
+ },
+ "t1.Not_endangered.econ_premium_p83": {
+  "value": 7.88668983684968
+ },
+ "t1.Not_endangered.mean_abs_lat": {
+  "value": 12.725674032075247
+ },
+ "t1.Not_endangered.n_languages": {
+  "value": 3563
+ },
+ "t1.Not_endangered.rho": {
+  "value": 1.0943002730655476
+ },
+ "t1.Not_endangered.share_RP_drier": {
+  "value": 0.6393488633174291
+ },
+ "t1.Not_endangered.share_RP_wetter": {
+  "value": 0.1650294695481336
+ },
+ "t1.Not_endangered.share_R_cooler": {
+  "value": 0.7496491720460287
+ },
+ "t1.Not_endangered.share_R_similar": {
+  "value": 0.19786696603985404
+ },
+ "t1.Not_endangered.share_R_warmer": {
+  "value": 0.052483861914117316
+ },
+ "t1.Not_endangered.share_annexI": {
+  "value": 0.03311815885489756
+ },
+ "t1.Stable.CM_mean": {
+  "value": 1.6925447163757454
+ },
+ "t1.Stable.CS_mean": {
+  "value": 1.853042391165689
+ },
+ "t1.Stable.L1_speakers": {
+  "value": 994274665.0
+ },
+ "t1.Stable.RP_median": {
+  "value": -3.5071539338534445
+ },
+ "t1.Stable.RP_median_ens_frac_neg": {
+  "value": 1.0
+ },
+ "t1.Stable.RP_median_ens_p17": {
+  "value": -5.452737683449485
+ },
+ "t1.Stable.RP_median_ens_p83": {
+  "value": -1.4837992767629145
+ },
+ "t1.Stable.RP_median_hi": {
+  "value": -3.3113748153812064
+ },
+ "t1.Stable.RP_median_lo": {
+  "value": -3.6586058978242133
+ },
+ "t1.Stable.R_mean": {
+  "value": -0.16049767478994348
+ },
+ "t1.Stable.R_mean_ens_p17": {
+  "value": -0.37907461391423536
+ },
+ "t1.Stable.R_mean_ens_p83": {
+  "value": 0.030919362791681976
+ },
+ "t1.Stable.R_mean_hi": {
+  "value": -0.1549493180001874
+ },
+ "t1.Stable.R_mean_lo": {
+  "value": -0.16556966024867156
+ },
+ "t1.Stable.econ_H_minus_ST_frac_members_pos": {
+  "value": 0.48333333333333334
+ },
+ "t1.Stable.econ_H_minus_ST_p50": {
+  "value": -0.019379671397377587
+ },
+ "t1.Stable.econ_H_p50": {
+  "value": 11.37013524626366
+ },
+ "t1.Stable.econ_M_p50": {
+  "value": 7.215451588735625
+ },
+ "t1.Stable.econ_ST_minus_M_frac_members_pos": {
+  "value": 1.0
+ },
+ "t1.Stable.econ_ST_minus_M_p17": {
+  "value": 2.0391914483916453
+ },
+ "t1.Stable.econ_ST_minus_M_p50": {
+  "value": 4.012164891395165
+ },
+ "t1.Stable.econ_ST_minus_M_p83": {
+  "value": 7.4371068522117705
+ },
+ "t1.Stable.econ_ST_p50": {
+  "value": 11.59221224491758
+ },
+ "t1.Stable.econ_S_minus_M_p17": {
+  "value": -0.7859390196641385
+ },
+ "t1.Stable.econ_S_minus_M_p50": {
+  "value": -0.3230591177871468
+ },
+ "t1.Stable.econ_S_minus_M_p83": {
+  "value": 0.0025966352304465892
+ },
+ "t1.Stable.econ_S_p50": {
+  "value": 6.938491971109432
+ },
+ "t1.Stable.econ_premium_p17": {
+  "value": 2.3480200444393
+ },
+ "t1.Stable.econ_premium_p50": {
+  "value": 4.318148436719194
+ },
+ "t1.Stable.econ_premium_p83": {
+  "value": 7.948806280677488
+ },
+ "t1.Stable.mean_abs_lat": {
+  "value": 11.866104973596729
+ },
+ "t1.Stable.n_languages": {
+  "value": 3123
+ },
+ "t1.Stable.rho": {
+  "value": 1.0948262537687146
+ },
+ "t1.Stable.share_RP_drier": {
+  "value": 0.6400896573807237
+ },
+ "t1.Stable.share_RP_wetter": {
+  "value": 0.15946205571565802
+ },
+ "t1.Stable.share_R_cooler": {
+  "value": 0.7479987191802754
+ },
+ "t1.Stable.share_R_similar": {
+  "value": 0.19916746717899456
+ },
+ "t1.Stable.share_R_warmer": {
+  "value": 0.052833813640730067
+ },
+ "t1.Stable.share_annexI": {
+  "value": 0.020813320525136087
+ },
+ "temp.across_countries.gap_mean_R_noninst_minus_inst": {
+  "value": 0.012569138513722988
+ },
+ "temp.across_countries.gap_share_cooler_noninst_minus_inst": {
+  "value": -0.025913986781270437
+ },
+ "temp.economy.cooling_ratio": {
+  "value": 1.062721082379898
+ },
+ "temp.economy.mean_R": {
+  "value": -0.12231580464676828
+ },
+ "temp.economy.mean_R.member_p17_p50_p83": {
+  "value": [
+   -0.22332009312564008,
+   -0.11895465773048387,
+   -0.0028916101135752865
+  ]
+ },
+ "temp.economy.mean_R_per_degree_global_cooling.member_median": {
+  "value": -0.07969441531808258
+ },
+ "temp.economy.mitigation_cooling_C": {
+  "value": 1.9501545573768648
+ },
+ "temp.economy.n_members_cooler_than_economy": {
+  "value": 0
+ },
+ "temp.economy.n_members_cooler_than_land": {
+  "value": 50
+ },
+ "temp.economy.n_members_cooler_than_people": {
+  "value": 30
+ },
+ "temp.economy.n_members_mean_R_negative": {
+  "value": 50
+ },
+ "temp.families.n_cooler_in_ge90pct_members": {
+  "value": 28
+ },
+ "temp.families.n_mean_R_negative_ensemble": {
+  "value": 149
+ },
+ "temp.families.n_warmer_in_ge90pct_members": {
+  "value": 1
+ },
+ "temp.families.n_with_ge2_languages": {
+  "value": 166
+ },
+ "temp.global_cooling_dG_2100_median": {
+  "value": 1.5779086999999998
+ },
+ "temp.hotspots.share_cells_cooler": {
+  "value": 0.7767180092183098
+ },
+ "temp.institutional_languages.cooling_ratio": {
+  "value": 1.0908138654835235
+ },
+ "temp.institutional_languages.mean_R": {
+  "value": -0.1628946486409593
+ },
+ "temp.institutional_languages.mean_R.member_p17_p50_p83": {
+  "value": [
+   -0.2984416103159655,
+   -0.15064581132279686,
+   -0.038396939664830446
+  ]
+ },
+ "temp.institutional_languages.mean_R_per_degree_global_cooling.member_median": {
+  "value": -0.10923735543543102
+ },
+ "temp.institutional_languages.mitigation_cooling_C": {
+  "value": 1.7937200203256793
+ },
+ "temp.institutional_languages.n_members_cooler_than_economy": {
+  "value": 30
+ },
+ "temp.institutional_languages.n_members_cooler_than_land": {
+  "value": 30
+ },
+ "temp.institutional_languages.n_members_cooler_than_people": {
+  "value": 10
+ },
+ "temp.institutional_languages.n_members_mean_R_negative": {
+  "value": 50
+ },
+ "temp.land.cooling_ratio": {
+  "value": 1.0292119684998549
+ },
+ "temp.land.mean_R": {
+  "value": -0.06469173032291325
+ },
+ "temp.land.mean_R.member_p17_p50_p83": {
+  "value": [
+   -0.15613062156949545,
+   -0.028379895144830643,
+   0.009892023643449181
+  ]
+ },
+ "temp.land.mean_R_deep_tropics": {
+  "value": -0.15107080984162183
+ },
+ "temp.land.mean_R_north_of_55N": {
+  "value": 0.21663760575985946
+ },
+ "temp.land.mean_R_outside_deep_tropics": {
+  "value": -0.04036574193146915
+ },
+ "temp.land.mean_R_per_degree_global_cooling.member_median": {
+  "value": -0.025557968822154022
+ },
+ "temp.land.mitigation_cooling_C": {
+  "value": 2.2145625113636225
+ },
+ "temp.land.n_members_cooler_than_economy": {
+  "value": 10
+ },
+ "temp.land.n_members_cooler_than_land": {
+  "value": 0
+ },
+ "temp.land.n_members_cooler_than_people": {
+  "value": 30
+ },
+ "temp.land.n_members_mean_R_negative": {
+  "value": 40
+ },
+ "temp.language_lineages.cooling_ratio": {
+  "value": 1.0723314133532658
+ },
+ "temp.language_lineages.mean_R": {
+  "value": -0.12723752789953716
+ },
+ "temp.language_lineages.mean_R.member_p17_p50_p83": {
+  "value": [
+   -0.2795724730847028,
+   -0.0917641242927551,
+   -0.013240460121062813
+  ]
+ },
+ "temp.language_lineages.mean_R_per_degree_global_cooling.member_median": {
+  "value": -0.07665121469838618
+ },
+ "temp.language_lineages.mitigation_cooling_C": {
+  "value": 1.7590908569435921
+ },
+ "temp.language_lineages.n_members_cooler_than_economy": {
+  "value": 30
+ },
+ "temp.language_lineages.n_members_cooler_than_land": {
+  "value": 30
+ },
+ "temp.language_lineages.n_members_cooler_than_people": {
+  "value": 0
+ },
+ "temp.language_lineages.n_members_mean_R_negative": {
+  "value": 50
+ },
+ "temp.linguistic_diversity_hotspots.cooling_ratio": {
+  "value": 1.1046069637900475
+ },
+ "temp.linguistic_diversity_hotspots.mean_R": {
+  "value": -0.1633745751862897
+ },
+ "temp.linguistic_diversity_hotspots.mean_R.member_p17_p50_p83": {
+  "value": [
+   -0.34673579701617624,
+   -0.1537510975970554,
+   -0.023527687183245667
+  ]
+ },
+ "temp.linguistic_diversity_hotspots.mean_R_per_degree_global_cooling.member_median": {
+  "value": -0.10187777156247829
+ },
+ "temp.linguistic_diversity_hotspots.mitigation_cooling_C": {
+  "value": 1.561794447205182
+ },
+ "temp.linguistic_diversity_hotspots.n_members_cooler_than_economy": {
+  "value": 30
+ },
+ "temp.linguistic_diversity_hotspots.n_members_cooler_than_land": {
+  "value": 30
+ },
+ "temp.linguistic_diversity_hotspots.n_members_cooler_than_people": {
+  "value": 30
+ },
+ "temp.linguistic_diversity_hotspots.n_members_mean_R_negative": {
+  "value": 50
+ },
+ "temp.non_institutional_languages.cooling_ratio": {
+  "value": 1.0883390293327324
+ },
+ "temp.non_institutional_languages.mean_R": {
+  "value": -0.15037111831253766
+ },
+ "temp.non_institutional_languages.mean_R.member_p17_p50_p83": {
+  "value": [
+   -0.31335506088835724,
+   -0.13882220883306484,
+   -0.016124448228042862
+  ]
+ },
+ "temp.non_institutional_languages.mean_R_per_degree_global_cooling.member_median": {
+  "value": -0.09710218425022664
+ },
+ "temp.non_institutional_languages.mitigation_cooling_C": {
+  "value": 1.7022047836427883
+ },
+ "temp.non_institutional_languages.n_members_cooler_than_economy": {
+  "value": 30
+ },
+ "temp.non_institutional_languages.n_members_cooler_than_land": {
+  "value": 30
+ },
+ "temp.non_institutional_languages.n_members_cooler_than_people": {
+  "value": 20
+ },
+ "temp.non_institutional_languages.n_members_mean_R_negative": {
+  "value": 50
+ },
+ "temp.people.cooling_ratio": {
+  "value": 1.092708356833807
+ },
+ "temp.people.mean_R": {
+  "value": -0.17880474898220244
+ },
+ "temp.people.mean_R.member_p17_p50_p83": {
+  "value": [
+   -0.33083972232658543,
+   -0.15894707046885553,
+   -0.057544053526331934
+  ]
+ },
+ "temp.people.mean_R_per_degree_global_cooling.member_median": {
+  "value": -0.12312653124556167
+ },
+ "temp.people.mitigation_cooling_C": {
+  "value": 1.9286799495619948
+ },
+ "temp.people.n_members_cooler_than_economy": {
+  "value": 30
+ },
+ "temp.people.n_members_cooler_than_land": {
+  "value": 30
+ },
+ "temp.people.n_members_cooler_than_people": {
+  "value": 0
+ },
+ "temp.people.n_members_mean_R_negative": {
+  "value": 50
+ },
+ "temp.populated_land.cooling_ratio": {
+  "value": 1.0278706385382226
+ },
+ "temp.populated_land.mean_R": {
+  "value": -0.05901216990036948
+ },
+ "temp.populated_land.mean_R.member_p17_p50_p83": {
+  "value": [
+   -0.15672709920021488,
+   -0.036385537756588066,
+   0.044333568606783606
+  ]
+ },
+ "temp.populated_land.mean_R_per_degree_global_cooling.member_median": {
+  "value": -0.026747230927533523
+ },
+ "temp.populated_land.mitigation_cooling_C": {
+  "value": 2.117359809300331
+ },
+ "temp.populated_land.n_members_cooler_than_economy": {
+  "value": 0
+ },
+ "temp.populated_land.n_members_cooler_than_land": {
+  "value": 30
+ },
+ "temp.populated_land.n_members_cooler_than_people": {
+  "value": 30
+ },
+ "temp.populated_land.n_members_mean_R_negative": {
+  "value": 40
+ },
+ "temp.within_country.gap_mean_R_ci": {
+  "value": [
+   -0.006739539299972394,
+   0.011881523067151515
+  ]
+ },
+ "temp.within_country.gap_mean_R_noninst_minus_inst": {
+  "value": 0.0021421486246159657
+ },
+ "temp.within_country.gap_share_cooler_ci": {
+  "value": [
+   -0.021327198647373036,
+   0.049135911794634335
+  ]
+ },
+ "temp.within_country.gap_share_cooler_noninst_minus_inst": {
+  "value": 0.013565906244754278
+ },
+ "tree.member_driest": {
+  "value": 28
+ },
+ "tree.member_least_dry": {
+  "value": 8
+ },
+ "tree.share_families_mostly_drier.driest": {
+  "value": 0.8992805755395683
+ },
+ "tree.share_families_mostly_drier.ensemble_mean": {
+  "value": 0.7158273381294964
+ },
+ "tree.share_families_mostly_drier.least_dry": {
+  "value": 0.5359712230215827
+ },
+ "v3.deep_tropics_land_mean_RP": {
+  "value": -5.48655627931113
+ },
+ "v3.deep_tropics_share.gdp": {
+  "value": 0.1377691557323016
+ },
+ "v3.deep_tropics_share.land": {
+  "value": 0.21973689958969972
+ },
+ "v3.deep_tropics_share.languages": {
+  "value": 0.6837700145560408
+ },
+ "v3.deep_tropics_share.people": {
+  "value": 0.3495152010022836
+ },
+ "v3.family.Austronesian.share_members_whole_homeland_drier_ge99": {
+  "value": 0.0
+ },
+ "v3.family.Nuclear_Torricelli.share_members_whole_homeland_drier_ge99": {
+  "value": 1.0
+ },
+ "v3.family.Nuclear_Trans_New_Guinea.share_members_whole_homeland_drier_ge99": {
+  "value": 0.26666666666666666
+ },
+ "v3.family.Oto_Manguean.share_members_whole_homeland_drier_ge99": {
+  "value": 0.5
+ },
+ "v3.family.Sepik.share_members_whole_homeland_drier_ge99": {
+  "value": 1.0
+ },
+ "v3.family.n": {
+  "value": 183
+ },
+ "v3.family.n_coinflip_40_60": {
+  "value": 32
+ },
+ "v3.family.n_isolates_in_table": {
+  "value": 0
+ },
+ "v3.family.n_languages_in_robust_drier": {
+  "value": 1936
+ },
+ "v3.family.n_languages_total": {
+  "value": 5757
+ },
+ "v3.family.n_mostly_drier": {
+  "value": 131
+ },
+ "v3.family.n_robust_drier_ge90": {
+  "value": 66
+ },
+ "v3.family.n_robust_not_drier_le10": {
+  "value": 13
+ },
+ "v3.family.n_single_language": {
+  "value": 17
+ },
+ "v3.hotspots.n_cells": {
+  "value": 592
+ },
+ "v3.hotspots.share_cells_top6": {
+  "value": 0.5168918918918919
+ },
+ "v3.hotspots.top_countries": {
+  "value": {
+   "CMR": 25,
+   "IDN": 61,
+   "IND": 33,
+   "MEX": 43,
+   "MMR": 14,
+   "NGA": 71,
+   "NPL": 13,
+   "PHL": 15,
+   "PNG": 73,
+   "VNM": 11
+  }
+ },
+ "v3.land.mean_R": {
+  "value": -0.06469173032291325
+ },
+ "v3.land.mean_RP": {
+  "value": -2.4940254016719923
+ },
+ "v3.land.share_RP_negative": {
+  "value": 0.6531553025679365
+ },
+ "v3.land.share_R_positive": {
+  "value": 0.28599568438680406
+ },
+ "v3.outside_deep_tropics_land_mean_RP": {
+  "value": 6.9526371541667435
+ },
+ "v3.populated_land.n_cells": {
+  "value": 47433
+ },
+ "v3.temp.noninst.R_median": {
+  "value": -0.15286345649825095
+ },
+ "v3.temp.noninst.R_p25_p75": {
+  "value": [
+   -0.23382760623479043,
+   -0.09349894781317504
+  ]
+ },
+ "v3.tree.n_languages_mostly_drier": {
+  "value": 3866
+ },
+ "v3.warm_lineages.n_multi": {
+  "value": 10
+ },
+ "v3.warm_lineages.n_single": {
+  "value": 4
+ },
+ "v5.class.ethnologue_all_labels.drier": {
+  "value": 0.6908397398545778
+ },
+ "v5.class.ethnologue_all_labels.drier_member_p17": {
+  "value": 0.5566667137794162
+ },
+ "v5.class.ethnologue_all_labels.drier_member_p83": {
+  "value": 0.7529383050938625
+ },
+ "v5.class.ethnologue_all_labels.dry_to_wet": {
+  "value": 4.535171175723179
+ },
+ "v5.class.ethnologue_all_labels.families": {
+  "value": 131
+ },
+ "v5.class.ethnologue_all_labels.isolates": {
+  "value": 78
+ },
+ "v5.class.ethnologue_all_labels.isolates_mostly_drier": {
+  "value": 0.6794871794871795
+ },
+ "v5.class.ethnologue_all_labels.languages": {
+  "value": 5936
+ },
+ "v5.class.ethnologue_all_labels.lineages": {
+  "value": 209
+ },
+ "v5.class.ethnologue_all_labels.mostly_drier": {
+  "value": 0.6985645933014354
+ },
+ "v5.class.ethnologue_all_labels.mostly_drier_max": {
+  "value": 0.8851674641148325
+ },
+ "v5.class.ethnologue_all_labels.mostly_drier_min": {
+  "value": 0.5167464114832536
+ },
+ "v5.class.ethnologue_all_labels.mostly_drier_p17": {
+  "value": 0.5550239234449761
+ },
+ "v5.class.ethnologue_all_labels.mostly_drier_p83": {
+  "value": 0.7700478468899522
+ },
+ "v5.class.ethnologue_all_labels.n_members_gt_economy": {
+  "value": 60
+ },
+ "v5.class.ethnologue_all_labels.n_members_gt_land": {
+  "value": 58
+ },
+ "v5.class.ethnologue_all_labels.n_members_gt_people": {
+  "value": 58
+ },
+ "v5.class.ethnologue_all_labels.n_members_mostly_drier_gt_half": {
+  "value": 60
+ },
+ "v5.class.ethnologue_all_labels.n_members_ratio_gt_land": {
+  "value": 58
+ },
+ "v5.class.ethnologue_all_labels.wetter": {
+  "value": 0.15232936378513132
+ },
+ "v5.class.ethnologue_genealogical.drier": {
+  "value": 0.6903308797276249
+ },
+ "v5.class.ethnologue_genealogical.drier_member_p17": {
+  "value": 0.551570286957117
+ },
+ "v5.class.ethnologue_genealogical.drier_member_p83": {
+  "value": 0.7549934450051192
+ },
+ "v5.class.ethnologue_genealogical.dry_to_wet": {
+  "value": 4.729613074836961
+ },
+ "v5.class.ethnologue_genealogical.families": {
+  "value": 130
+ },
+ "v5.class.ethnologue_genealogical.isolates": {
+  "value": 53
+ },
+ "v5.class.ethnologue_genealogical.isolates_mostly_drier": {
+  "value": 0.660377358490566
+ },
+ "v5.class.ethnologue_genealogical.languages": {
+  "value": 5850
+ },
+ "v5.class.ethnologue_genealogical.lineages": {
+  "value": 183
+ },
+ "v5.class.ethnologue_genealogical.mostly_drier": {
+  "value": 0.6994535519125683
+ },
+ "v5.class.ethnologue_genealogical.mostly_drier_max": {
+  "value": 0.8852459016393442
+ },
+ "v5.class.ethnologue_genealogical.mostly_drier_min": {
+  "value": 0.5245901639344263
+ },
+ "v5.class.ethnologue_genealogical.mostly_drier_p17": {
+  "value": 0.5519125683060109
+ },
+ "v5.class.ethnologue_genealogical.mostly_drier_p83": {
+  "value": 0.7757923497267759
+ },
+ "v5.class.ethnologue_genealogical.n_members_gt_economy": {
+  "value": 60
+ },
+ "v5.class.ethnologue_genealogical.n_members_gt_land": {
+  "value": 59
+ },
+ "v5.class.ethnologue_genealogical.n_members_gt_people": {
+  "value": 56
+ },
+ "v5.class.ethnologue_genealogical.n_members_mostly_drier_gt_half": {
+  "value": 60
+ },
+ "v5.class.ethnologue_genealogical.n_members_ratio_gt_land": {
+  "value": 58
+ },
+ "v5.class.ethnologue_genealogical.wetter": {
+  "value": 0.1459592716792001
+ },
+ "v5.class.ethnologue_isolates_also_glottolog_isolates": {
+  "value": 47
+ },
+ "v5.class.ethnologue_n_families_mapping_to_one_glottolog_lineage": {
+  "value": 108
+ },
+ "v5.class.ethnologue_nongenealogical_labels_in_sample": {
+  "value": {
+   "Creole": 61,
+   "Mixed language": 6,
+   "Pidgin": 2,
+   "Unclassified": 17
+  }
+ },
+ "v5.class.glottolog.drier": {
+  "value": 0.7134136742475118
+ },
+ "v5.class.glottolog.drier_member_p17": {
+  "value": 0.5808453776787853
+ },
+ "v5.class.glottolog.drier_member_p83": {
+  "value": 0.7469082275329738
+ },
+ "v5.class.glottolog.dry_to_wet": {
+  "value": 5.401326726705542
+ },
+ "v5.class.glottolog.families": {
+  "value": 183
+ },
+ "v5.class.glottolog.isolates": {
+  "value": 95
+ },
+ "v5.class.glottolog.isolates_mostly_drier": {
+  "value": 0.7157894736842105
+ },
+ "v5.class.glottolog.languages": {
+  "value": 5852
+ },
+ "v5.class.glottolog.lineages": {
+  "value": 278
+ },
+ "v5.class.glottolog.mostly_drier": {
+  "value": 0.7158273381294964
+ },
+ "v5.class.glottolog.mostly_drier_max": {
+  "value": 0.8992805755395683
+ },
+ "v5.class.glottolog.mostly_drier_min": {
+  "value": 0.5359712230215827
+ },
+ "v5.class.glottolog.mostly_drier_p17": {
+  "value": 0.5757553956834532
+ },
+ "v5.class.glottolog.mostly_drier_p83": {
+  "value": 0.7515827338129496
+ },
+ "v5.class.glottolog.n_members_gt_economy": {
+  "value": 52
+ },
+ "v5.class.glottolog.n_members_gt_land": {
+  "value": 60
+ },
+ "v5.class.glottolog.n_members_gt_people": {
+  "value": 60
+ },
+ "v5.class.glottolog.n_members_mostly_drier_gt_half": {
+  "value": 60
+ },
+ "v5.class.glottolog.n_members_ratio_gt_land": {
+  "value": 60
+ },
+ "v5.class.glottolog.wetter": {
+  "value": 0.13208119233376717
+ },
+ "v5.class.glottolog_creole_lineages.drier": {
+  "value": 0.6685292038133718
+ },
+ "v5.class.glottolog_creole_lineages.drier_member_p17": {
+  "value": 0.5380242783871821
+ },
+ "v5.class.glottolog_creole_lineages.drier_member_p83": {
+  "value": 0.6989123157641495
+ },
+ "v5.class.glottolog_creole_lineages.dry_to_wet": {
+  "value": 4.054879773198074
+ },
+ "v5.class.glottolog_creole_lineages.families": {
+  "value": 183
+ },
+ "v5.class.glottolog_creole_lineages.isolates": {
+  "value": 156
+ },
+ "v5.class.glottolog_creole_lineages.isolates_mostly_drier": {
+  "value": 0.6153846153846154
+ },
+ "v5.class.glottolog_creole_lineages.languages": {
+  "value": 5852
+ },
+ "v5.class.glottolog_creole_lineages.lineages": {
+  "value": 339
+ },
+ "v5.class.glottolog_creole_lineages.mostly_drier": {
+  "value": 0.6696165191740413
+ },
+ "v5.class.glottolog_creole_lineages.mostly_drier_max": {
+  "value": 0.8377581120943953
+ },
+ "v5.class.glottolog_creole_lineages.mostly_drier_min": {
+  "value": 0.504424778761062
+ },
+ "v5.class.glottolog_creole_lineages.mostly_drier_p17": {
+  "value": 0.5371386430678466
+ },
+ "v5.class.glottolog_creole_lineages.mostly_drier_p83": {
+  "value": 0.7106489675516224
+ },
+ "v5.class.glottolog_creole_lineages.n_members_gt_economy": {
+  "value": 52
+ },
+ "v5.class.glottolog_creole_lineages.n_members_gt_land": {
+  "value": 52
+ },
+ "v5.class.glottolog_creole_lineages.n_members_gt_people": {
+  "value": 58
+ },
+ "v5.class.glottolog_creole_lineages.n_members_mostly_drier_gt_half": {
+  "value": 60
+ },
+ "v5.class.glottolog_creole_lineages.n_members_ratio_gt_land": {
+  "value": 60
+ },
+ "v5.class.glottolog_creole_lineages.wetter": {
+  "value": 0.16487028992381303
+ },
+ "v5.class.glottolog_no_creoles.drier": {
+  "value": 0.7140463345998586
+ },
+ "v5.class.glottolog_no_creoles.drier_member_p17": {
+  "value": 0.5814877465725148
+ },
+ "v5.class.glottolog_no_creoles.drier_member_p83": {
+  "value": 0.7476254694289622
+ },
+ "v5.class.glottolog_no_creoles.dry_to_wet": {
+  "value": 5.407693186041153
+ },
+ "v5.class.glottolog_no_creoles.families": {
+  "value": 183
+ },
+ "v5.class.glottolog_no_creoles.isolates": {
+  "value": 95
+ },
+ "v5.class.glottolog_no_creoles.isolates_mostly_drier": {
+  "value": 0.7157894736842105
+ },
+ "v5.class.glottolog_no_creoles.languages": {
+  "value": 5791
+ },
+ "v5.class.glottolog_no_creoles.lineages": {
+  "value": 278
+ },
+ "v5.class.glottolog_no_creoles.mostly_drier": {
+  "value": 0.7158273381294964
+ },
+ "v5.class.glottolog_no_creoles.mostly_drier_max": {
+  "value": 0.8992805755395683
+ },
+ "v5.class.glottolog_no_creoles.mostly_drier_min": {
+  "value": 0.5359712230215827
+ },
+ "v5.class.glottolog_no_creoles.mostly_drier_p17": {
+  "value": 0.5757553956834532
+ },
+ "v5.class.glottolog_no_creoles.mostly_drier_p83": {
+  "value": 0.7515827338129496
+ },
+ "v5.class.glottolog_no_creoles.n_members_gt_economy": {
+  "value": 52
+ },
+ "v5.class.glottolog_no_creoles.n_members_gt_land": {
+  "value": 60
+ },
+ "v5.class.glottolog_no_creoles.n_members_gt_people": {
+  "value": 60
+ },
+ "v5.class.glottolog_no_creoles.n_members_mostly_drier_gt_half": {
+  "value": 60
+ },
+ "v5.class.glottolog_no_creoles.n_members_ratio_gt_land": {
+  "value": 60
+ },
+ "v5.class.glottolog_no_creoles.wetter": {
+  "value": 0.13204268623135318
+ },
+ "v5.maipurean.glottolog_lineages": {
+  "value": {
+   "Arawakan": 40
+  }
+ },
+ "v5.maipurean.n_sample": {
+  "value": 40
+ },
+ "v5.maipurean.n_table": {
+  "value": 57
+ },
+ "v5.maipurean.top_level_of_classification": {
+  "value": [
+   "Maipurean"
+  ]
+ },
+ "v5.sample.dormant_by_eth_area": {
+  "value": {
+   "Africa": 37,
+   "Americas": 168,
+   "Asia": 38,
+   "Europe": 15,
+   "Pacific": 79
+  }
+ },
+ "v5.sample.eth28_endangered_n": {
+  "value": 3193
+ },
+ "v5.sample.eth28_endangered_share": {
+  "value": 0.4460120128509568
+ },
+ "v5.sample.eth28_endangered_share_spoken": {
+  "value": 0.45207827453220967
+ },
+ "v5.sample.n_dormant": {
+  "value": 337
+ },
+ "v5.sample.n_dormant_with_polygon": {
+  "value": 1
+ },
+ "v5.sample.n_living": {
+  "value": 7159
+ },
+ "v5.sample.n_noninst": {
+  "value": 5496
+ },
+ "v5.sample.n_sample": {
+  "value": 5936
+ },
+ "v5.sample.n_sign": {
+  "value": 158
+ },
+ "v5.sample.n_spoken_nondormant": {
+  "value": 6664
+ },
+ "v5.sample.n_table": {
+  "value": 7613
+ },
+ "v5.sample.n_unmapped": {
+  "value": 728
+ },
+ "v5.sample.n_unmapped_no_polygon": {
+  "value": 586
+ },
+ "v5.sample.n_unmapped_polygon_off_grid": {
+  "value": 142
+ },
+ "v5.sample.n_unmapped_with_glottolog_point": {
+  "value": 724
+ },
+ "v5.sample.sample_by_macroarea": {
+  "value": {
+   "(no Glottolog match)": 0,
+   "Africa": 1971,
+   "Australia": 0,
+   "Eurasia": 1212,
+   "North America": 468,
+   "Papunesia": 1921,
+   "South America": 364
+  }
+ },
+ "v5.sample.sample_endangered_n": {
+  "value": 2373
+ },
+ "v5.sample.sample_endangered_share": {
+  "value": 0.39976415094339623
+ },
+ "v5.sample.unmapped_by_egids": {
+  "value": {
+   "0": 1,
+   "1": 13,
+   "2": 4,
+   "3": 16,
+   "4": 8,
+   "5": 103,
+   "6a": 128,
+   "6b": 173,
+   "7": 86,
+   "8a": 68,
+   "8b": 128
+  }
+ },
+ "v5.sample.unmapped_by_eth_area": {
+  "value": {
+   "Africa": 130,
+   "Americas": 31,
+   "Asia": 317,
+   "Europe": 19,
+   "Pacific": 231
+  }
+ },
+ "v5.sample.unmapped_by_macroarea": {
+  "value": {
+   "(no Glottolog match)": 2,
+   "Africa": 129,
+   "Australia": 133,
+   "Eurasia": 301,
+   "North America": 10,
+   "Papunesia": 133,
+   "South America": 20
+  }
+ },
+ "v5.sample.unmapped_endangered_share": {
+  "value": 0.625
+ },
+ "v5.sample.unmapped_noninst_share": {
+  "value": 0.9423076923076923
+ },
+ "v5.sample.unmapped_share_by_macroarea": {
+  "value": {
+   "(no Glottolog match)": 1.0,
+   "Africa": 0.0614,
+   "Australia": 1.0,
+   "Eurasia": 0.1989,
+   "North America": 0.0209,
+   "Papunesia": 0.0648,
+   "South America": 0.0521
+  }
+ },
+ "validation.A1_err_max.2050": {
+  "value": 0.004814632485336645
+ },
+ "validation.A1_err_max.2100": {
+  "value": 0.031599868612671056
+ },
+ "validation.A1_err_mean.2050": {
+  "value": 0.0016727293859914304
+ },
+ "validation.A1_err_mean.2100": {
+  "value": 0.011646566501388457
+ },
+ "validation.A1_err_p95.2050": {
+  "value": 0.00373678426210251
+ },
+ "validation.A1_err_p95.2100": {
+  "value": 0.025564653104279196
+ },
+ "validation.csv_vs_h5_premium_maxabs": {
+  "value": 7.532300472234965e-08
+ },
+ "validation.pv_recompute_max_rel_err_H": {
+  "value": 1.1362069174638474e-14
+ },
+ "validation.pv_recompute_max_rel_err_S": {
+  "value": 8.866492096524545e-15
+ }
+}

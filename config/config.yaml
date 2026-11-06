@@ -1,0 +1,46 @@
+# ---------------------------------------------------------------------------
+# Configuration for the SRM x linguistic-diversity analysis pipeline.
+# All paths are relative to the repository root unless absolute.
+# ---------------------------------------------------------------------------
+
+paths:
+  # --- CLIMRISK-SRM research package (MAGICC7 SCEN7-H, CESM2-WACCM G6sulfur, N=60) ---
+  climrisk_h5: data/raw/climrisk/CLIMRISK_SRM_SCEN7H_N60_LANGUAGE_READY.h5
+  climrisk_grid_crosswalk: data/raw/climrisk/grid_0p5_country_region_crosswalk.csv
+  climrisk_country_crosswalk: data/raw/climrisk/country_region_crosswalk.csv
+  climrisk_econ_pv_country: data/raw/climrisk/economic_pv_country_summary.csv
+  climrisk_termination_country: data/raw/climrisk/CLIMRISK_SRM_termination_country_PV_summary.csv
+
+  # --- Ethnologue 28 (licensed; NOT redistributed in this repository) ---
+  eth_languages: data/raw/ethnologue/Table_of_Languages.tab
+  eth_lics: data/raw/ethnologue/Table_of_LICs.tab
+  eth_countries: data/raw/ethnologue/Table_of_Countries.tab
+  eth_polygons_gdb: data/raw/ethnologue/E28_lang_polys.gdb
+
+  # --- Public external data ---
+  ne_land: data/external/naturalearth/ne_50m_land.geojson
+  ne_coast: data/external/naturalearth/ne_50m_coastline.geojson
+  ne_countries: data/external/naturalearth/ne_50m_admin_0_countries.geojson
+  owid_co2: data/external/owid/owid-co2-data.csv
+
+  # --- Outputs ---
+  interim: data/interim          # RESTRICTED: language-level products derived from Ethnologue
+  results: results/tables        # public: aggregated tables only
+  figures: results/figures
+
+analysis:
+  horizons: [2050, 2100]
+  main_horizon: 2100
+  discount_rate: 0.015           # matches CLIMRISK PV convention
+  pv_start: 2026
+  pv_end: 2100
+  n_bootstrap: 2000
+  random_seed: 20261026
+  # Residual (SRM minus mitigation) dead-band used for three-way classification
+  temp_deadband_c: 0.10          # |R| <= 0.10 C counted as "about equal"
+  precip_deadband_pct: 2.0       # |R_P| <= 2 percentage points counted as "about equal"
+  exclude_sign_languages: true   # sign-language polygons cover whole countries
+  exclude_egids: ["9"]          # v5: dormant languages (EGIDS 9) have no first-language speakers
+  add_point_languages: false     # v5 robustness: languages without a polygon enter at their Glottolog point
+  min_land_fraction: 0.0         # polygons with no land-cell coverage fall back to nearest land cell
+  nearest_cell_max_km: 150       # max distance for the nearest-land-cell fallback

@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software or its aggregated results, please cite the article and the software."
+title: "srm-linguistic-justice: distributional analysis of solar radiation modification versus mitigation across the world's languages"
+version: 6.0.0
+date-released: 2026-11-05
+license: MIT
+authors:
+  - family-names: Bastien-Olvera
+    given-names: Bernardo A.
+    affiliation: "Instituto de Ciencias de la Atmósfera y Cambio Climático, UNAM"
+repository-code: "https://github.com/<account>/srm-linguistic-justice"
+keywords: [solar radiation modification, geoengineering, precipitation, linguistic diversity, climate justice, Ethnologue, Glottolog, CLIMRISK]
+preferred-citation:
+  type: article
+  title: "Solar geoengineering shifts rainfall loss onto linguistic diversity"
+  authors:
+    - family-names: Bastien-Olvera
+      given-names: Bernardo A.
+    - family-names: Estrada
+      given-names: Francisco
+    - family-names: Zariquiey
+      given-names: Roberto
+  status: submitted

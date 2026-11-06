@@ -1,0 +1,62 @@
+origin,vitality_LIC,T_out,P_out,n_lic,L1,area_km2
+Indigenous to country,Dying,SRM cooler than mitigation,SRM drier than mitigation,215,1081724.0,212894.39540206094
+Indigenous to country,Dying,SRM cooler than mitigation,SRM wetter than mitigation,66,220436.0,116263.36733665873
+Indigenous to country,Dying,SRM cooler than mitigation,Similar (within 2 pp),78,107057.0,191356.4543924996
+Indigenous to country,Dying,SRM warmer than mitigation,SRM drier than mitigation,42,107862.0,125300.60812992431
+Indigenous to country,Dying,SRM warmer than mitigation,SRM wetter than mitigation,5,3044.0,85804.77974484248
+Indigenous to country,Dying,SRM warmer than mitigation,Similar (within 2 pp),13,46703.0,173437.95256213736
+Indigenous to country,Dying,Similar (within 0.1 C),SRM drier than mitigation,95,56594.0,154779.66754098888
+Indigenous to country,Dying,Similar (within 0.1 C),SRM wetter than mitigation,8,1530.0,7092.187207717178
+Indigenous to country,Dying,Similar (within 0.1 C),Similar (within 2 pp),21,9526.0,18301.758748980163
+Indigenous to country,In trouble,SRM cooler than mitigation,SRM drier than mitigation,919,36221082.0,2358131.5956898564
+Indigenous to country,In trouble,SRM cooler than mitigation,SRM wetter than mitigation,323,45389684.0,1419315.550074361
+Indigenous to country,In trouble,SRM cooler than mitigation,Similar (within 2 pp),305,11204905.0,426106.2367053045
+Indigenous to country,In trouble,SRM warmer than mitigation,SRM drier than mitigation,91,9210520.0,1318388.9275309325
+Indigenous to country,In trouble,SRM warmer than mitigation,SRM wetter than mitigation,4,233140.0,112651.17489889433
+Indigenous to country,In trouble,SRM warmer than mitigation,Similar (within 2 pp),13,49840.0,405221.1207717068
+Indigenous to country,In trouble,Similar (within 0.1 C),SRM drier than mitigation,430,23152443.0,1590128.6763430287
+Indigenous to country,In trouble,Similar (within 0.1 C),SRM wetter than mitigation,42,2235005.0,60687.49727159935
+Indigenous to country,In trouble,Similar (within 0.1 C),Similar (within 2 pp),52,581058.0,209498.52821719795
+Indigenous to country,Institutional,SRM cooler than mitigation,SRM drier than mitigation,208,1454237920.0,10146361.357836662
+Indigenous to country,Institutional,SRM cooler than mitigation,SRM wetter than mitigation,96,812699130.0,7516291.904192552
+Indigenous to country,Institutional,SRM cooler than mitigation,Similar (within 2 pp),73,460119440.0,3135790.4122594967
+Indigenous to country,Institutional,SRM warmer than mitigation,SRM drier than mitigation,25,242527900.0,10709316.244761406
+Indigenous to country,Institutional,SRM warmer than mitigation,Similar (within 2 pp),3,5738000.0,1730675.0348164728
+Indigenous to country,Institutional,Similar (within 0.1 C),SRM drier than mitigation,83,573219690.0,8608216.899124611
+Indigenous to country,Institutional,Similar (within 0.1 C),SRM wetter than mitigation,6,21678810.0,100581.17287935846
+Indigenous to country,Institutional,Similar (within 0.1 C),Similar (within 2 pp),6,7532000.0,475520.5608374426
+Indigenous to country,Stable,SRM cooler than mitigation,SRM drier than mitigation,1440,371878797.0,9765523.827518253
+Indigenous to country,Stable,SRM cooler than mitigation,SRM wetter than mitigation,573,392107285.0,7886608.981874114
+Indigenous to country,Stable,SRM cooler than mitigation,Similar (within 2 pp),639,157856360.0,2786245.3963495996
+Indigenous to country,Stable,SRM warmer than mitigation,SRM drier than mitigation,183,29998230.0,2386439.468968315
+Indigenous to country,Stable,SRM warmer than mitigation,Similar (within 2 pp),2,45000.0,42928.37533829966
+Indigenous to country,Stable,Similar (within 0.1 C),SRM drier than mitigation,598,105426960.0,3229992.330554599
+Indigenous to country,Stable,Similar (within 0.1 C),SRM wetter than mitigation,16,7390970.0,394423.74537492765
+Indigenous to country,Stable,Similar (within 0.1 C),Similar (within 2 pp),83,4081210.0,301040.85022404196
+Non-indigenous (colonial or immigrant origin),Dying,SRM cooler than mitigation,SRM drier than mitigation,9,44394.0,3793.3011553402803
+Non-indigenous (colonial or immigrant origin),Dying,SRM cooler than mitigation,SRM wetter than mitigation,5,57170.0,1148.566673685312
+Non-indigenous (colonial or immigrant origin),Dying,SRM cooler than mitigation,Similar (within 2 pp),5,128157.0,1267.0893285606353
+Non-indigenous (colonial or immigrant origin),Dying,SRM warmer than mitigation,SRM drier than mitigation,2,24.0,584.5565229436642
+Non-indigenous (colonial or immigrant origin),Dying,SRM warmer than mitigation,SRM wetter than mitigation,1,0.0,872.1824402366649
+Non-indigenous (colonial or immigrant origin),Dying,SRM warmer than mitigation,Similar (within 2 pp),2,5000.0,300.9933644082658
+Non-indigenous (colonial or immigrant origin),Dying,Similar (within 0.1 C),SRM drier than mitigation,4,55152.0,3594.340580861898
+Non-indigenous (colonial or immigrant origin),In trouble,SRM cooler than mitigation,SRM drier than mitigation,22,1918730.0,50993.54244338934
+Non-indigenous (colonial or immigrant origin),In trouble,SRM cooler than mitigation,SRM wetter than mitigation,15,222160.0,28987.970709280744
+Non-indigenous (colonial or immigrant origin),In trouble,SRM cooler than mitigation,Similar (within 2 pp),21,320710.0,46802.72852959626
+Non-indigenous (colonial or immigrant origin),In trouble,SRM warmer than mitigation,SRM drier than mitigation,2,33300.0,656.6350854077461
+Non-indigenous (colonial or immigrant origin),In trouble,SRM warmer than mitigation,Similar (within 2 pp),1,5830.0,456534.3227776815
+Non-indigenous (colonial or immigrant origin),In trouble,Similar (within 0.1 C),SRM drier than mitigation,10,513490.0,254872.94748685297
+Non-indigenous (colonial or immigrant origin),Institutional,SRM cooler than mitigation,SRM drier than mitigation,21,458852920.0,11165854.86588037
+Non-indigenous (colonial or immigrant origin),Institutional,SRM cooler than mitigation,SRM wetter than mitigation,6,91437000.0,2788828.7331888364
+Non-indigenous (colonial or immigrant origin),Institutional,SRM cooler than mitigation,Similar (within 2 pp),5,57216000.0,865556.2218794279
+Non-indigenous (colonial or immigrant origin),Institutional,SRM warmer than mitigation,SRM drier than mitigation,3,271483560.0,7503619.85571969
+Non-indigenous (colonial or immigrant origin),Institutional,Similar (within 0.1 C),SRM drier than mitigation,24,110883710.0,1576976.0243002288
+Non-indigenous (colonial or immigrant origin),Institutional,Similar (within 0.1 C),SRM wetter than mitigation,3,23522000.0,525531.178477087
+Non-indigenous (colonial or immigrant origin),Institutional,Similar (within 0.1 C),Similar (within 2 pp),6,185121000.0,1820915.818163637
+Non-indigenous (colonial or immigrant origin),Stable,SRM cooler than mitigation,SRM drier than mitigation,43,3664640.0,323288.363459911
+Non-indigenous (colonial or immigrant origin),Stable,SRM cooler than mitigation,SRM wetter than mitigation,26,3494880.0,51497.55931151758
+Non-indigenous (colonial or immigrant origin),Stable,SRM cooler than mitigation,Similar (within 2 pp),37,5525600.0,112767.12515133667
+Non-indigenous (colonial or immigrant origin),Stable,SRM warmer than mitigation,SRM drier than mitigation,8,2154370.0,21428.478001366842
+Non-indigenous (colonial or immigrant origin),Stable,Similar (within 0.1 C),SRM drier than mitigation,35,5937020.0,78025.1048509958
+Non-indigenous (colonial or immigrant origin),Stable,Similar (within 0.1 C),SRM wetter than mitigation,1,384000.0,6702.139324335007
+Non-indigenous (colonial or immigrant origin),Stable,Similar (within 0.1 C),Similar (within 2 pp),5,12470.0,39109.170543530345

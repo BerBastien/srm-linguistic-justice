@@ -1,0 +1,19 @@
+data/raw/ethnologue/*
+!data/raw/ethnologue/.gitkeep
+data/raw/climrisk/*
+!data/raw/climrisk/.gitkeep
+data/interim/*
+!data/interim/README.md
+__pycache__/
+.pytest_cache/
+log_*.txt
+.DS_Store
+# licensed data must never be committed; these formats never belong in this repository
+*.parquet
+*.npz
+*.h5
+*.gdb
+*.gpkg
+*.shp
+*.tab
+*.zip

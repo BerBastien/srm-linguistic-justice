@@ -1,0 +1,14 @@
+check,value
+"max |beta(t)-beta(2100)|, 2030-2100",1.9350157476338836e-07
+"max |gamma(t)-gamma(2100)|, 2030-2100",2.131038606689728e-06
+"max |pi(t)-pi(2100)|, 2030-2100",9.25918843108775e-06
+max within-pattern std of beta across members,5.557810445981775e-08
+"A1 abs error in E[T_M], country level, 2050: mean",0.0016727293859914304
+"A1 abs error in E[T_M], country level, 2050: p95",0.00373678426210251
+"A1 abs error in E[T_M], country level, 2050: max",0.004814632485336645
+"|E[R]| country level exact, 2050: median",0.03261343101336003
+"A1 abs error in E[T_M], country level, 2100: mean",0.011646566501388457
+"A1 abs error in E[T_M], country level, 2100: p95",0.025564653104279196
+"A1 abs error in E[T_M], country level, 2100: max",0.031599868612671056
+"|E[R]| country level exact, 2100: median",0.15763927061186975
+max |area-wtd grid mean - country mean| T_H 2100 (8 countries),1.1179546657302808e-06

@@ -1,0 +1,16 @@
+# Tested with Python 3.13
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+h5py==3.16.0
+pyarrow==26.0.0
+PyYAML==6.0.3
+geopandas==1.2.0
+shapely==2.2.0
+pyogrio==0.13.0
+pyproj==3.8.0
+rasterio==1.5.2
+exactextract==0.3.0
+matplotlib==3.11.2
+pillow==12.3.0
+pytest>=8

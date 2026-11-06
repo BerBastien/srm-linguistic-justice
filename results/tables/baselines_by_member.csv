@@ -1,0 +1,1921 @@
+outcome,unit,member,pattern,share
+drier,land,0,1,0.5648854594063933
+drier,land,1,2,0.43527744662978746
+drier,land,2,3,0.5940691056560492
+drier,land,3,4,0.6466520590167053
+drier,land,4,5,0.5811476654499694
+drier,land,5,6,0.447112865583958
+drier,land,6,1,0.5522486218354299
+drier,land,7,2,0.43049858420240006
+drier,land,8,3,0.5171301683535793
+drier,land,9,4,0.5361635501263613
+drier,land,10,5,0.6470972990682982
+drier,land,11,6,0.439309512370747
+drier,land,12,1,0.45711975377421943
+drier,land,13,2,0.4132366910869856
+drier,land,14,3,0.5725341649973577
+drier,land,15,4,0.6453531067606348
+drier,land,16,5,0.5819915595360774
+drier,land,17,6,0.4950484064465172
+drier,land,18,1,0.5039986925014501
+drier,land,19,2,0.5034822225098103
+drier,land,20,3,0.6535883234177305
+drier,land,21,4,0.6974926775690163
+drier,land,22,5,0.6101982938799946
+drier,land,23,6,0.4601985191453199
+drier,land,24,1,0.5222904010117512
+drier,land,25,2,0.44545179405685964
+drier,land,26,3,0.5112141193406169
+drier,land,27,4,0.6230041631789135
+drier,land,28,5,0.6737222232793337
+drier,land,29,6,0.39426424331992704
+drier,land,30,1,0.5257221578498485
+drier,land,31,2,0.4122782480529382
+drier,land,32,3,0.5529957529371335
+drier,land,33,4,0.6801551535913645
+drier,land,34,5,0.5590127268757898
+drier,land,35,6,0.40823012035327955
+drier,land,36,1,0.53033446394688
+drier,land,37,2,0.49958473485019456
+drier,land,38,3,0.6469016306516254
+drier,land,39,4,0.6843172951461622
+drier,land,40,5,0.623869328139441
+drier,land,41,6,0.3887535028548037
+drier,land,42,1,0.5536936415972668
+drier,land,43,2,0.4426360424990381
+drier,land,44,3,0.6195824119881855
+drier,land,45,4,0.6681580952564181
+drier,land,46,5,0.5342203093407151
+drier,land,47,6,0.42001813538049076
+drier,land,48,1,0.48334210634364166
+drier,land,49,2,0.445555603464696
+drier,land,50,3,0.5617919993252585
+drier,land,51,4,0.6552045435695023
+drier,land,52,5,0.6688411108280317
+drier,land,53,6,0.4433884517764163
+drier,land,54,1,0.5458076616740507
+drier,land,55,2,0.46002738409255045
+drier,land,56,3,0.5371250063618913
+drier,land,57,4,0.5525686193246513
+drier,land,58,5,0.5900903365655432
+drier,land,59,6,0.43323003129786525
+drier,populated land,0,1,0.5610781645005057
+drier,populated land,1,2,0.43362627861500613
+drier,populated land,2,3,0.5986422165986585
+drier,populated land,3,4,0.6677027746886408
+drier,populated land,4,5,0.605115669318365
+drier,populated land,5,6,0.46464103698198117
+drier,populated land,6,1,0.5487023463465539
+drier,populated land,7,2,0.43161549419519857
+drier,populated land,8,3,0.5287423922410361
+drier,populated land,9,4,0.5546306804252523
+drier,populated land,10,5,0.6712771352405105
+drier,populated land,11,6,0.45608470900409714
+drier,populated land,12,1,0.46609992489531066
+drier,populated land,13,2,0.4169241811592237
+drier,populated land,14,3,0.5756690478019582
+drier,populated land,15,4,0.664768389212169
+drier,populated land,16,5,0.606650302649525
+drier,populated land,17,6,0.5085806536845531
+drier,populated land,18,1,0.5060492439690482
+drier,populated land,19,2,0.5084484308200747
+drier,populated land,20,3,0.6578203499626409
+drier,populated land,21,4,0.7102556129592233
+drier,populated land,22,5,0.6364543734773719
+drier,populated land,23,6,0.4764196047664227
+drier,populated land,24,1,0.5219656947833546
+drier,populated land,25,2,0.4458769765240589
+drier,populated land,26,3,0.5246773870044996
+drier,populated land,27,4,0.6440400902376182
+drier,populated land,28,5,0.700646936073032
+drier,populated land,29,6,0.40920077593181037
+drier,populated land,30,1,0.524355929344646
+drier,populated land,31,2,0.4118695657316866
+drier,populated land,32,3,0.558620783072469
+drier,populated land,33,4,0.6970466633777863
+drier,populated land,34,5,0.5877612601133093
+drier,populated land,35,6,0.42359715794333036
+drier,populated land,36,1,0.5287641205146979
+drier,populated land,37,2,0.5046700202259902
+drier,populated land,38,3,0.6529519578649732
+drier,populated land,39,4,0.6985970739623575
+drier,populated land,40,5,0.6477096609750825
+drier,populated land,41,6,0.40334584552959146
+drier,populated land,42,1,0.549916797857286
+drier,populated land,43,2,0.4415327253951051
+drier,populated land,44,3,0.62512018768681
+drier,populated land,45,4,0.6865910780520068
+drier,populated land,46,5,0.5628038631674822
+drier,populated land,47,6,0.4362553591423376
+drier,populated land,48,1,0.488990720507926
+drier,populated land,49,2,0.44724953429911507
+drier,populated land,50,3,0.5683066132730094
+drier,populated land,51,4,0.6737120437143519
+drier,populated land,52,5,0.6972687712321012
+drier,populated land,53,6,0.4614269449896329
+drier,populated land,54,1,0.5431040891937561
+drier,populated land,55,2,0.4594745204190218
+drier,populated land,56,3,0.5463768087867344
+drier,populated land,57,4,0.573258452081818
+drier,populated land,58,5,0.6162798596566517
+drier,populated land,59,6,0.4501305250396231
+drier,economy (GDP),0,1,0.49235731635179386
+drier,economy (GDP),1,2,0.3947390794966619
+drier,economy (GDP),2,3,0.5051671597045851
+drier,economy (GDP),3,4,0.7224959751447413
+drier,economy (GDP),4,5,0.6026446127196994
+drier,economy (GDP),5,6,0.32912753334498573
+drier,economy (GDP),6,1,0.49396520516339976
+drier,economy (GDP),7,2,0.37581642921564473
+drier,economy (GDP),8,3,0.37667222081086404
+drier,economy (GDP),9,4,0.5826603993645029
+drier,economy (GDP),10,5,0.662065047018294
+drier,economy (GDP),11,6,0.3037832277316352
+drier,economy (GDP),12,1,0.37121661668636136
+drier,economy (GDP),13,2,0.342750259024132
+drier,economy (GDP),14,3,0.47121613699501746
+drier,economy (GDP),15,4,0.7209630264076318
+drier,economy (GDP),16,5,0.6025552438183983
+drier,economy (GDP),17,6,0.3810924898624623
+drier,economy (GDP),18,1,0.4208087344672807
+drier,economy (GDP),19,2,0.5499809105110175
+drier,economy (GDP),20,3,0.6044192944717823
+drier,economy (GDP),21,4,0.7527834935945813
+drier,economy (GDP),22,5,0.6258916078689738
+drier,economy (GDP),23,6,0.3352655014048257
+drier,economy (GDP),24,1,0.44385211930625695
+drier,economy (GDP),25,2,0.413696696908623
+drier,economy (GDP),26,3,0.3708019245422311
+drier,economy (GDP),27,4,0.6960649744243053
+drier,economy (GDP),28,5,0.6996768058827572
+drier,economy (GDP),29,6,0.24615089374622695
+drier,economy (GDP),30,1,0.457799348996718
+drier,economy (GDP),31,2,0.3436839861550621
+drier,economy (GDP),32,3,0.43538891292061954
+drier,economy (GDP),33,4,0.7453187085619529
+drier,economy (GDP),34,5,0.5818737543180402
+drier,economy (GDP),35,6,0.25931230751320733
+drier,economy (GDP),36,1,0.4603218615442227
+drier,economy (GDP),37,2,0.5319282810099387
+drier,economy (GDP),38,3,0.595742553010636
+drier,economy (GDP),39,4,0.7438121049379942
+drier,economy (GDP),40,5,0.6394626256568569
+drier,economy (GDP),41,6,0.2411712762977518
+drier,economy (GDP),42,1,0.49568648245918734
+drier,economy (GDP),43,2,0.41457286612139266
+drier,economy (GDP),44,3,0.5476252127523639
+drier,economy (GDP),45,4,0.7381561890254078
+drier,economy (GDP),46,5,0.5685294360394638
+drier,economy (GDP),47,6,0.27625866435219987
+drier,economy (GDP),48,1,0.3999608535900556
+drier,economy (GDP),49,2,0.40745472382141473
+drier,economy (GDP),50,3,0.45096279596114774
+drier,economy (GDP),51,4,0.7282152315545029
+drier,economy (GDP),52,5,0.6892267815617301
+drier,economy (GDP),53,6,0.328735274100441
+drier,economy (GDP),54,1,0.4788950092663304
+drier,economy (GDP),55,2,0.4689986407837921
+drier,economy (GDP),56,3,0.4079664120366014
+drier,economy (GDP),57,4,0.609127587568011
+drier,economy (GDP),58,5,0.6070727053538203
+drier,economy (GDP),59,6,0.30024697026748864
+drier,people (L1 speakers),0,1,0.5642790857997448
+drier,people (L1 speakers),1,2,0.4219573388188332
+drier,people (L1 speakers),2,3,0.42778401938306304
+drier,people (L1 speakers),3,4,0.5993369375657167
+drier,people (L1 speakers),4,5,0.714206510723076
+drier,people (L1 speakers),5,6,0.3993209476769482
+drier,people (L1 speakers),6,1,0.580276680302805
+drier,people (L1 speakers),7,2,0.4094796354645994
+drier,people (L1 speakers),8,3,0.38457746725191405
+drier,people (L1 speakers),9,4,0.5308112164994934
+drier,people (L1 speakers),10,5,0.7527532302188775
+drier,people (L1 speakers),11,6,0.380491004416956
+drier,people (L1 speakers),12,1,0.4150274191913186
+drier,people (L1 speakers),13,2,0.38690666710559424
+drier,people (L1 speakers),14,3,0.4190174480781246
+drier,people (L1 speakers),15,4,0.5890057004362163
+drier,people (L1 speakers),16,5,0.7148986854257479
+drier,people (L1 speakers),17,6,0.4304358320571617
+drier,people (L1 speakers),18,1,0.47295578155075396
+drier,people (L1 speakers),19,2,0.4705164655207178
+drier,people (L1 speakers),20,3,0.4576602986870341
+drier,people (L1 speakers),21,4,0.6178187862343326
+drier,people (L1 speakers),22,5,0.7350234251336104
+drier,people (L1 speakers),23,6,0.39929128306436606
+drier,people (L1 speakers),24,1,0.49648056931092716
+drier,people (L1 speakers),25,2,0.42421303130200216
+drier,people (L1 speakers),26,3,0.3844500682891542
+drier,people (L1 speakers),27,4,0.5794606387717404
+drier,people (L1 speakers),28,5,0.7780106565327288
+drier,people (L1 speakers),29,6,0.3260730421832823
+drier,people (L1 speakers),30,1,0.5270143491926814
+drier,people (L1 speakers),31,2,0.39774237404413565
+drier,people (L1 speakers),32,3,0.40699407338934634
+drier,people (L1 speakers),33,4,0.6118652600168091
+drier,people (L1 speakers),34,5,0.703317640321459
+drier,people (L1 speakers),35,6,0.3381761751194846
+drier,people (L1 speakers),36,1,0.5279668829035213
+drier,people (L1 speakers),37,2,0.4630700727244751
+drier,people (L1 speakers),38,3,0.4586038652784223
+drier,people (L1 speakers),39,4,0.6036587881586377
+drier,people (L1 speakers),40,5,0.7402545126529095
+drier,people (L1 speakers),41,6,0.320380237442235
+drier,people (L1 speakers),42,1,0.5835189945869248
+drier,people (L1 speakers),43,2,0.4275749503024921
+drier,people (L1 speakers),44,3,0.4416099132134956
+drier,people (L1 speakers),45,4,0.6063224815741709
+drier,people (L1 speakers),46,5,0.6849922144309525
+drier,people (L1 speakers),47,6,0.3541697477981758
+drier,people (L1 speakers),48,1,0.44909370072283666
+drier,people (L1 speakers),49,2,0.4200699245448663
+drier,people (L1 speakers),50,3,0.4094662942191548
+drier,people (L1 speakers),51,4,0.5938531140987158
+drier,people (L1 speakers),52,5,0.7786268469930978
+drier,people (L1 speakers),53,6,0.39885301190033084
+drier,people (L1 speakers),54,1,0.5580730059788237
+drier,people (L1 speakers),55,2,0.44436364387512384
+drier,people (L1 speakers),56,3,0.3954735324945594
+drier,people (L1 speakers),57,4,0.5468479851892142
+drier,people (L1 speakers),58,5,0.7222720146725039
+drier,people (L1 speakers),59,6,0.37526441278977507
+drier,non-institutional languages,0,1,0.6785857850596675
+drier,non-institutional languages,1,2,0.5289875072584539
+drier,non-institutional languages,2,3,0.46973668659763945
+drier,non-institutional languages,3,4,0.6996829366169298
+drier,non-institutional languages,4,5,0.6666251861098206
+drier,non-institutional languages,5,6,0.5939147914891771
+drier,non-institutional languages,6,1,0.7017264217567808
+drier,non-institutional languages,7,2,0.5167348330954583
+drier,non-institutional languages,8,3,0.41804183215250584
+drier,non-institutional languages,9,4,0.6202448007299814
+drier,non-institutional languages,10,5,0.7189870648768405
+drier,non-institutional languages,11,6,0.5729000719006819
+drier,non-institutional languages,12,1,0.5578423072217797
+drier,non-institutional languages,13,2,0.5007738123413789
+drier,non-institutional languages,14,3,0.45607126063244247
+drier,non-institutional languages,15,4,0.6759444686418518
+drier,non-institutional languages,16,5,0.6706325173810032
+drier,non-institutional languages,17,6,0.6260233535031734
+drier,non-institutional languages,18,1,0.6111804236390399
+drier,non-institutional languages,19,2,0.5756814939520194
+drier,non-institutional languages,20,3,0.5055512240397282
+drier,non-institutional languages,21,4,0.7108088954991731
+drier,non-institutional languages,22,5,0.7052203652341292
+drier,non-institutional languages,23,6,0.5965197971721283
+drier,non-institutional languages,24,1,0.6294119918785333
+drier,non-institutional languages,25,2,0.5321763965135177
+drier,non-institutional languages,26,3,0.4228692203783514
+drier,non-institutional languages,27,4,0.6696108298702879
+drier,non-institutional languages,28,5,0.7494231678318187
+drier,non-institutional languages,29,6,0.5108234672431805
+drier,non-institutional languages,30,1,0.6631435525924574
+drier,non-institutional languages,31,2,0.5028519823544778
+drier,non-institutional languages,32,3,0.44057414661745176
+drier,non-institutional languages,33,4,0.6975144781051339
+drier,non-institutional languages,34,5,0.6719988811511756
+drier,non-institutional languages,35,6,0.5231693282136777
+drier,non-institutional languages,36,1,0.6609170965363383
+drier,non-institutional languages,37,2,0.5721079845754584
+drier,non-institutional languages,38,3,0.5028870464203317
+drier,non-institutional languages,39,4,0.6889843874936322
+drier,non-institutional languages,40,5,0.6884424989632683
+drier,non-institutional languages,41,6,0.5044135733918926
+drier,non-institutional languages,42,1,0.7035594602266437
+drier,non-institutional languages,43,2,0.5348370320777118
+drier,non-institutional languages,44,3,0.48754260216529915
+drier,non-institutional languages,45,4,0.6943191967560085
+drier,non-institutional languages,46,5,0.6577477657142666
+drier,non-institutional languages,47,6,0.542363397220443
+drier,non-institutional languages,48,1,0.5891103636029686
+drier,non-institutional languages,49,2,0.5261932405347807
+drier,non-institutional languages,50,3,0.44705716144418794
+drier,non-institutional languages,51,4,0.6753907213315543
+drier,non-institutional languages,52,5,0.746985672218315
+drier,non-institutional languages,53,6,0.5929437204368244
+drier,non-institutional languages,54,1,0.6864806028690561
+drier,non-institutional languages,55,2,0.5585539598017735
+drier,non-institutional languages,56,3,0.4273633201034541
+drier,non-institutional languages,57,4,0.6398242599417495
+drier,non-institutional languages,58,5,0.6903515821177802
+drier,non-institutional languages,59,6,0.5678377718245603
+drier,institutional languages,0,1,0.6801173980898796
+drier,institutional languages,1,2,0.5398277750332526
+drier,institutional languages,2,3,0.4881573763876839
+drier,institutional languages,3,4,0.6521103976527348
+drier,institutional languages,4,5,0.6804019378068156
+drier,institutional languages,5,6,0.5229088686425757
+drier,institutional languages,6,1,0.6925157529205983
+drier,institutional languages,7,2,0.5168776082339828
+drier,institutional languages,8,3,0.4278460481409993
+drier,institutional languages,9,4,0.5943323083476948
+drier,institutional languages,10,5,0.722293955487784
+drier,institutional languages,11,6,0.4949708346171913
+drier,institutional languages,12,1,0.5151150191728592
+drier,institutional languages,13,2,0.4926296456373278
+drier,institutional languages,14,3,0.4805897996621692
+drier,institutional languages,15,4,0.6441930467325837
+drier,institutional languages,16,5,0.684587806566549
+drier,institutional languages,17,6,0.5573266462606478
+drier,institutional languages,18,1,0.5919375082511391
+drier,institutional languages,19,2,0.5887452176278177
+drier,institutional languages,20,3,0.5370736325359093
+drier,institutional languages,21,4,0.6665992009400428
+drier,institutional languages,22,5,0.7127215110303803
+drier,institutional languages,23,6,0.5202936979940116
+drier,institutional languages,24,1,0.6126646056616
+drier,institutional languages,25,2,0.5381661187546012
+drier,institutional languages,26,3,0.4257353452211945
+drier,institutional languages,27,4,0.6374657873940829
+drier,institutional languages,28,5,0.7497080968398463
+drier,institutional languages,29,6,0.4307617496824316
+drier,institutional languages,30,1,0.6414894044424152
+drier,institutional languages,31,2,0.5084784953463518
+drier,institutional languages,32,3,0.4626362161606691
+drier,institutional languages,33,4,0.6590690040985963
+drier,institutional languages,34,5,0.6899081976620022
+drier,institutional languages,35,6,0.4460430455151688
+drier,institutional languages,36,1,0.6413425655048599
+drier,institutional languages,37,2,0.5768154467710683
+drier,institutional languages,38,3,0.5365061245165995
+drier,institutional languages,39,4,0.654278613550963
+drier,institutional languages,40,5,0.6982786464212843
+drier,institutional languages,41,6,0.42145336756854
+drier,institutional languages,42,1,0.6943182905661482
+drier,institutional languages,43,2,0.5453147762969529
+drier,institutional languages,44,3,0.509971104740584
+drier,institutional languages,45,4,0.6557241839367326
+drier,institutional languages,46,5,0.6642829136749943
+drier,institutional languages,47,6,0.46390722907509313
+drier,institutional languages,48,1,0.5549117710264381
+drier,institutional languages,49,2,0.5326785419124374
+drier,institutional languages,50,3,0.4652898984841268
+drier,institutional languages,51,4,0.6481501127964884
+drier,institutional languages,52,5,0.7464447547533362
+drier,institutional languages,53,6,0.5220974365202609
+drier,institutional languages,54,1,0.67495362592565
+drier,institutional languages,55,2,0.5690211604539065
+drier,institutional languages,56,3,0.4435398082092428
+drier,institutional languages,57,4,0.6098922907165818
+drier,institutional languages,58,5,0.7000254980898014
+drier,institutional languages,59,6,0.487703842089917
+drier,linguistic diversity hotspots,0,1,0.7578632131594488
+drier,linguistic diversity hotspots,1,2,0.5537190328902681
+drier,linguistic diversity hotspots,2,3,0.44387016428872755
+drier,linguistic diversity hotspots,3,4,0.7186150227543647
+drier,linguistic diversity hotspots,4,5,0.6578809934460712
+drier,linguistic diversity hotspots,5,6,0.6378508670640575
+drier,linguistic diversity hotspots,6,1,0.7883592827080975
+drier,linguistic diversity hotspots,7,2,0.544769909590067
+drier,linguistic diversity hotspots,8,3,0.40686633731485206
+drier,linguistic diversity hotspots,9,4,0.6224179166148355
+drier,linguistic diversity hotspots,10,5,0.6876278719538592
+drier,linguistic diversity hotspots,11,6,0.6138943311994217
+drier,linguistic diversity hotspots,12,1,0.646150700648715
+drier,linguistic diversity hotspots,13,2,0.5338277722410485
+drier,linguistic diversity hotspots,14,3,0.4298512447763217
+drier,linguistic diversity hotspots,15,4,0.6840855446867149
+drier,linguistic diversity hotspots,16,5,0.6618753020284099
+drier,linguistic diversity hotspots,17,6,0.6682077183154534
+drier,linguistic diversity hotspots,18,1,0.6919009458175434
+drier,linguistic diversity hotspots,19,2,0.5920386537294196
+drier,linguistic diversity hotspots,20,3,0.4671681738889963
+drier,linguistic diversity hotspots,21,4,0.7127051113474335
+drier,linguistic diversity hotspots,22,5,0.6844033226508741
+drier,linguistic diversity hotspots,23,6,0.639918060120641
+drier,linguistic diversity hotspots,24,1,0.7107923853341725
+drier,linguistic diversity hotspots,25,2,0.5589858781748198
+drier,linguistic diversity hotspots,26,3,0.41755636646051386
+drier,linguistic diversity hotspots,27,4,0.6795599046635897
+drier,linguistic diversity hotspots,28,5,0.7168504347209612
+drier,linguistic diversity hotspots,29,6,0.5681580933774372
+drier,linguistic diversity hotspots,30,1,0.756164391685364
+drier,linguistic diversity hotspots,31,2,0.5281258616980741
+drier,linguistic diversity hotspots,32,3,0.41745597958722397
+drier,linguistic diversity hotspots,33,4,0.7014638854042566
+drier,linguistic diversity hotspots,34,5,0.6739447807018466
+drier,linguistic diversity hotspots,35,6,0.5796005115850316
+drier,linguistic diversity hotspots,36,1,0.7504720779609725
+drier,linguistic diversity hotspots,37,2,0.5938601507960004
+drier,linguistic diversity hotspots,38,3,0.47137189434523225
+drier,linguistic diversity hotspots,39,4,0.6835728811109384
+drier,linguistic diversity hotspots,40,5,0.6723849079911345
+drier,linguistic diversity hotspots,41,6,0.5634470733315269
+drier,linguistic diversity hotspots,42,1,0.7902329048379542
+drier,linguistic diversity hotspots,43,2,0.5575897680343364
+drier,linguistic diversity hotspots,44,3,0.4583456885580909
+drier,linguistic diversity hotspots,45,4,0.7057874223321604
+drier,linguistic diversity hotspots,46,5,0.6702796662476793
+drier,linguistic diversity hotspots,47,6,0.5899831295412392
+drier,linguistic diversity hotspots,48,1,0.67131613014725
+drier,linguistic diversity hotspots,49,2,0.5517736825504672
+drier,linguistic diversity hotspots,50,3,0.4273673809173549
+drier,linguistic diversity hotspots,51,4,0.6785607123633262
+drier,linguistic diversity hotspots,52,5,0.7151627837260401
+drier,linguistic diversity hotspots,53,6,0.6369597276579546
+drier,linguistic diversity hotspots,54,1,0.7735594835697073
+drier,linguistic diversity hotspots,55,2,0.5826209547437179
+drier,linguistic diversity hotspots,56,3,0.41024704742338725
+drier,linguistic diversity hotspots,57,4,0.6483227203706473
+drier,linguistic diversity hotspots,58,5,0.6765224222490688
+drier,linguistic diversity hotspots,59,6,0.6116809918888041
+drier,language lineages,0,1,0.5934702127826891
+drier,language lineages,1,2,0.6220071752276355
+drier,language lineages,2,3,0.6375060005161093
+drier,language lineages,3,4,0.6886467533584195
+drier,language lineages,4,5,0.7655573810166408
+drier,language lineages,5,6,0.6502842878125695
+drier,language lineages,6,1,0.5968763849663027
+drier,language lineages,7,2,0.6165719249199971
+drier,language lineages,8,3,0.5471322521061421
+drier,language lineages,9,4,0.6521886535352878
+drier,language lineages,10,5,0.8282804425789347
+drier,language lineages,11,6,0.6282637632048467
+drier,language lineages,12,1,0.5588877994195942
+drier,language lineages,13,2,0.5808297959100311
+drier,language lineages,14,3,0.5941327613290951
+drier,language lineages,15,4,0.6846468245409255
+drier,language lineages,16,5,0.7671837645573086
+drier,language lineages,17,6,0.7019431966544983
+drier,language lineages,18,1,0.5791692249261566
+drier,language lineages,19,2,0.6708976710662473
+drier,language lineages,20,3,0.6895397709414827
+drier,language lineages,21,4,0.7513892801291447
+drier,language lineages,22,5,0.810376910580171
+drier,language lineages,23,6,0.6624766755394532
+drier,language lineages,24,1,0.5855748079157306
+drier,language lineages,25,2,0.6275508007429731
+drier,language lineages,26,3,0.5635453167419563
+drier,language lineages,27,4,0.6777666238272094
+drier,language lineages,28,5,0.8873139736504148
+drier,language lineages,29,6,0.5569207822178837
+drier,language lineages,30,1,0.5813491882018347
+drier,language lineages,31,2,0.5846915731379984
+drier,language lineages,32,3,0.57205762749281
+drier,language lineages,33,4,0.7178502656123982
+drier,language lineages,34,5,0.7863207934940765
+drier,language lineages,35,6,0.5762421947785586
+drier,language lineages,36,1,0.582555397372346
+drier,language lineages,37,2,0.6576761313956027
+drier,language lineages,38,3,0.689849378533166
+drier,language lineages,39,4,0.731812890828534
+drier,language lineages,40,5,0.7919152066396151
+drier,language lineages,41,6,0.5497443514178743
+drier,language lineages,42,1,0.6015996142910877
+drier,language lineages,43,2,0.6262158956930498
+drier,language lineages,44,3,0.6705147882106834
+drier,language lineages,45,4,0.7007860702051039
+drier,language lineages,46,5,0.7473750936166162
+drier,language lineages,47,6,0.5900580867806641
+drier,language lineages,48,1,0.5650463891695526
+drier,language lineages,49,2,0.6247276922485959
+drier,language lineages,50,3,0.5987969854681182
+drier,language lineages,51,4,0.6903296971989721
+drier,language lineages,52,5,0.8816668686134796
+drier,language lineages,53,6,0.6463463557132633
+drier,language lineages,54,1,0.5900357766877842
+drier,language lineages,55,2,0.6450001770168405
+drier,language lineages,56,3,0.561367705571528
+drier,language lineages,57,4,0.6678312580433178
+drier,language lineages,58,5,0.7867031031322221
+drier,language lineages,59,6,0.6209087681566454
+wetter,land,0,1,0.2881039451501967
+wetter,land,1,2,0.3523603513969165
+wetter,land,2,3,0.24149118113124537
+wetter,land,3,4,0.24974920004840676
+wetter,land,4,5,0.2688456310952678
+wetter,land,5,6,0.35534844380735764
+wetter,land,6,1,0.3253333924894767
+wetter,land,7,2,0.34229090524365857
+wetter,land,8,3,0.27834892937764144
+wetter,land,9,4,0.2688765305323613
+wetter,land,10,5,0.24277504020119986
+wetter,land,11,6,0.34004132494291434
+wetter,land,12,1,0.3171743150565842
+wetter,land,13,2,0.342762038204037
+wetter,land,14,3,0.26319016762442465
+wetter,land,15,4,0.2597425719095909
+wetter,land,16,5,0.26087106766712864
+wetter,land,17,6,0.34074661456488986
+wetter,land,18,1,0.30897039686473743
+wetter,land,19,2,0.31195125235911597
+wetter,land,20,3,0.25604075261360093
+wetter,land,21,4,0.26108349295806166
+wetter,land,22,5,0.24357265639973028
+wetter,land,23,6,0.34057412196425857
+wetter,land,24,1,0.30341698429607866
+wetter,land,25,2,0.33666605897278945
+wetter,land,26,3,0.27130498513906853
+wetter,land,27,4,0.25499388844691623
+wetter,land,28,5,0.21808124951877159
+wetter,land,29,6,0.3381489693075592
+wetter,land,30,1,0.32140338906757215
+wetter,land,31,2,0.3656508952583843
+wetter,land,32,3,0.26900286069471135
+wetter,land,33,4,0.26023090612986804
+wetter,land,34,5,0.2524196899856963
+wetter,land,35,6,0.3319846511454531
+wetter,land,36,1,0.3143587130776923
+wetter,land,37,2,0.302393353860744
+wetter,land,38,3,0.23720320830936398
+wetter,land,39,4,0.26532456508100316
+wetter,land,40,5,0.2629310449181583
+wetter,land,41,6,0.3400668057604838
+wetter,land,42,1,0.32483699673128696
+wetter,land,43,2,0.34575855667178496
+wetter,land,44,3,0.23005580145277765
+wetter,land,45,4,0.2591981909529319
+wetter,land,46,5,0.263368455172109
+wetter,land,47,6,0.33779162526802003
+wetter,land,48,1,0.31545464322819394
+wetter,land,49,2,0.3301502437793464
+wetter,land,50,3,0.25269546089211314
+wetter,land,51,4,0.2625690155174132
+wetter,land,52,5,0.2182513134206578
+wetter,land,53,6,0.35914857251372656
+wetter,land,54,1,0.3156596681156656
+wetter,land,55,2,0.3375114907644623
+wetter,land,56,3,0.26614032068657917
+wetter,land,57,4,0.25847831268540516
+wetter,land,58,5,0.2497898884718441
+wetter,land,59,6,0.33980611933526345
+wetter,populated land,0,1,0.29743502357795537
+wetter,populated land,1,2,0.35225271954802784
+wetter,populated land,2,3,0.23821861385348114
+wetter,populated land,3,4,0.2421004201239145
+wetter,populated land,4,5,0.26015568305915115
+wetter,populated land,5,6,0.3575120004929687
+wetter,populated land,6,1,0.3356400915394742
+wetter,populated land,7,2,0.34015714477318976
+wetter,populated land,8,3,0.2800632824297867
+wetter,populated land,9,4,0.2594008993277177
+wetter,populated land,10,5,0.23289848990690926
+wetter,populated land,11,6,0.3423168513840382
+wetter,populated land,12,1,0.3275833113442163
+wetter,populated land,13,2,0.34051235385826273
+wetter,populated land,14,3,0.26130000508649287
+wetter,populated land,15,4,0.2541096311433093
+wetter,populated land,16,5,0.25057059708283164
+wetter,populated land,17,6,0.34285451832408237
+wetter,populated land,18,1,0.32013401261016006
+wetter,populated land,19,2,0.31078154730167934
+wetter,populated land,20,3,0.25419374086075686
+wetter,populated land,21,4,0.2593427781999267
+wetter,populated land,22,5,0.2314840726945429
+wetter,populated land,23,6,0.34320162901562473
+wetter,populated land,24,1,0.31430316839161004
+wetter,populated land,25,2,0.334873693936475
+wetter,populated land,26,3,0.2732166156071974
+wetter,populated land,27,4,0.2472875440299134
+wetter,populated land,28,5,0.20411957223810345
+wetter,populated land,29,6,0.34010859660280135
+wetter,populated land,30,1,0.33266854013617053
+wetter,populated land,31,2,0.3659188849020685
+wetter,populated land,32,3,0.2686990747642519
+wetter,populated land,33,4,0.2568713924419983
+wetter,populated land,34,5,0.23844064052323102
+wetter,populated land,35,6,0.33425617517939776
+wetter,populated land,36,1,0.3253047836223787
+wetter,populated land,37,2,0.29898281552879796
+wetter,populated land,38,3,0.2324128653110029
+wetter,populated land,39,4,0.26369172117258827
+wetter,populated land,40,5,0.25601378359257454
+wetter,populated land,41,6,0.3419259568365098
+wetter,populated land,42,1,0.3350789468446362
+wetter,populated land,43,2,0.34512537752629363
+wetter,populated land,44,3,0.2260276571766364
+wetter,populated land,45,4,0.25478244499163244
+wetter,populated land,46,5,0.2498039286165975
+wetter,populated land,47,6,0.3401737465956995
+wetter,populated land,48,1,0.3265712006202212
+wetter,populated land,49,2,0.3270840793224501
+wetter,populated land,50,3,0.251443905333181
+wetter,populated land,51,4,0.258271092680297
+wetter,populated land,52,5,0.2038952244715844
+wetter,populated land,53,6,0.3609412937948199
+wetter,populated land,54,1,0.32590354688870543
+wetter,populated land,55,2,0.3374843601038666
+wetter,populated land,56,3,0.26654220192229894
+wetter,populated land,57,4,0.24784262743981847
+wetter,populated land,58,5,0.23754702720341667
+wetter,populated land,59,6,0.34190418715459536
+wetter,economy (GDP),0,1,0.26898113591121525
+wetter,economy (GDP),1,2,0.3458763256501897
+wetter,economy (GDP),2,3,0.2858198740805149
+wetter,economy (GDP),3,4,0.22480470292771126
+wetter,economy (GDP),4,5,0.23259381809175306
+wetter,economy (GDP),5,6,0.4791344179581712
+wetter,economy (GDP),6,1,0.28589656655038026
+wetter,economy (GDP),7,2,0.35024556815697816
+wetter,economy (GDP),8,3,0.35681668631782165
+wetter,economy (GDP),9,4,0.2422766381081372
+wetter,economy (GDP),10,5,0.19193128025746234
+wetter,economy (GDP),11,6,0.44628804159611063
+wetter,economy (GDP),12,1,0.3687860485177399
+wetter,economy (GDP),13,2,0.37673338705939663
+wetter,economy (GDP),14,3,0.3183013995298463
+wetter,economy (GDP),15,4,0.23181007279210422
+wetter,economy (GDP),16,5,0.22160989406714576
+wetter,economy (GDP),17,6,0.4454038247687377
+wetter,economy (GDP),18,1,0.3389059768945567
+wetter,economy (GDP),19,2,0.27344256764933483
+wetter,economy (GDP),20,3,0.2998527016868895
+wetter,economy (GDP),21,4,0.2312290549003697
+wetter,economy (GDP),22,5,0.19697772185421503
+wetter,economy (GDP),23,6,0.44898004484815535
+wetter,economy (GDP),24,1,0.31977776816562264
+wetter,economy (GDP),25,2,0.32655288008565525
+wetter,economy (GDP),26,3,0.35081908112922744
+wetter,economy (GDP),27,4,0.22765030877450093
+wetter,economy (GDP),28,5,0.15002141223787616
+wetter,economy (GDP),29,6,0.4494591646511863
+wetter,economy (GDP),30,1,0.3164063268617922
+wetter,economy (GDP),31,2,0.3932992074821144
+wetter,economy (GDP),32,3,0.3316537434579136
+wetter,economy (GDP),33,4,0.23191451394496967
+wetter,economy (GDP),34,5,0.21845266479780645
+wetter,economy (GDP),35,6,0.43974057898802166
+wetter,economy (GDP),36,1,0.31080317708265326
+wetter,economy (GDP),37,2,0.2708102584863224
+wetter,economy (GDP),38,3,0.27401852939418103
+wetter,economy (GDP),39,4,0.235213992975625
+wetter,economy (GDP),40,5,0.21530969686345255
+wetter,economy (GDP),41,6,0.4541229035947407
+wetter,economy (GDP),42,1,0.2830142368567032
+wetter,economy (GDP),43,2,0.3318600761633376
+wetter,economy (GDP),44,3,0.27388483432312166
+wetter,economy (GDP),45,4,0.22984030548400594
+wetter,economy (GDP),46,5,0.23630073507073546
+wetter,economy (GDP),47,6,0.44031535123406834
+wetter,economy (GDP),48,1,0.35266940038405986
+wetter,economy (GDP),49,2,0.32038423956917494
+wetter,economy (GDP),50,3,0.30819751539830803
+wetter,economy (GDP),51,4,0.23368675726074045
+wetter,economy (GDP),52,5,0.15304725196447064
+wetter,economy (GDP),53,6,0.48362995021769567
+wetter,economy (GDP),54,1,0.29477122020129376
+wetter,economy (GDP),55,2,0.306291058705713
+wetter,economy (GDP),56,3,0.33219451702679376
+wetter,economy (GDP),57,4,0.22736139762614274
+wetter,economy (GDP),58,5,0.20872546396512928
+wetter,economy (GDP),59,6,0.44566648655817326
+wetter,people (L1 speakers),0,1,0.2812013288390743
+wetter,people (L1 speakers),1,2,0.3919024581644057
+wetter,people (L1 speakers),2,3,0.41252493293837694
+wetter,people (L1 speakers),3,4,0.33348684766447334
+wetter,people (L1 speakers),4,5,0.18301921955364198
+wetter,people (L1 speakers),5,6,0.4537004515336025
+wetter,people (L1 speakers),6,1,0.28859512489183337
+wetter,people (L1 speakers),7,2,0.38456978440413725
+wetter,people (L1 speakers),8,3,0.42693824544982256
+wetter,people (L1 speakers),9,4,0.3436067313868627
+wetter,people (L1 speakers),10,5,0.17495419777156523
+wetter,people (L1 speakers),11,6,0.44465822484885276
+wetter,people (L1 speakers),12,1,0.3499658878664528
+wetter,people (L1 speakers),13,2,0.3908043635273293
+wetter,people (L1 speakers),14,3,0.430703146286039
+wetter,people (L1 speakers),15,4,0.3443589020906942
+wetter,people (L1 speakers),16,5,0.17510140024561036
+wetter,people (L1 speakers),17,6,0.4426846281045876
+wetter,people (L1 speakers),18,1,0.32362115785375534
+wetter,people (L1 speakers),19,2,0.34469962082072847
+wetter,people (L1 speakers),20,3,0.4318073512576443
+wetter,people (L1 speakers),21,4,0.34578892598221916
+wetter,people (L1 speakers),22,5,0.15932377010391668
+wetter,people (L1 speakers),23,6,0.44488469812805204
+wetter,people (L1 speakers),24,1,0.31108499163316566
+wetter,people (L1 speakers),25,2,0.3800109048982737
+wetter,people (L1 speakers),26,3,0.41284597136309076
+wetter,people (L1 speakers),27,4,0.33803500565200845
+wetter,people (L1 speakers),28,5,0.145041946883223
+wetter,people (L1 speakers),29,6,0.43954245417943116
+wetter,people (L1 speakers),30,1,0.311161849366641
+wetter,people (L1 speakers),31,2,0.40316468752980006
+wetter,people (L1 speakers),32,3,0.43115837503993465
+wetter,people (L1 speakers),33,4,0.3450647687133531
+wetter,people (L1 speakers),34,5,0.1588796080188538
+wetter,people (L1 speakers),35,6,0.436240834600209
+wetter,people (L1 speakers),36,1,0.3064445723665406
+wetter,people (L1 speakers),37,2,0.3450477640113298
+wetter,people (L1 speakers),38,3,0.40955222023811544
+wetter,people (L1 speakers),39,4,0.3524005490074497
+wetter,people (L1 speakers),40,5,0.18898281380468213
+wetter,people (L1 speakers),41,6,0.4408324407538806
+wetter,people (L1 speakers),42,1,0.2868203231762757
+wetter,people (L1 speakers),43,2,0.38596256946280944
+wetter,people (L1 speakers),44,3,0.40200102138117966
+wetter,people (L1 speakers),45,4,0.3440597257479262
+wetter,people (L1 speakers),46,5,0.1684643124890247
+wetter,people (L1 speakers),47,6,0.4417770660699903
+wetter,people (L1 speakers),48,1,0.3370741391436623
+wetter,people (L1 speakers),49,2,0.37387297299424066
+wetter,people (L1 speakers),50,3,0.4160153451794281
+wetter,people (L1 speakers),51,4,0.3474951056027691
+wetter,people (L1 speakers),52,5,0.1409096113601246
+wetter,people (L1 speakers),53,6,0.4569921592575124
+wetter,people (L1 speakers),54,1,0.2974681098080931
+wetter,people (L1 speakers),55,2,0.3746597490333311
+wetter,people (L1 speakers),56,3,0.42096671778163103
+wetter,people (L1 speakers),57,4,0.3352212008613486
+wetter,people (L1 speakers),58,5,0.1633053263596609
+wetter,people (L1 speakers),59,6,0.44495533728916503
+wetter,non-institutional languages,0,1,0.15433227526954896
+wetter,non-institutional languages,1,2,0.22201437413835717
+wetter,non-institutional languages,2,3,0.30604052194529263
+wetter,non-institutional languages,3,4,0.18912319133305286
+wetter,non-institutional languages,4,5,0.20033431224691572
+wetter,non-institutional languages,5,6,0.2541765718325929
+wetter,non-institutional languages,6,1,0.16018137966232238
+wetter,non-institutional languages,7,2,0.22116328312908776
+wetter,non-institutional languages,8,3,0.31143677938009834
+wetter,non-institutional languages,9,4,0.20300369469920201
+wetter,non-institutional languages,10,5,0.17413185093791414
+wetter,non-institutional languages,11,6,0.2276381123916854
+wetter,non-institutional languages,12,1,0.19147900960450862
+wetter,non-institutional languages,13,2,0.22424893164228163
+wetter,non-institutional languages,14,3,0.3286348552998631
+wetter,non-institutional languages,15,4,0.20060497976007863
+wetter,non-institutional languages,16,5,0.1843180891271939
+wetter,non-institutional languages,17,6,0.24557106766540307
+wetter,non-institutional languages,18,1,0.17361874511386952
+wetter,non-institutional languages,19,2,0.18780133025812026
+wetter,non-institutional languages,20,3,0.35988936441858377
+wetter,non-institutional languages,21,4,0.19571482072138455
+wetter,non-institutional languages,22,5,0.1479323839390145
+wetter,non-institutional languages,23,6,0.22810655556747889
+wetter,non-institutional languages,24,1,0.16860242466371655
+wetter,non-institutional languages,25,2,0.21718202341431533
+wetter,non-institutional languages,26,3,0.2850350889108286
+wetter,non-institutional languages,27,4,0.19663936673571905
+wetter,non-institutional languages,28,5,0.1359358038810818
+wetter,non-institutional languages,29,6,0.24019946633076064
+wetter,non-institutional languages,30,1,0.16886613463982741
+wetter,non-institutional languages,31,2,0.23163963937064383
+wetter,non-institutional languages,32,3,0.3269622204508419
+wetter,non-institutional languages,33,4,0.19853707834178375
+wetter,non-institutional languages,34,5,0.151110212087053
+wetter,non-institutional languages,35,6,0.23271496068394018
+wetter,non-institutional languages,36,1,0.16673379671041155
+wetter,non-institutional languages,37,2,0.18611047302984493
+wetter,non-institutional languages,38,3,0.311050697052818
+wetter,non-institutional languages,39,4,0.21069172024661398
+wetter,non-institutional languages,40,5,0.20501439506138494
+wetter,non-institutional languages,41,6,0.24257783364691043
+wetter,non-institutional languages,42,1,0.15835531338503184
+wetter,non-institutional languages,43,2,0.21816322005219962
+wetter,non-institutional languages,44,3,0.2951965221756854
+wetter,non-institutional languages,45,4,0.19787363214497433
+wetter,non-institutional languages,46,5,0.1708782032449354
+wetter,non-institutional languages,47,6,0.23095452270507333
+wetter,non-institutional languages,48,1,0.18004744510548995
+wetter,non-institutional languages,49,2,0.2151640522502482
+wetter,non-institutional languages,50,3,0.3064558739172279
+wetter,non-institutional languages,51,4,0.20429811911903675
+wetter,non-institutional languages,52,5,0.12792070673160322
+wetter,non-institutional languages,53,6,0.2571068801499895
+wetter,non-institutional languages,54,1,0.16351784276040993
+wetter,non-institutional languages,55,2,0.2121234090088585
+wetter,non-institutional languages,56,3,0.30828014956869526
+wetter,non-institutional languages,57,4,0.19339654491869784
+wetter,non-institutional languages,58,5,0.15133091574246257
+wetter,non-institutional languages,59,6,0.23064907121116623
+wetter,institutional languages,0,1,0.18154473029503612
+wetter,institutional languages,1,2,0.2900859242634728
+wetter,institutional languages,2,3,0.334291383048376
+wetter,institutional languages,3,4,0.26843075997719695
+wetter,institutional languages,4,5,0.20034237850152103
+wetter,institutional languages,5,6,0.34662143910022686
+wetter,institutional languages,6,1,0.1847838577081578
+wetter,institutional languages,7,2,0.28685150965889666
+wetter,institutional languages,8,3,0.3599663355156366
+wetter,institutional languages,9,4,0.2795696510250069
+wetter,institutional languages,10,5,0.17466397722133895
+wetter,institutional languages,11,6,0.3402784740179059
+wetter,institutional languages,12,1,0.2555394759531096
+wetter,institutional languages,13,2,0.28844717680207643
+wetter,institutional languages,14,3,0.3585070710633057
+wetter,institutional languages,15,4,0.28187606984415686
+wetter,institutional languages,16,5,0.18911360460471213
+wetter,institutional languages,17,6,0.3313917027329268
+wetter,institutional languages,18,1,0.2103913837384053
+wetter,institutional languages,19,2,0.26161663512503125
+wetter,institutional languages,20,3,0.3501260688627689
+wetter,institutional languages,21,4,0.28095439356756147
+wetter,institutional languages,22,5,0.16164892787856605
+wetter,institutional languages,23,6,0.3365697927500859
+wetter,institutional languages,24,1,0.20112262069614828
+wetter,institutional languages,25,2,0.28172393657935774
+wetter,institutional languages,26,3,0.3469087796169289
+wetter,institutional languages,27,4,0.2761366475800014
+wetter,institutional languages,28,5,0.1472887777122446
+wetter,institutional languages,29,6,0.3486113598146148
+wetter,institutional languages,30,1,0.2048949591802662
+wetter,institutional languages,31,2,0.30344975829174686
+wetter,institutional languages,32,3,0.361325312092404
+wetter,institutional languages,33,4,0.2822591927931804
+wetter,institutional languages,34,5,0.17165604677619709
+wetter,institutional languages,35,6,0.33855132114216124
+wetter,institutional languages,36,1,0.1995819441261988
+wetter,institutional languages,37,2,0.2563753497436273
+wetter,institutional languages,38,3,0.3292115413308466
+wetter,institutional languages,39,4,0.2880110892778492
+wetter,institutional languages,40,5,0.19765489397092872
+wetter,institutional languages,41,6,0.3526251472030809
+wetter,institutional languages,42,1,0.18339940287138068
+wetter,institutional languages,43,2,0.2823450454367221
+wetter,institutional languages,44,3,0.31909666729099506
+wetter,institutional languages,45,4,0.2818797862414919
+wetter,institutional languages,46,5,0.18646453383974143
+wetter,institutional languages,47,6,0.34297310346356413
+wetter,institutional languages,48,1,0.22997754194262351
+wetter,institutional languages,49,2,0.27686848017199445
+wetter,institutional languages,50,3,0.3413596170847528
+wetter,institutional languages,51,4,0.2852608480820336
+wetter,institutional languages,52,5,0.1451633901486636
+wetter,institutional languages,53,6,0.3512246383856674
+wetter,institutional languages,54,1,0.19237640122976668
+wetter,institutional languages,55,2,0.27421341350609213
+wetter,institutional languages,56,3,0.3502002797897446
+wetter,institutional languages,57,4,0.2729293175022064
+wetter,institutional languages,58,5,0.1697254075382438
+wetter,institutional languages,59,6,0.34254527563521764
+wetter,linguistic diversity hotspots,0,1,0.07222007859809457
+wetter,linguistic diversity hotspots,1,2,0.1668678989933025
+wetter,linguistic diversity hotspots,2,3,0.3034337923537221
+wetter,linguistic diversity hotspots,3,4,0.15153349368348767
+wetter,linguistic diversity hotspots,4,5,0.20216731134045418
+wetter,linguistic diversity hotspots,5,6,0.18695777410871559
+wetter,linguistic diversity hotspots,6,1,0.06946115174967282
+wetter,linguistic diversity hotspots,7,2,0.16979986446118667
+wetter,linguistic diversity hotspots,8,3,0.295675970167855
+wetter,linguistic diversity hotspots,9,4,0.1638226141760936
+wetter,linguistic diversity hotspots,10,5,0.19145644208323492
+wetter,linguistic diversity hotspots,11,6,0.14361108764374375
+wetter,linguistic diversity hotspots,12,1,0.10286384649574304
+wetter,linguistic diversity hotspots,13,2,0.1701935142674234
+wetter,linguistic diversity hotspots,14,3,0.32678427839027874
+wetter,linguistic diversity hotspots,15,4,0.15867413544905357
+wetter,linguistic diversity hotspots,16,5,0.18377875466158194
+wetter,linguistic diversity hotspots,17,6,0.1808286903611032
+wetter,linguistic diversity hotspots,18,1,0.08378628892454877
+wetter,linguistic diversity hotspots,19,2,0.1312193174237713
+wetter,linguistic diversity hotspots,20,3,0.3854390864532372
+wetter,linguistic diversity hotspots,21,4,0.15120194305207224
+wetter,linguistic diversity hotspots,22,5,0.15234657573661123
+wetter,linguistic diversity hotspots,23,6,0.14248248290650387
+wetter,linguistic diversity hotspots,24,1,0.0816854197757112
+wetter,linguistic diversity hotspots,25,2,0.1659270381526545
+wetter,linguistic diversity hotspots,26,3,0.25633684678808416
+wetter,linguistic diversity hotspots,27,4,0.1571179938799713
+wetter,linguistic diversity hotspots,28,5,0.14699036640101024
+wetter,linguistic diversity hotspots,29,6,0.16641419430455828
+wetter,linguistic diversity hotspots,30,1,0.07828298997181324
+wetter,linguistic diversity hotspots,31,2,0.17730081424758032
+wetter,linguistic diversity hotspots,32,3,0.322956597257548
+wetter,linguistic diversity hotspots,33,4,0.15510253347522526
+wetter,linguistic diversity hotspots,34,5,0.1468115151181113
+wetter,linguistic diversity hotspots,35,6,0.15672730249585073
+wetter,linguistic diversity hotspots,36,1,0.07828298997181324
+wetter,linguistic diversity hotspots,37,2,0.13309629418546126
+wetter,linguistic diversity hotspots,38,3,0.3138134487635253
+wetter,linguistic diversity hotspots,39,4,0.17204001104021632
+wetter,linguistic diversity hotspots,40,5,0.21330765165348775
+wetter,linguistic diversity hotspots,41,6,0.1696244960982787
+wetter,linguistic diversity hotspots,42,1,0.06737443892507795
+wetter,linguistic diversity hotspots,43,2,0.16548459596744133
+wetter,linguistic diversity hotspots,44,3,0.2931103215693675
+wetter,linguistic diversity hotspots,45,4,0.1554051173751408
+wetter,linguistic diversity hotspots,46,5,0.16388149838178942
+wetter,linguistic diversity hotspots,47,6,0.15007585148620173
+wetter,linguistic diversity hotspots,48,1,0.08863402775761393
+wetter,linguistic diversity hotspots,49,2,0.1655451236380334
+wetter,linguistic diversity hotspots,50,3,0.2960336933070701
+wetter,linguistic diversity hotspots,51,4,0.1634502240364719
+wetter,linguistic diversity hotspots,52,5,0.13403485950819932
+wetter,linguistic diversity hotspots,53,6,0.19065483425359864
+wetter,linguistic diversity hotspots,54,1,0.07368688456985074
+wetter,linguistic diversity hotspots,55,2,0.15930405445068913
+wetter,linguistic diversity hotspots,56,3,0.2931120497446307
+wetter,linguistic diversity hotspots,57,4,0.15451824757688096
+wetter,linguistic diversity hotspots,58,5,0.15471421979275607
+wetter,linguistic diversity hotspots,59,6,0.1498805943269404
+wetter,language lineages,0,1,0.2028964398174514
+wetter,language lineages,1,2,0.18149159070510484
+wetter,language lineages,2,3,0.15471030762505017
+wetter,language lineages,3,4,0.14475676402499313
+wetter,language lineages,4,5,0.10611216102598824
+wetter,language lineages,5,6,0.21624646557696311
+wetter,language lineages,6,1,0.2551880768335721
+wetter,language lineages,7,2,0.17068337946975332
+wetter,language lineages,8,3,0.175116467209587
+wetter,language lineages,9,4,0.17286721236825342
+wetter,language lineages,10,5,0.06779121638654993
+wetter,language lineages,11,6,0.20799842843563762
+wetter,language lineages,12,1,0.2136683553995016
+wetter,language lineages,13,2,0.1802843903542187
+wetter,language lineages,14,3,0.17123952729892966
+wetter,language lineages,15,4,0.1697826059342093
+wetter,language lineages,16,5,0.08394550927089521
+wetter,language lineages,17,6,0.18821487065105577
+wetter,language lineages,18,1,0.2097352004123132
+wetter,language lineages,19,2,0.16110153436943914
+wetter,language lineages,20,3,0.16065078675254488
+wetter,language lineages,21,4,0.15769220012592775
+wetter,language lineages,22,5,0.054508975859463266
+wetter,language lineages,23,6,0.1948537189934591
+wetter,language lineages,24,1,0.207120911149912
+wetter,language lineages,25,2,0.17205876563344236
+wetter,language lineages,26,3,0.16844632286590333
+wetter,language lineages,27,4,0.15354864038582033
+wetter,language lineages,28,5,0.039690961277021285
+wetter,language lineages,29,6,0.2151569264309626
+wetter,language lineages,30,1,0.22658732426055125
+wetter,language lineages,31,2,0.180263431139984
+wetter,language lineages,32,3,0.1727941693376533
+wetter,language lineages,33,4,0.1658553533316602
+wetter,language lineages,34,5,0.0709985192339202
+wetter,language lineages,35,6,0.2083105079323347
+wetter,language lineages,36,1,0.21726570566791273
+wetter,language lineages,37,2,0.1572113022779353
+wetter,language lineages,38,3,0.13429574169448535
+wetter,language lineages,39,4,0.16621133852562134
+wetter,language lineages,40,5,0.11150904959661528
+wetter,language lineages,41,6,0.22073673159614596
+wetter,language lineages,42,1,0.257150383676899
+wetter,language lineages,43,2,0.17318963243535437
+wetter,language lineages,44,3,0.12915201275785992
+wetter,language lineages,45,4,0.16504190574893798
+wetter,language lineages,46,5,0.08895178753145605
+wetter,language lineages,47,6,0.21405658647611991
+wetter,language lineages,48,1,0.21178651275092203
+wetter,language lineages,49,2,0.1682603147375688
+wetter,language lineages,50,3,0.15886524548797779
+wetter,language lineages,51,4,0.17236604683112317
+wetter,language lineages,52,5,0.035997977856470256
+wetter,language lineages,53,6,0.2138739493191874
+wetter,language lineages,54,1,0.23468612781667367
+wetter,language lineages,55,2,0.1833611996534401
+wetter,language lineages,56,3,0.16750663462140072
+wetter,language lineages,57,4,0.1688824403640672
+wetter,language lineages,58,5,0.05579560305100859
+wetter,language lineages,59,6,0.2133551588655563
+warmer,land,0,1,0.09890522795122653
+warmer,land,1,2,0.3834191231263047
+warmer,land,2,3,0.24312293245844777
+warmer,land,3,4,0.2926250855263087
+warmer,land,4,5,0.3726758709011021
+warmer,land,5,6,0.32775979925387044
+warmer,land,6,1,0.11816660119967194
+warmer,land,7,2,0.33990185089252734
+warmer,land,8,3,0.2165957813843986
+warmer,land,9,4,0.2710268255215335
+warmer,land,10,5,0.39676372259247394
+warmer,land,11,6,0.31760269748277004
+warmer,land,12,1,0.0603936168216122
+warmer,land,13,2,0.3012803261690198
+warmer,land,14,3,0.25281206248848587
+warmer,land,15,4,0.2993737156717164
+warmer,land,16,5,0.3673613145974227
+warmer,land,17,6,0.33459944309755446
+warmer,land,18,1,0.07799015013686436
+warmer,land,19,2,0.41644505847181285
+warmer,land,20,3,0.2855659840904259
+warmer,land,21,4,0.3197236189737921
+warmer,land,22,5,0.36995687903116575
+warmer,land,23,6,0.32512563857291327
+warmer,land,24,1,0.08289055513125812
+warmer,land,25,2,0.3691740744306058
+warmer,land,26,3,0.19515371495130038
+warmer,land,27,4,0.2907814913456713
+warmer,land,28,5,0.3883382414414385
+warmer,land,29,6,0.28378170153550514
+warmer,land,30,1,0.10119887132566395
+warmer,land,31,2,0.3491908298884416
+warmer,land,32,3,0.24162397792278556
+warmer,land,33,4,0.3108343634161008
+warmer,land,34,5,0.34652525491850344
+warmer,land,35,6,0.28984212084199956
+warmer,land,36,1,0.09915307604623977
+warmer,land,37,2,0.3959172529499692
+warmer,land,38,3,0.2639415827889143
+warmer,land,39,4,0.31829481582219266
+warmer,land,40,5,0.39530486235456286
+warmer,land,41,6,0.2811828531740686
+warmer,land,42,1,0.11900027128399532
+warmer,land,43,2,0.38766804768636165
+warmer,land,44,3,0.24042579278619
+warmer,land,45,4,0.3050446593665534
+warmer,land,46,5,0.3425353143120965
+warmer,land,47,6,0.3044624281659124
+warmer,land,48,1,0.07228916450859835
+warmer,land,49,2,0.3509983413128984
+warmer,land,50,3,0.2290562205705149
+warmer,land,51,4,0.304122756006629
+warmer,land,52,5,0.38113908806260105
+warmer,land,53,6,0.32861267444060943
+warmer,land,54,1,0.10900300991914051
+warmer,land,55,2,0.4162207613160696
+warmer,land,56,3,0.22108271470245586
+warmer,land,57,4,0.2672053284400475
+warmer,land,58,5,0.36363694089074433
+warmer,land,59,6,0.3151582683192683
+warmer,populated land,0,1,0.07715054972012694
+warmer,populated land,1,2,0.41152128444142105
+warmer,populated land,2,3,0.248893260288593
+warmer,populated land,3,4,0.30078319519761115
+warmer,populated land,4,5,0.39331596067896546
+warmer,populated land,5,6,0.28787547708909417
+warmer,populated land,6,1,0.09154539882966373
+warmer,populated land,7,2,0.36134263873169475
+warmer,populated land,8,3,0.21825622717607293
+warmer,populated land,9,4,0.2766065145902508
+warmer,populated land,10,5,0.4204694211142869
+warmer,populated land,11,6,0.27737938707410925
+warmer,populated land,12,1,0.047426465430046645
+warmer,populated land,13,2,0.31654283405355366
+warmer,populated land,14,3,0.2600491939312759
+warmer,populated land,15,4,0.30796391784124844
+warmer,populated land,16,5,0.3874414637560017
+warmer,populated land,17,6,0.29503671887665806
+warmer,populated land,18,1,0.06052623158171317
+warmer,populated land,19,2,0.4491787676479931
+warmer,populated land,20,3,0.2978237761829407
+warmer,populated land,21,4,0.3293764422387876
+warmer,populated land,22,5,0.3903064015677193
+warmer,populated land,23,6,0.28521205976492814
+warmer,populated land,24,1,0.06453585547633363
+warmer,populated land,25,2,0.39532795870827747
+warmer,populated land,26,3,0.19350355398555757
+warmer,populated land,27,4,0.2987202873973446
+warmer,populated land,28,5,0.4108388102804104
+warmer,populated land,29,6,0.242335964797098
+warmer,populated land,30,1,0.0790940665791365
+warmer,populated land,31,2,0.37217923503074174
+warmer,populated land,32,3,0.24716668222896612
+warmer,populated land,33,4,0.3201136303246338
+warmer,populated land,34,5,0.3641124245784199
+warmer,populated land,35,6,0.24841533189824802
+warmer,populated land,36,1,0.07733144401438945
+warmer,populated land,37,2,0.4256471031761454
+warmer,populated land,38,3,0.2728874073316429
+warmer,populated land,39,4,0.3278823136729744
+warmer,populated land,40,5,0.4187636959316239
+warmer,populated land,41,6,0.2398498830203983
+warmer,populated land,42,1,0.09219890417547101
+warmer,populated land,43,2,0.41631171768344655
+warmer,populated land,44,3,0.24576184264461554
+warmer,populated land,45,4,0.31399868469601605
+warmer,populated land,46,5,0.3596817430305344
+warmer,populated land,47,6,0.2638557045986822
+warmer,populated land,48,1,0.05639251561457536
+warmer,populated land,49,2,0.3743221237238577
+warmer,populated land,50,3,0.23263965780819965
+warmer,populated land,51,4,0.31299354442492106
+warmer,populated land,52,5,0.4028660585986568
+warmer,populated land,53,6,0.28878750137414777
+warmer,populated land,54,1,0.08471185179835104
+warmer,populated land,55,2,0.44890905620359917
+warmer,populated land,56,3,0.22347610170923482
+warmer,populated land,57,4,0.2724033180476537
+warmer,populated land,58,5,0.38322778472948005
+warmer,populated land,59,6,0.2749307736756903
+warmer,economy (GDP),0,1,0.025747965991062362
+warmer,economy (GDP),1,2,0.3235733097432284
+warmer,economy (GDP),2,3,0.1947466362664947
+warmer,economy (GDP),3,4,0.2849521352837204
+warmer,economy (GDP),4,5,0.4222114326960846
+warmer,economy (GDP),5,6,0.1998597132217694
+warmer,economy (GDP),6,1,0.03495563244980529
+warmer,economy (GDP),7,2,0.2364850248332172
+warmer,economy (GDP),8,3,0.16972844003073226
+warmer,economy (GDP),9,4,0.2633099335607679
+warmer,economy (GDP),10,5,0.47870083923427037
+warmer,economy (GDP),11,6,0.193898517403234
+warmer,economy (GDP),12,1,0.015136444998823034
+warmer,economy (GDP),13,2,0.1761656159660736
+warmer,economy (GDP),14,3,0.2018340197536082
+warmer,economy (GDP),15,4,0.291068079705552
+warmer,economy (GDP),16,5,0.4090460345661943
+warmer,economy (GDP),17,6,0.20364773973767342
+warmer,economy (GDP),18,1,0.01874118756913009
+warmer,economy (GDP),19,2,0.4096563088657736
+warmer,economy (GDP),20,3,0.23015284408695394
+warmer,economy (GDP),21,4,0.3167493618393141
+warmer,economy (GDP),22,5,0.4117781947550179
+warmer,economy (GDP),23,6,0.19814017059506395
+warmer,economy (GDP),24,1,0.01945801593203441
+warmer,economy (GDP),25,2,0.29102151044461677
+warmer,economy (GDP),26,3,0.14412635115628397
+warmer,economy (GDP),27,4,0.28384093196812016
+warmer,economy (GDP),28,5,0.4585388132604397
+warmer,economy (GDP),29,6,0.17381645066260046
+warmer,economy (GDP),30,1,0.026808004171357258
+warmer,economy (GDP),31,2,0.2533803391510076
+warmer,economy (GDP),32,3,0.1938665619576461
+warmer,economy (GDP),33,4,0.30624693044045864
+warmer,economy (GDP),34,5,0.3778740460248669
+warmer,economy (GDP),35,6,0.1769777584272546
+warmer,economy (GDP),36,1,0.0259174622389386
+warmer,economy (GDP),37,2,0.35818306716660103
+warmer,economy (GDP),38,3,0.211831628531919
+warmer,economy (GDP),39,4,0.3152981033012077
+warmer,economy (GDP),40,5,0.4772115650715052
+warmer,economy (GDP),41,6,0.17258692867425157
+warmer,economy (GDP),42,1,0.03518966281438275
+warmer,economy (GDP),43,2,0.33474825535840846
+warmer,economy (GDP),44,3,0.19314087433412108
+warmer,economy (GDP),45,4,0.29731791664297014
+warmer,economy (GDP),46,5,0.37374628222011413
+warmer,economy (GDP),47,6,0.18760746095267888
+warmer,economy (GDP),48,1,0.017075799007856003
+warmer,economy (GDP),49,2,0.25800594037617514
+warmer,economy (GDP),50,3,0.18407152258868775
+warmer,economy (GDP),51,4,0.2959384603710876
+warmer,economy (GDP),52,5,0.44378813846738674
+warmer,economy (GDP),53,6,0.2011132271867456
+warmer,economy (GDP),54,1,0.03040269767559226
+warmer,economy (GDP),55,2,0.40912559666448034
+warmer,economy (GDP),56,3,0.1755605144630484
+warmer,economy (GDP),57,4,0.2613885830298331
+warmer,economy (GDP),58,5,0.4013896514476859
+warmer,economy (GDP),59,6,0.19331735235851163
+warmer,people (L1 speakers),0,1,0.02656670809205489
+warmer,people (L1 speakers),1,2,0.429717529348519
+warmer,people (L1 speakers),2,3,0.201893169904074
+warmer,people (L1 speakers),3,4,0.20074503784568182
+warmer,people (L1 speakers),4,5,0.27529315430188406
+warmer,people (L1 speakers),5,6,0.12981358698147752
+warmer,people (L1 speakers),6,1,0.0367589784575635
+warmer,people (L1 speakers),7,2,0.36146077819100314
+warmer,people (L1 speakers),8,3,0.16831961838784595
+warmer,people (L1 speakers),9,4,0.17721117744965356
+warmer,people (L1 speakers),10,5,0.2895301552468495
+warmer,people (L1 speakers),11,6,0.12314349417087256
+warmer,people (L1 speakers),12,1,0.014825480525963932
+warmer,people (L1 speakers),13,2,0.2952487295032903
+warmer,people (L1 speakers),14,3,0.21771354783868377
+warmer,people (L1 speakers),15,4,0.20787593395652199
+warmer,people (L1 speakers),16,5,0.27202555134841117
+warmer,people (L1 speakers),17,6,0.1341503492873459
+warmer,people (L1 speakers),18,1,0.017932917454630017
+warmer,people (L1 speakers),19,2,0.4848962303648938
+warmer,people (L1 speakers),20,3,0.2627156475931758
+warmer,people (L1 speakers),21,4,0.22831852692913795
+warmer,people (L1 speakers),22,5,0.2733978415828697
+warmer,people (L1 speakers),23,6,0.12766097708478166
+warmer,people (L1 speakers),24,1,0.019455936960882114
+warmer,people (L1 speakers),25,2,0.4079285884062454
+warmer,people (L1 speakers),26,3,0.13721644101464991
+warmer,people (L1 speakers),27,4,0.19869161239921854
+warmer,people (L1 speakers),28,5,0.2841587794177693
+warmer,people (L1 speakers),29,6,0.10035172414477382
+warmer,people (L1 speakers),30,1,0.027827353890814064
+warmer,people (L1 speakers),31,2,0.3779870696035659
+warmer,people (L1 speakers),32,3,0.20008679303067198
+warmer,people (L1 speakers),33,4,0.22081981456430974
+warmer,people (L1 speakers),34,5,0.25890529083551
+warmer,people (L1 speakers),35,6,0.10423201692321007
+warmer,people (L1 speakers),36,1,0.026765265538821185
+warmer,people (L1 speakers),37,2,0.44955274118483785
+warmer,people (L1 speakers),38,3,0.23327188648063468
+warmer,people (L1 speakers),39,4,0.22726815926122942
+warmer,people (L1 speakers),40,5,0.28846342754208454
+warmer,people (L1 speakers),41,6,0.0985868994259932
+warmer,people (L1 speakers),42,1,0.03715905065503208
+warmer,people (L1 speakers),43,2,0.4363405240641789
+warmer,people (L1 speakers),44,3,0.19825125678902777
+warmer,people (L1 speakers),45,4,0.21371593090476007
+warmer,people (L1 speakers),46,5,0.2562832460803253
+warmer,people (L1 speakers),47,6,0.11394967699475149
+warmer,people (L1 speakers),48,1,0.017040852523332695
+warmer,people (L1 speakers),49,2,0.3810297733587354
+warmer,people (L1 speakers),50,3,0.1838682232352806
+warmer,people (L1 speakers),51,4,0.21267521759015492
+warmer,people (L1 speakers),52,5,0.27985832932613475
+warmer,people (L1 speakers),53,6,0.13062587438920578
+warmer,people (L1 speakers),54,1,0.03192653379227553
+warmer,people (L1 speakers),55,2,0.4846687679278439
+warmer,people (L1 speakers),56,3,0.17386365138769472
+warmer,people (L1 speakers),57,4,0.17294985697437723
+warmer,people (L1 speakers),58,5,0.27020514356584474
+warmer,people (L1 speakers),59,6,0.12160577004843581
+warmer,non-institutional languages,0,1,0.02724022194037615
+warmer,non-institutional languages,1,2,0.5766207087319178
+warmer,non-institutional languages,2,3,0.23593141567246753
+warmer,non-institutional languages,3,4,0.08294817966221152
+warmer,non-institutional languages,4,5,0.14080890508018207
+warmer,non-institutional languages,5,6,0.03918079309780993
+warmer,non-institutional languages,6,1,0.03997173601262182
+warmer,non-institutional languages,7,2,0.5181597045203968
+warmer,non-institutional languages,8,3,0.19193396150501044
+warmer,non-institutional languages,9,4,0.07514530661693906
+warmer,non-institutional languages,10,5,0.1484493016435757
+warmer,non-institutional languages,11,6,0.03699119990454351
+warmer,non-institutional languages,12,1,0.009167288763555362
+warmer,non-institutional languages,13,2,0.46000984084721463
+warmer,non-institutional languages,14,3,0.261743414103251
+warmer,non-institutional languages,15,4,0.08476515028907841
+warmer,non-institutional languages,16,5,0.13773834213932476
+warmer,non-institutional languages,17,6,0.04053443069990869
+warmer,non-institutional languages,18,1,0.014099048545421444
+warmer,non-institutional languages,19,2,0.6207146622690592
+warmer,non-institutional languages,20,3,0.3340628196207131
+warmer,non-institutional languages,21,4,0.09479934054990541
+warmer,non-institutional languages,22,5,0.13900346476137407
+warmer,non-institutional languages,23,6,0.03866140695054171
+warmer,non-institutional languages,24,1,0.01725876059377669
+warmer,non-institutional languages,25,2,0.5552534520225814
+warmer,non-institutional languages,26,3,0.1685769532848876
+warmer,non-institutional languages,27,4,0.08208478609966524
+warmer,non-institutional languages,28,5,0.1457980919107273
+warmer,non-institutional languages,29,6,0.030332099298849412
+warmer,non-institutional languages,30,1,0.029150822583678255
+warmer,non-institutional languages,31,2,0.5335110420715358
+warmer,non-institutional languages,32,3,0.2329022708099799
+warmer,non-institutional languages,33,4,0.09007501921122406
+warmer,non-institutional languages,34,5,0.12784525519338855
+warmer,non-institutional languages,35,6,0.031479315136375766
+warmer,non-institutional languages,36,1,0.0274702049349737
+warmer,non-institutional languages,37,2,0.5942564357407133
+warmer,non-institutional languages,38,3,0.2872070266681213
+warmer,non-institutional languages,39,4,0.09443774235073178
+warmer,non-institutional languages,40,5,0.1482880709810531
+warmer,non-institutional languages,41,6,0.02981206421225547
+warmer,non-institutional languages,42,1,0.04055149650502086
+warmer,non-institutional languages,43,2,0.5822617621149037
+warmer,non-institutional languages,44,3,0.22839198738149402
+warmer,non-institutional languages,45,4,0.08674513885497194
+warmer,non-institutional languages,46,5,0.1255368902091496
+warmer,non-institutional languages,47,6,0.03386267318185825
+warmer,non-institutional languages,48,1,0.012704095346654386
+warmer,non-institutional languages,49,2,0.5360512788335127
+warmer,non-institutional languages,50,3,0.2099053318333776
+warmer,non-institutional languages,51,4,0.08625216901902061
+warmer,non-institutional languages,52,5,0.1436582482070107
+warmer,non-institutional languages,53,6,0.03927118617386007
+warmer,non-institutional languages,54,1,0.03444331603968034
+warmer,non-institutional languages,55,2,0.6199800160044806
+warmer,non-institutional languages,56,3,0.1973941685893922
+warmer,non-institutional languages,57,4,0.07409032071489842
+warmer,non-institutional languages,58,5,0.1364342463612161
+warmer,non-institutional languages,59,6,0.03646116426141973
+warmer,institutional languages,0,1,0.02405954187997833
+warmer,institutional languages,1,2,0.49061432215932943
+warmer,institutional languages,2,3,0.25563974882299567
+warmer,institutional languages,3,4,0.1655921896055613
+warmer,institutional languages,4,5,0.17418303174167868
+warmer,institutional languages,5,6,0.09822489869563679
+warmer,institutional languages,6,1,0.042270623368726654
+warmer,institutional languages,7,2,0.43996106985970007
+warmer,institutional languages,8,3,0.22892433865625375
+warmer,institutional languages,9,4,0.15045520960752434
+warmer,institutional languages,10,5,0.1834778982003249
+warmer,institutional languages,11,6,0.09578508900380756
+warmer,institutional languages,12,1,0.005546565746809074
+warmer,institutional languages,13,2,0.3971245232893813
+warmer,institutional languages,14,3,0.276032413812372
+warmer,institutional languages,15,4,0.1682506247492579
+warmer,institutional languages,16,5,0.1693516744430452
+warmer,institutional languages,17,6,0.10163370309887236
+warmer,institutional languages,18,1,0.00706325872628317
+warmer,institutional languages,19,2,0.5318735743861822
+warmer,institutional languages,20,3,0.31553638773045917
+warmer,institutional languages,21,4,0.17627320451405243
+warmer,institutional languages,22,5,0.17052745749368894
+warmer,institutional languages,23,6,0.09774729005228956
+warmer,institutional languages,24,1,0.009906541819209016
+warmer,institutional languages,25,2,0.47571553299573816
+warmer,institutional languages,26,3,0.20465838764616942
+warmer,institutional languages,27,4,0.16463549143567685
+warmer,institutional languages,28,5,0.18006203738956197
+warmer,institutional languages,29,6,0.07727129641878507
+warmer,institutional languages,30,1,0.025892682055452684
+warmer,institutional languages,31,2,0.45090299066354883
+warmer,institutional languages,32,3,0.25237098811044895
+warmer,institutional languages,33,4,0.17249600123978331
+warmer,institutional languages,34,5,0.15381556036823543
+warmer,institutional languages,35,6,0.07931711800072873
+warmer,institutional languages,36,1,0.024153934633817632
+warmer,institutional languages,37,2,0.505955552423926
+warmer,institutional languages,38,3,0.28443904705235384
+warmer,institutional languages,39,4,0.17557232514471088
+warmer,institutional languages,40,5,0.18280363104219263
+warmer,institutional languages,41,6,0.07617891733275417
+warmer,institutional languages,42,1,0.042675378113153854
+warmer,institutional languages,43,2,0.494312562563128
+warmer,institutional languages,44,3,0.25140938545279695
+warmer,institutional languages,45,4,0.17031706361233118
+warmer,institutional languages,46,5,0.1517566156289884
+warmer,institutional languages,47,6,0.08825018150234003
+warmer,institutional languages,48,1,0.006411179040362177
+warmer,institutional languages,49,2,0.4517698022845873
+warmer,institutional languages,50,3,0.24119373293254245
+warmer,institutional languages,51,4,0.16985095106726697
+warmer,institutional languages,52,5,0.17657734275775466
+warmer,institutional languages,53,6,0.0984645639248038
+warmer,institutional languages,54,1,0.030237824792105846
+warmer,institutional languages,55,2,0.5309958603704591
+warmer,institutional languages,56,3,0.23389469158016798
+warmer,institutional languages,57,4,0.14856087632788348
+warmer,institutional languages,58,5,0.16755794696568788
+warmer,institutional languages,59,6,0.09481939082981326
+warmer,linguistic diversity hotspots,0,1,0.014153552553451163
+warmer,linguistic diversity hotspots,1,2,0.5604671371330116
+warmer,linguistic diversity hotspots,2,3,0.1791149867974249
+warmer,linguistic diversity hotspots,3,4,0.011011270932409825
+warmer,linguistic diversity hotspots,4,5,0.08769535601933551
+warmer,linguistic diversity hotspots,5,6,0.0043256754606680915
+warmer,linguistic diversity hotspots,6,1,0.024342181668407886
+warmer,linguistic diversity hotspots,7,2,0.5018792202536171
+warmer,linguistic diversity hotspots,8,3,0.1414530339655646
+warmer,linguistic diversity hotspots,9,4,0.01033461899603275
+warmer,linguistic diversity hotspots,10,5,0.09055965143088464
+warmer,linguistic diversity hotspots,11,6,0.003649023524291016
+warmer,linguistic diversity hotspots,12,1,0.0017953210149898732
+warmer,linguistic diversity hotspots,13,2,0.44251017225325295
+warmer,linguistic diversity hotspots,14,3,0.20960236566293916
+warmer,linguistic diversity hotspots,15,4,0.011011270932409825
+warmer,linguistic diversity hotspots,16,5,0.08603016694084331
+warmer,linguistic diversity hotspots,17,6,0.0043256754606680915
+warmer,linguistic diversity hotspots,18,1,0.0024245868969275997
+warmer,linguistic diversity hotspots,19,2,0.6054604254767478
+warmer,linguistic diversity hotspots,20,3,0.29169852656827755
+warmer,linguistic diversity hotspots,21,4,0.018329252801428688
+warmer,linguistic diversity hotspots,22,5,0.08701988506043053
+warmer,linguistic diversity hotspots,23,6,0.0043256754606680915
+warmer,linguistic diversity hotspots,24,1,0.005504057063069501
+warmer,linguistic diversity hotspots,25,2,0.5353257344907996
+warmer,linguistic diversity hotspots,26,3,0.12940035966291868
+warmer,linguistic diversity hotspots,27,4,0.011011270932409825
+warmer,linguistic diversity hotspots,28,5,0.08984892240933931
+warmer,linguistic diversity hotspots,29,6,0.002458887853555558
+warmer,linguistic diversity hotspots,30,1,0.016407346564077416
+warmer,linguistic diversity hotspots,31,2,0.5197769477072918
+warmer,linguistic diversity hotspots,32,3,0.1764877691473875
+warmer,linguistic diversity hotspots,33,4,0.013762900688319308
+warmer,linguistic diversity hotspots,34,5,0.08291776446986289
+warmer,linguistic diversity hotspots,35,6,0.002458887853555558
+warmer,linguistic diversity hotspots,36,1,0.014153552553451163
+warmer,linguistic diversity hotspots,37,2,0.5796810375902788
+warmer,linguistic diversity hotspots,38,3,0.23898120913006018
+warmer,linguistic diversity hotspots,39,4,0.018329252801428688
+warmer,linguistic diversity hotspots,40,5,0.09055965143088464
+warmer,linguistic diversity hotspots,41,6,0.0018919178139198763
+warmer,linguistic diversity hotspots,42,1,0.024342181668407886
+warmer,linguistic diversity hotspots,43,2,0.5656687090817485
+warmer,linguistic diversity hotspots,44,3,0.17060667182399805
+warmer,linguistic diversity hotspots,45,4,0.011011270932409825
+warmer,linguistic diversity hotspots,46,5,0.081072409828761
+warmer,linguistic diversity hotspots,47,6,0.002458887853555558
+warmer,linguistic diversity hotspots,48,1,0.0024245868969275997
+warmer,linguistic diversity hotspots,49,2,0.5229352592406146
+warmer,linguistic diversity hotspots,50,3,0.15743203135170575
+warmer,linguistic diversity hotspots,51,4,0.011011270932409825
+warmer,linguistic diversity hotspots,52,5,0.08984892240933931
+warmer,linguistic diversity hotspots,53,6,0.0043256754606680915
+warmer,linguistic diversity hotspots,54,1,0.020779675430496292
+warmer,linguistic diversity hotspots,55,2,0.604611375801436
+warmer,linguistic diversity hotspots,56,3,0.14614285864203713
+warmer,linguistic diversity hotspots,57,4,0.01033461899603275
+warmer,linguistic diversity hotspots,58,5,0.08603016694084331
+warmer,linguistic diversity hotspots,59,6,0.003114132427473186
+warmer,language lineages,0,1,0.023704677039902058
+warmer,language lineages,1,2,0.5789747388272757
+warmer,language lineages,2,3,0.21374116290699652
+warmer,language lineages,3,4,0.06784903826307177
+warmer,language lineages,4,5,0.15548648434597598
+warmer,language lineages,5,6,0.0863258788817419
+warmer,language lineages,6,1,0.036781337319284665
+warmer,language lineages,7,2,0.554306381638617
+warmer,language lineages,8,3,0.148721806839107
+warmer,language lineages,9,4,0.059854265958292664
+warmer,language lineages,10,5,0.16332173105401354
+warmer,language lineages,11,6,0.0819269682442098
+warmer,language lineages,12,1,0.018422132019885046
+warmer,language lineages,13,2,0.5092601962186706
+warmer,language lineages,14,3,0.2751707672369984
+warmer,language lineages,15,4,0.07138330084053185
+warmer,language lineages,16,5,0.15303849425684254
+warmer,language lineages,17,6,0.09282142216732246
+warmer,language lineages,18,1,0.019841486543675724
+warmer,language lineages,19,2,0.6060503619709141
+warmer,language lineages,20,3,0.39427705643625693
+warmer,language lineages,21,4,0.09047018521623659
+warmer,language lineages,22,5,0.15403428985468026
+warmer,language lineages,23,6,0.08529677216849837
+warmer,language lineages,24,1,0.020206455568079082
+warmer,language lineages,25,2,0.5696736324336708
+warmer,language lineages,26,3,0.13053015395738293
+warmer,language lineages,27,4,0.06653663116688213
+warmer,language lineages,28,5,0.16036498034707522
+warmer,language lineages,29,6,0.06372804488995756
+warmer,language lineages,30,1,0.0261979309420101
+warmer,language lineages,31,2,0.5594179997183417
+warmer,language lineages,32,3,0.20847824225801323
+warmer,language lineages,33,4,0.08278027010036998
+warmer,language lineages,34,5,0.14367380332726673
+warmer,language lineages,35,6,0.06514373894360202
+warmer,language lineages,36,1,0.023784824380815094
+warmer,language lineages,37,2,0.5909590880401904
+warmer,language lineages,38,3,0.33273430430568135
+warmer,language lineages,39,4,0.08990548915337783
+warmer,language lineages,40,5,0.1631131750729259
+warmer,language lineages,41,6,0.06348252862588842
+warmer,language lineages,42,1,0.03681857112418391
+warmer,language lineages,43,2,0.5828502794029684
+warmer,language lineages,44,3,0.1994167678028146
+warmer,language lineages,45,4,0.07434051901782167
+warmer,language lineages,46,5,0.14136847927383167
+warmer,language lineages,47,6,0.07497820783381595
+warmer,language lineages,48,1,0.019591779453707027
+warmer,language lineages,49,2,0.5600783691702943
+warmer,language lineages,50,3,0.16827104263578785
+warmer,language lineages,51,4,0.07381573588035326
+warmer,language lineages,52,5,0.15785837543089445
+warmer,language lineages,53,6,0.08801567002680873
+warmer,language lineages,54,1,0.030137453619636437
+warmer,language lineages,55,2,0.6055874664003257
+warmer,language lineages,56,3,0.1545367812795229
+warmer,language lineages,57,4,0.05893079603045135
+warmer,language lineages,58,5,0.15169365884378344
+warmer,language lineages,59,6,0.08115343563582486
+cooler,land,0,1,0.7069020427858526
+cooler,land,1,2,0.35936279108551983
+cooler,land,2,3,0.5063286195115986
+cooler,land,3,4,0.5566506961892307
+cooler,land,4,5,0.3903332659355363
+cooler,land,5,6,0.5721301637667209
+cooler,land,6,1,0.7323546024108996
+cooler,land,7,2,0.3244470844229915
+cooler,land,8,3,0.4731328705798683
+cooler,land,9,4,0.5180186301154075
+cooler,land,10,5,0.4225901741247213
+cooler,land,11,6,0.5559735061636247
+cooler,land,12,1,0.6088713961448593
+cooler,land,13,2,0.2926931471925561
+cooler,land,14,3,0.5165524944351324
+cooler,land,15,4,0.5669801908620079
+cooler,land,16,5,0.38231203857703266
+cooler,land,17,6,0.5841127289919705
+cooler,land,18,1,0.6674954136935959
+cooler,land,19,2,0.3843966005525445
+cooler,land,20,3,0.5543701095923932
+cooler,land,21,4,0.5947173341455342
+cooler,land,22,5,0.3859456006897049
+cooler,land,23,6,0.5677740061692083
+cooler,land,24,1,0.6790222158615832
+cooler,land,25,2,0.34811292606684563
+cooler,land,26,3,0.444576106084262
+cooler,land,27,4,0.5536740954089514
+cooler,land,28,5,0.41219315152155667
+cooler,land,29,6,0.5077609503486489
+cooler,land,30,1,0.7105541653906158
+cooler,land,31,2,0.3319802950647737
+cooler,land,32,3,0.5045465964349938
+cooler,land,33,4,0.5845058182137668
+cooler,land,34,5,0.3358580171037436
+cooler,land,35,6,0.5171066548066807
+cooler,land,36,1,0.7072806709908167
+cooler,land,37,2,0.3683272090661518
+cooler,land,38,3,0.5279367254572518
+cooler,land,39,4,0.5931974915312448
+cooler,land,40,5,0.4211401205540964
+cooler,land,41,6,0.5020004790570751
+cooler,land,42,1,0.7330827119301544
+cooler,land,43,2,0.3624350069105093
+cooler,land,44,3,0.5026459912190206
+cooler,land,45,4,0.5753521724486964
+cooler,land,46,5,0.325839137676909
+cooler,land,47,6,0.5366873429359302
+cooler,land,48,1,0.6505640086016409
+cooler,land,49,2,0.33343181202963285
+cooler,land,50,3,0.489160050685789
+cooler,land,51,4,0.5743144736505315
+cooler,land,52,5,0.40141069965210424
+cooler,land,53,6,0.5733763679273238
+cooler,land,54,1,0.7210781849592313
+cooler,land,55,2,0.3842500162240596
+cooler,land,56,3,0.4795862818803827
+cooler,land,57,4,0.5112085365213938
+cooler,land,58,5,0.37562630802586294
+cooler,land,59,6,0.5522148188767202
+cooler,populated land,0,1,0.7333717434847509
+cooler,populated land,1,2,0.2950742562745429
+cooler,populated land,2,3,0.4652725339002521
+cooler,populated land,3,4,0.5424592366614609
+cooler,populated land,4,5,0.34768126244548025
+cooler,populated land,5,6,0.6047472178270697
+cooler,populated land,6,1,0.7608104099490628
+cooler,populated land,7,2,0.2572406602183782
+cooler,populated land,8,3,0.4287685004102904
+cooler,populated land,9,4,0.5047285962249665
+cooler,populated land,10,5,0.3822419343802675
+cooler,populated land,11,6,0.5876618690848655
+cooler,populated land,12,1,0.6278774229061121
+cooler,populated land,13,2,0.2244519019725395
+cooler,populated land,14,3,0.47659208128379393
+cooler,populated land,15,4,0.5524692558445635
+cooler,populated land,16,5,0.3389440690874929
+cooler,populated land,17,6,0.6177047396619973
+cooler,populated land,18,1,0.690217647229857
+cooler,populated land,19,2,0.3229296247999535
+cooler,populated land,20,3,0.5194289944727133
+cooler,populated land,21,4,0.5800818935177723
+cooler,populated land,22,5,0.3428726456933526
+cooler,populated land,23,6,0.6000624734447881
+cooler,populated land,24,1,0.7024163316414294
+cooler,populated land,25,2,0.28264301490456445
+cooler,populated land,26,3,0.39750725968534634
+cooler,populated land,27,4,0.5395297372391186
+cooler,populated land,28,5,0.37108585143068923
+cooler,populated land,29,6,0.5402408198535463
+cooler,populated land,30,1,0.7372868779424909
+cooler,populated land,31,2,0.2651446299711275
+cooler,populated land,32,3,0.4632679079153217
+cooler,populated land,33,4,0.5701090522058674
+cooler,populated land,34,5,0.29081878620546703
+cooler,populated land,35,6,0.5492121757082261
+cooler,populated land,36,1,0.7337667368770697
+cooler,populated land,37,2,0.3048410185202623
+cooler,populated land,38,3,0.4894334994758074
+cooler,populated land,39,4,0.5786085852326758
+cooler,populated land,40,5,0.3807198982636941
+cooler,populated land,41,6,0.5348001072781148
+cooler,populated land,42,1,0.7615704943238025
+cooler,populated land,43,2,0.29839010629783796
+cooler,populated land,44,3,0.4611254000638983
+cooler,populated land,45,4,0.5608234310583906
+cooler,populated land,46,5,0.28062582900547345
+cooler,populated land,47,6,0.5674405429680972
+cooler,populated land,48,1,0.6720009473799495
+cooler,populated land,49,2,0.266780217967532
+cooler,populated land,50,3,0.4462439465706239
+cooler,populated land,51,4,0.5597771027523593
+cooler,populated land,52,5,0.359389219404781
+cooler,populated land,53,6,0.606072190427807
+cooler,populated land,54,1,0.7487046956725623
+cooler,populated land,55,2,0.32275887604147746
+cooler,populated land,56,3,0.43578734502596
+cooler,populated land,57,4,0.49828733605313247
+cooler,populated land,58,5,0.3317826696217254
+cooler,populated land,59,6,0.5837409037350666
+cooler,economy (GDP),0,1,0.8005396863439049
+cooler,economy (GDP),1,2,0.25643029359279207
+cooler,economy (GDP),2,3,0.5752009661215677
+cooler,economy (GDP),3,4,0.5802342463465887
+cooler,economy (GDP),4,5,0.3192484944561761
+cooler,economy (GDP),5,6,0.6174262710924798
+cooler,economy (GDP),6,1,0.822075867920197
+cooler,economy (GDP),7,2,0.23534571141584765
+cooler,economy (GDP),8,3,0.5427925450760672
+cooler,economy (GDP),9,4,0.5401024095781364
+cooler,economy (GDP),10,5,0.3396014911671454
+cooler,economy (GDP),11,6,0.5663622662025675
+cooler,economy (GDP),12,1,0.6964294303321537
+cooler,economy (GDP),13,2,0.22020839383277743
+cooler,economy (GDP),14,3,0.5878426500297346
+cooler,economy (GDP),15,4,0.5896113807006481
+cooler,economy (GDP),16,5,0.31515169278777216
+cooler,economy (GDP),17,6,0.6478789480752921
+cooler,economy (GDP),18,1,0.7604776787744041
+cooler,economy (GDP),19,2,0.28232179702468085
+cooler,economy (GDP),20,3,0.6295918347785637
+cooler,economy (GDP),21,4,0.6047394562492704
+cooler,economy (GDP),22,5,0.31750569155208536
+cooler,economy (GDP),23,6,0.6050412829693639
+cooler,economy (GDP),24,1,0.771064482591008
+cooler,economy (GDP),25,2,0.2458734842010016
+cooler,economy (GDP),26,3,0.5151712791775318
+cooler,economy (GDP),27,4,0.5782234209709494
+cooler,economy (GDP),28,5,0.33220470736300267
+cooler,economy (GDP),29,6,0.4623398377655529
+cooler,economy (GDP),30,1,0.8036972167321916
+cooler,economy (GDP),31,2,0.23785792804529018
+cooler,economy (GDP),32,3,0.5727400911187601
+cooler,economy (GDP),33,4,0.5989435764252332
+cooler,economy (GDP),34,5,0.2965018667808268
+cooler,economy (GDP),35,6,0.4803207343782246
+cooler,economy (GDP),36,1,0.8005925686229778
+cooler,economy (GDP),37,2,0.26685407824026186
+cooler,economy (GDP),38,3,0.600567802547683
+cooler,economy (GDP),39,4,0.6038875004450415
+cooler,economy (GDP),40,5,0.3390547898494614
+cooler,economy (GDP),41,6,0.45579073236277845
+cooler,economy (GDP),42,1,0.8228765709129955
+cooler,economy (GDP),43,2,0.2600133044855836
+cooler,economy (GDP),44,3,0.5710482157151315
+cooler,economy (GDP),45,4,0.5940540278777656
+cooler,economy (GDP),46,5,0.29213186484015174
+cooler,economy (GDP),47,6,0.5193398299345452
+cooler,economy (GDP),48,1,0.7448648551719638
+cooler,economy (GDP),49,2,0.23821362636098353
+cooler,economy (GDP),50,3,0.558902455989311
+cooler,economy (GDP),51,4,0.5937236707713277
+cooler,economy (GDP),52,5,0.32566747453075795
+cooler,economy (GDP),53,6,0.6206652387746311
+cooler,economy (GDP),54,1,0.8120726089715049
+cooler,economy (GDP),55,2,0.28222027819058293
+cooler,economy (GDP),56,3,0.5512986528318948
+cooler,economy (GDP),57,4,0.5318209714903693
+cooler,economy (GDP),58,5,0.31352743958459006
+cooler,economy (GDP),59,6,0.5529392795192587
+cooler,people (L1 speakers),0,1,0.724257657960723
+cooler,people (L1 speakers),1,2,0.23970743076505213
+cooler,people (L1 speakers),2,3,0.41837074166253957
+cooler,people (L1 speakers),3,4,0.6693629085670538
+cooler,people (L1 speakers),4,5,0.5580564866186125
+cooler,people (L1 speakers),5,6,0.7585480065233345
+cooler,people (L1 speakers),6,1,0.7709854186251998
+cooler,people (L1 speakers),7,2,0.21310070594891314
+cooler,people (L1 speakers),8,3,0.36538752716044925
+cooler,people (L1 speakers),9,4,0.6466260232623054
+cooler,people (L1 speakers),10,5,0.5858172835497276
+cooler,people (L1 speakers),11,6,0.7460477655049352
+cooler,people (L1 speakers),12,1,0.5649366280669154
+cooler,people (L1 speakers),13,2,0.18873917456923234
+cooler,people (L1 speakers),14,3,0.43850016199171743
+cooler,people (L1 speakers),15,4,0.6751928583913235
+cooler,people (L1 speakers),16,5,0.5515236892333346
+cooler,people (L1 speakers),17,6,0.7711050929685073
+cooler,people (L1 speakers),18,1,0.662837885564866
+cooler,people (L1 speakers),19,2,0.2715175533512672
+cooler,people (L1 speakers),20,3,0.5033575832681589
+cooler,people (L1 speakers),21,4,0.693584115637355
+cooler,people (L1 speakers),22,5,0.5544477042900989
+cooler,people (L1 speakers),23,6,0.7550484757034367
+cooler,people (L1 speakers),24,1,0.6793523568916809
+cooler,people (L1 speakers),25,2,0.22979132918135267
+cooler,people (L1 speakers),26,3,0.32885473230053797
+cooler,people (L1 speakers),27,4,0.6675415666911447
+cooler,people (L1 speakers),28,5,0.5768848306373139
+cooler,people (L1 speakers),29,6,0.7111047978350514
+cooler,people (L1 speakers),30,1,0.729255797504731
+cooler,people (L1 speakers),31,2,0.21769321710257447
+cooler,people (L1 speakers),32,3,0.4149197041508673
+cooler,people (L1 speakers),33,4,0.6858409529132221
+cooler,people (L1 speakers),34,5,0.5115434532816933
+cooler,people (L1 speakers),35,6,0.7175123811133798
+cooler,people (L1 speakers),36,1,0.7244874252608585
+cooler,people (L1 speakers),37,2,0.25361962593387444
+cooler,people (L1 speakers),38,3,0.4585481502270242
+cooler,people (L1 speakers),39,4,0.6920916370025114
+cooler,people (L1 speakers),40,5,0.5842874565893953
+cooler,people (L1 speakers),41,6,0.7065825317251998
+cooler,people (L1 speakers),42,1,0.7728596432068032
+cooler,people (L1 speakers),43,2,0.2444521407697803
+cooler,people (L1 speakers),44,3,0.4113491586179729
+cooler,people (L1 speakers),45,4,0.679565581937909
+cooler,people (L1 speakers),46,5,0.5030553399929143
+cooler,people (L1 speakers),47,6,0.7307388460039053
+cooler,people (L1 speakers),48,1,0.6351555316325518
+cooler,people (L1 speakers),49,2,0.21878157067161966
+cooler,people (L1 speakers),50,3,0.39129659049863247
+cooler,people (L1 speakers),51,4,0.6789412208628114
+cooler,people (L1 speakers),52,5,0.5670704583130529
+cooler,people (L1 speakers),53,6,0.7597067026908865
+cooler,people (L1 speakers),54,1,0.7497103452022472
+cooler,people (L1 speakers),55,2,0.27140054257042334
+cooler,people (L1 speakers),56,3,0.37624726338320547
+cooler,people (L1 speakers),57,4,0.6428068399958626
+cooler,people (L1 speakers),58,5,0.5464207252371668
+cooler,people (L1 speakers),59,6,0.7438872160636228
+cooler,non-institutional languages,0,1,0.6237421984130844
+cooler,non-institutional languages,1,2,0.22503481534444442
+cooler,non-institutional languages,2,3,0.3366133424967591
+cooler,non-institutional languages,3,4,0.8061952494643404
+cooler,non-institutional languages,4,5,0.6996409797210094
+cooler,non-institutional languages,5,6,0.9283316148543386
+cooler,non-institutional languages,6,1,0.7030219524319152
+cooler,non-institutional languages,7,2,0.1916616015781518
+cooler,non-institutional languages,8,3,0.2981423135251138
+cooler,non-institutional languages,9,4,0.7453157936937634
+cooler,non-institutional languages,10,5,0.7430312577324254
+cooler,non-institutional languages,11,6,0.9105252584157705
+cooler,non-institutional languages,12,1,0.377311350671606
+cooler,non-institutional languages,13,2,0.14395182192320002
+cooler,non-institutional languages,14,3,0.3573653899944188
+cooler,non-institutional languages,15,4,0.8245119409588901
+cooler,non-institutional languages,16,5,0.6812033691873279
+cooler,non-institutional languages,17,6,0.9316490207038269
+cooler,non-institutional languages,18,1,0.5156082179661862
+cooler,non-institutional languages,19,2,0.24825685898947245
+cooler,non-institutional languages,20,3,0.4080445521249957
+cooler,non-institutional languages,21,4,0.8474956990306858
+cooler,non-institutional languages,22,5,0.6909312786394566
+cooler,non-institutional languages,23,6,0.919341103843755
+cooler,non-institutional languages,24,1,0.5472943654939098
+cooler,non-institutional languages,25,2,0.21805888634206935
+cooler,non-institutional languages,26,3,0.25980520128155976
+cooler,non-institutional languages,27,4,0.8011971175798991
+cooler,non-institutional languages,28,5,0.7349011455758676
+cooler,non-institutional languages,29,6,0.8177896602540924
+cooler,non-institutional languages,30,1,0.6386129779202515
+cooler,non-institutional languages,31,2,0.20412011382111103
+cooler,non-institutional languages,32,3,0.3339523139567847
+cooler,non-institutional languages,33,4,0.8420756841370343
+cooler,non-institutional languages,34,5,0.564552593689335
+cooler,non-institutional languages,35,6,0.8317192819625605
+cooler,non-institutional languages,36,1,0.6297112393298169
+cooler,non-institutional languages,37,2,0.2365787778043145
+cooler,non-institutional languages,38,3,0.3740852081998409
+cooler,non-institutional languages,39,4,0.8471864264360571
+cooler,non-institutional languages,40,5,0.7422356116426285
+cooler,non-institutional languages,41,6,0.8110421820289556
+cooler,non-institutional languages,42,1,0.7071542702461843
+cooler,non-institutional languages,43,2,0.231194525541434
+cooler,non-institutional languages,44,3,0.3324352481802635
+cooler,non-institutional languages,45,4,0.8292146741207657
+cooler,non-institutional languages,46,5,0.5333156034699109
+cooler,non-institutional languages,47,6,0.8738765322366261
+cooler,non-institutional languages,48,1,0.4722809263717338
+cooler,non-institutional languages,49,2,0.20440719593644538
+cooler,non-institutional languages,50,3,0.31990343802209315
+cooler,non-institutional languages,51,4,0.8291009219321167
+cooler,non-institutional languages,52,5,0.7238802114832162
+cooler,non-institutional languages,53,6,0.9285201130045146
+cooler,non-institutional languages,54,1,0.6718732137246702
+cooler,non-institutional languages,55,2,0.24823988000467462
+cooler,non-institutional languages,56,3,0.3044666273707138
+cooler,non-institutional languages,57,4,0.7330098148210699
+cooler,non-institutional languages,58,5,0.6645579195221205
+cooler,non-institutional languages,59,6,0.9021055600588025
+cooler,institutional languages,0,1,0.6297585205600031
+cooler,institutional languages,1,2,0.2631121466924264
+cooler,institutional languages,2,3,0.402843735753023
+cooler,institutional languages,3,4,0.7448812809920835
+cooler,institutional languages,4,5,0.6386132230433464
+cooler,institutional languages,5,6,0.840926081826766
+cooler,institutional languages,6,1,0.6891073711820019
+cooler,institutional languages,7,2,0.22596068729265936
+cooler,institutional languages,8,3,0.3616952222708017
+cooler,institutional languages,9,4,0.6944270187896603
+cooler,institutional languages,10,5,0.6804951476599042
+cooler,institutional languages,11,6,0.8305538514153875
+cooler,institutional languages,12,1,0.43660682687242164
+cooler,institutional languages,13,2,0.1906545032601015
+cooler,institutional languages,14,3,0.4223535453725801
+cooler,institutional languages,15,4,0.7572854397110115
+cooler,institutional languages,16,5,0.6304090897004901
+cooler,institutional languages,17,6,0.8501053884675542
+cooler,institutional languages,18,1,0.5429435682369043
+cooler,institutional languages,19,2,0.2838588346764739
+cooler,institutional languages,20,3,0.47397821464651024
+cooler,institutional languages,21,4,0.7785258024130781
+cooler,institutional languages,22,5,0.6349194940720523
+cooler,institutional languages,23,6,0.8360448213673514
+cooler,institutional languages,24,1,0.5694408221315796
+cooler,institutional languages,25,2,0.25312537289622955
+cooler,institutional languages,26,3,0.3227098233333235
+cooler,institutional languages,27,4,0.7412093495903986
+cooler,institutional languages,28,5,0.6696996173746941
+cooler,institutional languages,29,6,0.7615801950447937
+cooler,institutional languages,30,1,0.6401752550226639
+cooler,institutional languages,31,2,0.23535951364158092
+cooler,institutional languages,32,3,0.40109553171165624
+cooler,institutional languages,33,4,0.7732015214451574
+cooler,institutional languages,34,5,0.5489044675915805
+cooler,institutional languages,35,6,0.769767734081574
+cooler,institutional languages,36,1,0.6346462126936604
+cooler,institutional languages,37,2,0.2725358136831901
+cooler,institutional languages,38,3,0.44188210811529266
+cooler,institutional languages,39,4,0.777908225614212
+cooler,institutional languages,40,5,0.6771767401280053
+cooler,institutional languages,41,6,0.756666218453272
+cooler,institutional languages,42,1,0.6901797428336083
+cooler,institutional languages,43,2,0.2691903021600453
+cooler,institutional languages,44,3,0.3978322015537266
+cooler,institutional languages,45,4,0.7615505149723045
+cooler,institutional languages,46,5,0.5373141808511677
+cooler,institutional languages,47,6,0.7983174901067464
+cooler,institutional languages,48,1,0.5140066279757235
+cooler,institutional languages,49,2,0.23636393447616008
+cooler,institutional languages,50,3,0.38224924686230927
+cooler,institutional languages,51,4,0.7611280668349397
+cooler,institutional languages,52,5,0.6582093432651883
+cooler,institutional languages,53,6,0.8424161205791528
+cooler,institutional languages,54,1,0.6627153532091323
+cooler,institutional languages,55,2,0.28381848758216555
+cooler,institutional languages,56,3,0.36995695135933643
+cooler,institutional languages,57,4,0.6876080044661972
+cooler,institutional languages,58,5,0.6183115968864625
+cooler,institutional languages,59,6,0.8217329298434619
+cooler,linguistic diversity hotspots,0,1,0.6403381636407774
+cooler,linguistic diversity hotspots,1,2,0.26740294270286524
+cooler,linguistic diversity hotspots,2,3,0.37851771752463564
+cooler,linguistic diversity hotspots,3,4,0.8561593167803203
+cooler,linguistic diversity hotspots,4,5,0.8238274369222471
+cooler,linguistic diversity hotspots,5,6,0.9773138949903817
+cooler,linguistic diversity hotspots,6,1,0.7430232208155485
+cooler,linguistic diversity hotspots,7,2,0.21824993665279174
+cooler,linguistic diversity hotspots,8,3,0.3467882066212527
+cooler,linguistic diversity hotspots,9,4,0.7661878646335492
+cooler,linguistic diversity hotspots,10,5,0.8626969022582205
+cooler,linguistic diversity hotspots,11,6,0.9521182991564379
+cooler,linguistic diversity hotspots,12,1,0.35407470364791027
+cooler,linguistic diversity hotspots,13,2,0.1506661520725148
+cooler,linguistic diversity hotspots,14,3,0.4047243472684294
+cooler,linguistic diversity hotspots,15,4,0.8853187413928185
+cooler,linguistic diversity hotspots,16,5,0.801124012559972
+cooler,linguistic diversity hotspots,17,6,0.9773138949903817
+cooler,linguistic diversity hotspots,18,1,0.512274188337632
+cooler,linguistic diversity hotspots,19,2,0.3006678618122106
+cooler,linguistic diversity hotspots,20,3,0.4486449611903652
+cooler,linguistic diversity hotspots,21,4,0.9157957093228644
+cooler,linguistic diversity hotspots,22,5,0.8144432456832925
+cooler,linguistic diversity hotspots,23,6,0.9627629372168778
+cooler,linguistic diversity hotspots,24,1,0.5493212049330486
+cooler,linguistic diversity hotspots,25,2,0.2604159979535453
+cooler,linguistic diversity hotspots,26,3,0.296670282882341
+cooler,linguistic diversity hotspots,27,4,0.8485731876342317
+cooler,linguistic diversity hotspots,28,5,0.8595036701422174
+cooler,linguistic diversity hotspots,29,6,0.8108017392776286
+cooler,linguistic diversity hotspots,30,1,0.6612218073752358
+cooler,linguistic diversity hotspots,31,2,0.23969842809162617
+cooler,linguistic diversity hotspots,32,3,0.3770011962477488
+cooler,linguistic diversity hotspots,33,4,0.9110241122345243
+cooler,linguistic diversity hotspots,34,5,0.6440643507688192
+cooler,linguistic diversity hotspots,35,6,0.8315414550645047
+cooler,linguistic diversity hotspots,36,1,0.6513452004198685
+cooler,linguistic diversity hotspots,37,2,0.2849890864653684
+cooler,linguistic diversity hotspots,38,3,0.42135259313818657
+cooler,linguistic diversity hotspots,39,4,0.9157957093228644
+cooler,linguistic diversity hotspots,40,5,0.8626969022582205
+cooler,linguistic diversity hotspots,41,6,0.8030571687227136
+cooler,linguistic diversity hotspots,42,1,0.7500239065425909
+cooler,linguistic diversity hotspots,43,2,0.27757782414610555
+cooler,linguistic diversity hotspots,44,3,0.3770011962477488
+cooler,linguistic diversity hotspots,45,4,0.8899753368220744
+cooler,linguistic diversity hotspots,46,5,0.5968712719927286
+cooler,linguistic diversity hotspots,47,6,0.8979103749126043
+cooler,linguistic diversity hotspots,48,1,0.46368936729363813
+cooler,linguistic diversity hotspots,49,2,0.23969842809162617
+cooler,linguistic diversity hotspots,50,3,0.3704334358033845
+cooler,linguistic diversity hotspots,51,4,0.8899753368220744
+cooler,linguistic diversity hotspots,52,5,0.8511814145203975
+cooler,linguistic diversity hotspots,53,6,0.9773138949903817
+cooler,linguistic diversity hotspots,54,1,0.7035818470214295
+cooler,linguistic diversity hotspots,55,2,0.3006678618122106
+cooler,linguistic diversity hotspots,56,3,0.3510666831189149
+cooler,linguistic diversity hotspots,57,4,0.7502156729276263
+cooler,linguistic diversity hotspots,58,5,0.7786479661142021
+cooler,linguistic diversity hotspots,59,6,0.9385380520799839
+cooler,language lineages,0,1,0.5682622475261443
+cooler,language lineages,1,2,0.2609776887085713
+cooler,language lineages,2,3,0.30537141386018873
+cooler,language lineages,3,4,0.8349135623207427
+cooler,language lineages,4,5,0.6353403100391061
+cooler,language lineages,5,6,0.8688596278011544
+cooler,language lineages,6,1,0.6511325860189622
+cooler,language lineages,7,2,0.24046824334924974
+cooler,language lineages,8,3,0.27598524899782123
+cooler,language lineages,9,4,0.8061981098585731
+cooler,language lineages,10,5,0.6887882126766639
+cooler,language lineages,11,6,0.8623135620095678
+cooler,language lineages,12,1,0.3182403007261211
+cooler,language lineages,13,2,0.17435247274763324
+cooler,language lineages,14,3,0.31127937671982003
+cooler,language lineages,15,4,0.8502099108346584
+cooler,language lineages,16,5,0.6080377939702458
+cooler,language lineages,17,6,0.8709630167416968
+cooler,language lineages,18,1,0.4507511708724539
+cooler,language lineages,19,2,0.28014101320834056
+cooler,language lineages,20,3,0.3406790205102392
+cooler,language lineages,21,4,0.8572144976744183
+cooler,language lineages,22,5,0.6189335825667703
+cooler,language lineages,23,6,0.8681897988012633
+cooler,language lineages,24,1,0.4829476195925547
+cooler,language lineages,25,2,0.2532915426916285
+cooler,language lineages,26,3,0.2524942564186
+cooler,language lineages,27,4,0.8337951913993332
+cooler,language lineages,28,5,0.6843906414352823
+cooler,language lineages,29,6,0.787994575685014
+cooler,language lineages,30,1,0.5800210192980279
+cooler,language lineages,31,2,0.24380550736803924
+cooler,language lineages,32,3,0.304635550941926
+cooler,language lineages,33,4,0.8543126152957543
+cooler,language lineages,34,5,0.42885812483417995
+cooler,language lineages,35,6,0.8166263379836127
+cooler,language lineages,36,1,0.5722108720207083
+cooler,language lineages,37,2,0.2711106709317246
+cooler,language lineages,38,3,0.3171442835605741
+cooler,language lineages,39,4,0.8570263127128503
+cooler,language lineages,40,5,0.6881794768585139
+cooler,language lineages,41,6,0.7746944969612876
+cooler,language lineages,42,1,0.6697464051485824
+cooler,language lineages,43,2,0.2637254274554656
+cooler,language lineages,44,3,0.30334277052543007
+cooler,language lineages,45,4,0.8522820110241435
+cooler,language lineages,46,5,0.37147838086787655
+cooler,language lineages,47,6,0.8483373618158245
+cooler,language lineages,48,1,0.4223769147060952
+cooler,language lineages,49,2,0.24413014382634365
+cooler,language lineages,50,3,0.2943460971640255
+cooler,language lineages,51,4,0.8521666894151145
+cooler,language lineages,52,5,0.672713716775639
+cooler,language lineages,53,6,0.8689547686805235
+cooler,language lineages,54,1,0.6182661331181936
+cooler,language lineages,55,2,0.2800480862612758
+cooler,language lineages,56,3,0.28291662409346424
+cooler,language lineages,57,4,0.7923669012722382
+cooler,language lineages,58,5,0.5712317131092308
+cooler,language lineages,59,6,0.8578878667489298

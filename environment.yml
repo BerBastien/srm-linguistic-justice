@@ -1,0 +1,21 @@
+name: srm-linguistic-justice
+channels: [conda-forge]
+dependencies:
+  - python=3.13
+  - numpy=2.5
+  - pandas=3.0
+  - scipy=1.18
+  - h5py
+  - pyarrow
+  - pyyaml
+  - geopandas=1.2
+  - shapely=2.2
+  - pyogrio
+  - pyproj
+  - rasterio
+  - matplotlib
+  - pillow
+  - pytest
+  - pip
+  - pip:
+      - exactextract==0.3.0
